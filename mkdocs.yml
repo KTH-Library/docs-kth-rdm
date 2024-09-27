@@ -1,0 +1,50 @@
+site_name: KTH Date Repository Guides
+site_url: https://docs.datarepository.kth.se
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  font:
+    text: Figtree
+  logo: assets/images/kth-logo.svg
+  favicon: assets/images/favicon.ico
+
+  palette:
+    - scheme: slate
+      primary: custom
+    # dark theme
+      toggle:
+        icon: material/brightness-7
+        name: Dark mode
+      accent: pink
+
+    # light theme
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Light mode
+      primary: custom
+      accent: pink
+
+markdown_extensions:
+# https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+# Footer
+
+extra:
+  generator: false
+  social:
+    - icon: simple/github
+      link: https://github.com/kth
+copyright: '© 2024 KTH Royal Institute of Technology'
