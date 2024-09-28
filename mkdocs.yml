@@ -50,10 +50,19 @@ extra:
       link: https://github.com/kth
 copyright: '© 2024 KTH Royal Institute of Technology'
 
+nav:
+  # When updating the nav, remember to update the i18n plugin as well
+  - Home: index.md
+  - Topic1: topic1/index.md
+
 plugins:
+  - search:
+      lang: en
   # https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/
   # https://github.com/squidfunk/mkdocs-material/discussions/2346
   - i18n:
+      # https://ultrabug.github.io/mkdocs-static-i18n/setup/setting-up-search/
+      reconfigure_search: true
       docs_structure: suffix
       languages:
         - locale: en
@@ -63,5 +72,9 @@ plugins:
         - locale: sv
           name: Svenska
           build: true
-  - search:
-      lang: en
+
+          # Nav Translations
+          # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
+          nav:
+            - Hem: index.sv.md
+            - Ämne1: topic1/index.sv.md
