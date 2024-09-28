@@ -48,3 +48,18 @@ extra:
     - icon: simple/github
       link: https://github.com/kth
 copyright: '© 2024 KTH Royal Institute of Technology'
+
+plugins:
+  # https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/
+  # https://github.com/squidfunk/mkdocs-material/discussions/2346
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: sv
+          name: Svenska
+          build: true
+  - search
