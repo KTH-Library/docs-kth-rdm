@@ -1,6 +1,8 @@
 site_name: KTH Date Repository Guides
 site_url: https://samk13.github.io/docs-kth-rdm
 repo_url: https://github.com/Samk13/docs-kth-rdm
+copyright: '© 2024 KTH Royal Institute of Technology'
+
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -31,19 +33,19 @@ theme:
 
 markdown_extensions:
 # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - admonition
   - pymdownx.details
   - attr_list
   - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 # Footer
 
@@ -52,7 +54,6 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/kth
-copyright: '© 2024 KTH Royal Institute of Technology'
 
 nav:
   # When updating the nav, remember to update the i18n plugin as well
