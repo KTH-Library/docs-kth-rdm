@@ -42,6 +42,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - attr_list
+  - md_in_html
 
 # Footer
 
