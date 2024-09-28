@@ -1,28 +1,66 @@
-# Välkommen till KTH Data Repository Guider
+# Välkommen till KTH Data Repository Guide
 
-## Admonitions
+## Dokumentation
 
-Exempel på en antecknings-admonition:
+<div class="grid cards" markdown>
 
-!!! note "Detta är en antecknings-admonition."
-    Detta är en antecknings-admonition. Den kan användas för att lyfta fram viktig information.
+- ## Kom igång
 
-Varningsexempel:
+    - [Snabbstart](#)
+    - [Skapa ett konto](#)
+    - [Logga in och logga ut](#)
+    - [Navigera i Dataarkivet](#)
 
-!!! warning "Detta är en varnings-admonition."
-    Detta är en varnings-admonition. Den kan användas för att lyfta fram viktig information.
+- ## Insättning
 
-Faroexempel:
+    - [Om poster](#)
+    - [Skapa ny uppladdning](#)
+    - [Beskriv poster](#)
+    - [Hantera filer](#)
+    - [Hantera poster](#)
+    - [Hantera versioner](#)
 
-!!! danger "Detta är en fara-admonition."
-    Detta är en fara-admonition. Den kan användas för att lyfta fram viktig information.
+- ## Samarbeta och dela
 
-Tips-exempel:
+    - [Om samarbete och delning](#)
+    - [Användardelning](#)
+    - [Länkdelning](#)
+    - [Åtkomstförfrågningar](#)
+    - [Skicka in för granskning](#)
+    - [Skicka till community](#)
+    - [Hantera dina inskick](#)
+    - [Medlemsinbjudningar](#)
 
-!!! tip "Detta är en tips-admonition."
-    Detta är en tips-admonition. Den kan användas för att lyfta fram viktig information.
+- ## Communities
 
-Du kan också kollapsa admonitions:
+    - [Om communities](#)
+    - [Skapa nytt community](#)
+    - [Visa mina communities](#)
+    - [Hantera community-inställningar](#)
+    - [Hantera medlemmar](#)
+    - [Granska inskick](#)
+    - [Kuratera poster](#)
 
-??? note "Detta är en antecknings-admonition."
-    Detta är en antecknings-admonition. Den kan användas för att lyfta fram viktig information.
+- ## Profil
+
+    - [Redigera profil](#)
+    - [Byt lösenord](#)
+    - [Återställ lösenord](#)
+    - [Ändra profilens synlighet](#)
+    - [Länka ditt GitHub/ORCID/OpenAIRE-konto](#)
+    - [Hantera notisinställningar](#)
+    - [Visa inloggade enheter](#)
+
+- ## Om
+
+    - [Vad är nytt?](#)
+    - [Vad har ändrats?](#)
+
+- ## Instruktioner
+
+    - [Konton](#)
+</div>
+
+---
+
+Hittade du inte svaret på din fråga? [Kontakta oss](https://www.kth.se/om/fakta).
