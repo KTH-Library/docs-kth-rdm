@@ -1,7 +1,8 @@
+<!-- markdownlint-disable MD007 -->
+
 # Welcome KTH Data Repository Guide
 
 ## Docs
-
 
 <div class="grid cards" markdown>
 
@@ -60,16 +61,14 @@
 - ## How-tos
 
     - [Accounts](#)
-</div>
 
+</div>
 
 ---
 
 Couldn't find the answer to your question? [Contact us](https://www.kth.se/om/fakta).
 
-
 ### Markdown examples (to be removed)
-
 
 === "Python"
     ```py linenums="1" title="app.py" hl_lines="2-4"
@@ -117,7 +116,6 @@ tip example:
 
 !!! tip "This is a tip admonition."
     This is a tip admonition. It can be used to highlight important information.
-
 
 You can also collapse the admonitions:
 

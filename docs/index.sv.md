@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD007 -->
 # Välkommen till KTH Data Repository Guide
 
 ## Dokumentation
@@ -59,6 +60,7 @@
 - ## Instruktioner
 
     - [Konton](#)
+
 </div>
 
 ---
