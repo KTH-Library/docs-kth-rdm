@@ -9,6 +9,8 @@ theme:
     text: Figtree
   logo: assets/images/kth-logo.svg
   favicon: assets/images/favicon.ico
+  features:
+    - navigation.tabs
 
   palette:
     - scheme: slate
@@ -53,7 +55,16 @@ copyright: '© 2024 KTH Royal Institute of Technology'
 nav:
   # When updating the nav, remember to update the i18n plugin as well
   - Home: index.md
-  - Topic1: topic1/index.md
+  - Guides:
+      - Terms: terms.md
+      - Community Manager Responsibilities: community_manager_responsibilities.md
+      - Create Community: create_community.md
+      - GitHub Integration: github_integration.md
+      - How-To: how_to.md
+      - REST API Reference: rest_api_reference.md
+      - Restrict Record Access: restrict_record_access.md
+      - Share Record Access: share_record_access.md
+      - Upload Record: upload_record.md
 
 plugins:
   - search:
@@ -77,4 +88,14 @@ plugins:
           # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
           nav:
             - Hem: index.sv.md
-            - Ämne1: topic1/index.sv.md
+            - Guider:
+                - Villkor: terms.sv.md
+                - Ansvar för Community Manager: community_manager_responsibilities.sv.md
+                - Skapa Community: create_community.sv.md
+                - GitHub-integration: github_integration.sv.md
+                - Hur man gör: how_to.sv.md
+                - REST API Referens: rest_api_reference.sv.md
+                - Begränsa Poståtkomst: restrict_record_access.sv.md
+                - Dela Poståtkomst: share_record_access.sv.md
+                - Ladda upp Post: upload_record.sv.md
+
