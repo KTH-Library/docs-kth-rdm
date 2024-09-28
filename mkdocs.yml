@@ -1,5 +1,6 @@
 site_name: KTH Date Repository Guides
-site_url: https://docs.datarepository.kth.se
+site_url: https://samk13.github.io/docs-kth-rdm
+repo_url: https://github.com/Samk13/docs-kth-rdm
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -62,4 +63,5 @@ plugins:
         - locale: sv
           name: Svenska
           build: true
-  - search
+  - search:
+      lang: en
