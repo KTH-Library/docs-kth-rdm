@@ -55,20 +55,6 @@ extra:
     - icon: simple/github
       link: https://github.com/kth
 
-nav:
-  # When updating the nav, remember to update the i18n plugin as well
-  - Home: index.md
-  - Guides:
-      - Terms: terms.md
-      - Community Manager Responsibilities: community_manager_responsibilities.md
-      - Create Community: create_community.md
-      - GitHub Integration: github_integration.md
-      - How-To: how_to.md
-      - REST API Reference: rest_api_reference.md
-      - Restrict Record Access: restrict_record_access.md
-      - Share Record Access: share_record_access.md
-      - Upload Record: upload_record.md
-
 plugins:
   - search:
       lang: en
@@ -107,3 +93,16 @@ plugins:
                 - Dela Poståtkomst: share_record_access.sv.md
                 - Ladda upp Post: upload_record.sv.md
 
+nav:
+  # When updating the nav, remember to update the i18n plugin as well
+  - Home: index.md
+  - Guides:
+      - Terms: terms.md
+      - Community Manager Responsibilities: community_manager_responsibilities.md
+      - Create Community: create_community.md
+      - GitHub Integration: github_integration.md
+      - How-To: how_to.md
+      - REST API Reference: rest_api_reference.md
+      - Restrict Record Access: restrict_record_access.md
+      - Share Record Access: share_record_access.md
+      - Upload Record: upload_record.md
