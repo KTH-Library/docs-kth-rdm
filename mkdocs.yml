@@ -31,8 +31,8 @@ theme:
       primary: custom
       accent: pink
 
-markdown_extensions:
 # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/?h=code#configuration
+markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -48,7 +48,6 @@ markdown_extensions:
       alternate_style: true
 
 # Footer
-
 extra:
   generator: false
   social:
@@ -68,41 +67,27 @@ plugins:
   - i18n:
       # https://ultrabug.github.io/mkdocs-static-i18n/setup/setting-up-search/
       reconfigure_search: true
-      docs_structure: suffix
+      # Can be 'folder' or 'suffix' e.g index.sv.md
+      docs_structure: folder
       languages:
         - locale: en
           default: true
           name: English
           build: true
+
         - locale: sv
           name: Svenska
           build: true
-
           # Nav Translations
           # https://ultrabug.github.io/mkdocs-static-i18n/setup/localizing-navigation/
           nav:
-            - Hem: index.sv.md
+            - Hem: sv/index.md
             - Guider:
-                - Villkor: terms.sv.md
-                - Ansvar för Community Manager: community_manager_responsibilities.sv.md
-                - Skapa Community: create_community.sv.md
-                - GitHub-integration: github_integration.sv.md
-                - Hur man gör: how_to.sv.md
-                - REST API Referens: rest_api_reference.sv.md
-                - Begränsa Poståtkomst: restrict_record_access.sv.md
-                - Dela Poståtkomst: share_record_access.sv.md
-                - Ladda upp Post: upload_record.sv.md
+                - Villkor: sv/terms.md
+
 
 nav:
-  # When updating the nav, remember to update the i18n plugin as well
+  # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
   - Guides:
-      - Terms: terms.md
-      - Community Manager Responsibilities: community_manager_responsibilities.md
-      - Create Community: create_community.md
-      - GitHub Integration: github_integration.md
-      - How-To: how_to.md
-      - REST API Reference: rest_api_reference.md
-      - Restrict Record Access: restrict_record_access.md
-      - Share Record Access: share_record_access.md
-      - Upload Record: upload_record.md
+      - Terms: en/terms.md
