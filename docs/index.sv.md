@@ -1,7 +1,5 @@
 <!-- markdownlint-disable MD007 -->
-# Välkommen till KTH Data Repository Guide
-
-## Dokumentation
+# Dokumentation
 
 <div class="grid cards" markdown>
 
@@ -48,7 +46,7 @@
     - [Byt lösenord](#)
     - [Återställ lösenord](#)
     - [Ändra profilens synlighet](#)
-    - [Länka ditt GitHub/ORCID/OpenAIRE-konto](#)
+    - [Länka ditt GitHub/ORCID-konto](#)
     - [Hantera notisinställningar](#)
     - [Visa inloggade enheter](#)
 

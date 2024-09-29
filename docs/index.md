@@ -1,8 +1,6 @@
 <!-- markdownlint-disable MD007 -->
 
-# Welcome KTH Data Repository Guide
-
-## Docs
+# Documentation
 
 <div class="grid cards" markdown>
 
@@ -49,7 +47,7 @@
     - [Change password](#)
     - [Reset password](#)
     - [Change profile visibility](#)
-    - [Linking your GitHub/ORCID/OpenAIRE account](#)
+    - [Linking your GitHub/ORCID account](#)
     - [Manage notification preferences](#)
     - [View logged in devices](#)
 
