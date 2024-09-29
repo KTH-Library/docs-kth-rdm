@@ -72,6 +72,11 @@ nav:
 plugins:
   - search:
       lang: en
+      # https://squidfunk.github.io/mkdocs-material/plugins/search/#config.pipeline
+      pipeline:
+        - stemmer
+        - stopWordFilter
+        - trimmer
   # https://ultrabug.github.io/mkdocs-static-i18n/getting-started/quick-start/
   # https://github.com/squidfunk/mkdocs-material/discussions/2346
   - i18n:
