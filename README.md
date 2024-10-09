@@ -17,23 +17,23 @@ Create `docs/en/usage.md` for the English version.
 Create `docs/sv/usage.md` for the Swedish version.
 Update `mkdocs.yml`:
 
-  ```yaml
-  nav:
-    - Home: en/index.md
-    # add the new document here
-    - Usage: en/usage.md
-  # ...
-  # and for the Swedish version:
-  plugins:
-    - i18n:
-          - locale: sv
-            name: Svenska
-            build: true
-            nav:
-              - Hem: sv/index.md
-              # add the new document here
-              - Användning: sv/usage.md
-  ```
+```yaml
+nav:
+  - Home: index.md
+  # add the new document here
+  - Usage: usage.md
+# ...
+# and for the Swedish version:
+plugins:
+  - i18n:
+    - locale: sv
+      name: Svenska
+      build: true
+      nav:
+        - Hem: index.md
+        # add the new document here
+        - Användning: usage.md
+```
 
 This example add new `usage` page document to both the English and Swedish navigation sections in the mkdocs.yml configuration file.
 
