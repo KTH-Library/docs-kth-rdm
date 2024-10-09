@@ -85,6 +85,7 @@ plugins:
             - Guider:
                 - Villkor: terms.md
                 - Snabbstart: quick_start.md
+                - Skapa ett konto: create_account.md
                 
 
 
@@ -93,4 +94,5 @@ nav:
   - Home: index.md
   - Guides:
       - Terms: terms.md
-      - "Quick Start": quick_start.md
+      - Quick Start: quick_start.md
+      - Create an Account: create_account.md

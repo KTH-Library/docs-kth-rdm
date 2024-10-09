@@ -6,7 +6,7 @@
 - ## Kom igång
 
     - [Snabbstart](quick_start.md)
-    - [Skapa ett konto](#)
+    - [Skapa ett konto](create_account.md)
     - [Logga in och logga ut](#)
     - [Navigera i Dataarkivet](#)
 
