@@ -83,11 +83,14 @@ plugins:
           nav:
             - Hem: sv/index.md
             - Guider:
-                - Villkor: sv/terms.md
+                - Villkor: terms.md
+                - Snabbstart: quick_start.md
+                
 
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
   - Home: index.md
   - Guides:
-      - Terms: en/terms.md
+      - Terms: terms.md
+      - "Quick Start": quick_start.md

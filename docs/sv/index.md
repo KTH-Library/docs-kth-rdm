@@ -5,7 +5,7 @@
 
 - ## Kom igång
 
-    - [Snabbstart](#)
+    - [Snabbstart](quick_start.md)
     - [Skapa ett konto](#)
     - [Logga in och logga ut](#)
     - [Navigera i Dataarkivet](#)

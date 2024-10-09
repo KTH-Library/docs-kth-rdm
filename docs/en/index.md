@@ -5,7 +5,7 @@
 
 - ## Get started
 
-    - [Quick start](#)
+    - [Quick start](quick_start.md)
     - [Create an account](#)
     - [Logging in and logging out](#)
     - [Navigating Data repoistory](#)
