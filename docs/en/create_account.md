@@ -32,9 +32,9 @@ Congratulations! You have now signed up with your KTH account.
 
 Use your GitHub account to quickly create an account.
 
-1- Click the **"Log in"** button in the header.
-2- Click the **"Log in with GitHub"** button.
-3- You will be redirected to [https://github.com](https://github.com) and asked to sign in and authorize the KTH Data Repository application.
+1. Click the **"Log in"** button in the header.
+2. Click the **"Log in with GitHub"** button.
+3. You will be redirected to [https://github.com](https://github.com) and asked to sign in and authorize the KTH Data Repository application.
 
 Congratulations! You have now signed up with GitHub.
 
@@ -42,9 +42,9 @@ Congratulations! You have now signed up with GitHub.
 
 Use your ORCID account to quickly create an account.
 
-1- Click the **"Log in"** button in the header.
-2- Click the **"Log in with ORCID"** button.
-3- You will be redirected to [https://orcid.org](https://orcid.org) and asked to sign in.
-4- Finalize the sign-up by providing your email address and affiliations. A confirmation email will be sent to the provided email address. You MUST confirm your email to make your first upload.
+1. Click the **"Log in"** button in the header.
+2. Click the **"Log in with ORCID"** button.
+3. You will be redirected to [https://orcid.org](https://orcid.org) and asked to sign in.
+4. Finalize the sign-up by providing your email address and affiliations. A confirmation email will be sent to the provided email address. You MUST confirm your email to make your first upload.
 
 Congratulations! You have now signed up with ORCID.

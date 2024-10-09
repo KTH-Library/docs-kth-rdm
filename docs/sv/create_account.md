@@ -32,9 +32,9 @@ Grattis! Du har nu registrerat dig med ditt KTH-konto.
 
 Använd ditt GitHub-konto för att snabbt skapa ett konto.
 
-1- Klicka på den **"Logga in"**-knappen i sidhuvudet.
-2- Klicka på **"Logga in med GitHub"**-knappen.
-3- Du kommer att omdirigeras till [https://github.com](https://github.com) och uppmanas att logga in och godkänna KTH Data Repository-applikationen.
+1. Klicka på den **"Logga in"**-knappen i sidhuvudet.
+2. Klicka på **"Logga in med GitHub"**-knappen.
+3. Du kommer att omdirigeras till [https://github.com](https://github.com) och uppmanas att logga in och godkänna KTH Data Repository-applikationen.
 
 Grattis! Du har nu registrerat dig med GitHub.
 
@@ -42,9 +42,9 @@ Grattis! Du har nu registrerat dig med GitHub.
 
 Använd ditt ORCID-konto för att snabbt skapa ett konto.
 
-1- Klicka på **"Logga in"**-knappen i sidhuvudet.
-2- Klicka på **"Logga in med ORCID"**-knappen.
-3- Du kommer att omdirigeras till [https://orcid.org](https://orcid.org) och uppmanas att logga in.
-4- Slutför registreringen genom att ange din e-postadress och dina affilieringar. Ett bekräftelsemejl skickas till den angivna e-postadressen. Du MÅSTE bekräfta din e-postadress för att kunna göra din första uppladdning.
+1. Klicka på **"Logga in"**-knappen i sidhuvudet.
+2. Klicka på **"Logga in med ORCID"**-knappen.
+3. Du kommer att omdirigeras till [https://orcid.org](https://orcid.org) och uppmanas att logga in.
+4. Slutför registreringen genom att ange din e-postadress och dina affilieringar. Ett bekräftelsemejl skickas till den angivna e-postadressen. Du MÅSTE bekräfta din e-postadress för att kunna göra din första uppladdning.
 
 Grattis! Du har nu registrerat dig med ORCID.
