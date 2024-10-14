@@ -7,7 +7,7 @@
 
     - [Quick start](quick_start.md)
     - [Create an account](create_account.md)
-    - [Logging in and logging out](#)
+    - [Logging in and logging out](login_logout.md)
     - [Navigating Data repoistory](#)
 
 - ## Deposit

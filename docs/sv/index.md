@@ -7,7 +7,7 @@
 
     - [Snabbstart](quick_start.md)
     - [Skapa ett konto](create_account.md)
-    - [Logga in och logga ut](#)
+    - [Logga in och logga ut](login_logout.md)
     - [Navigera i Dataarkivet](#)
 
 - ## Insättning
