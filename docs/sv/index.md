@@ -48,7 +48,7 @@
     - [Ändra profilens synlighet](#)
     - [Länka ditt GitHub/ORCID-konto](#)
     - [Hantera notisinställningar](#)
-    - [Visa inloggade enheter](#)
+    - [Visa inloggade enheter](viewing-devices.md)
 
 - ## Om
 

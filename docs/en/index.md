@@ -48,7 +48,7 @@
     - [Change profile visibility](#)
     - [Linking your GitHub/ORCID account](#)
     - [Manage notification preferences](#)
-    - [View logged in devices](#)
+    - [View logged in devices](viewing-devices.md)
 
 - ## About
 
