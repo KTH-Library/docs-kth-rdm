@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/terms/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/terms/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/terms/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/create_account/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/terms/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/terms/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/</loc>
+        <lastmod>2024-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/"/>
+    </url>
+</urlset>
