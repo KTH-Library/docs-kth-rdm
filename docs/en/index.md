@@ -8,7 +8,7 @@
     - [Quick start](get_started/quick_start.md)
     - [Create an account](get_started/create_account.md)
     - [Logging in and logging out](get_started/login_logout.md)
-    - [Navigating Data repoistory](#)
+    - [Navigating KTH Data repoistory](get_started/navigating_site.md)
 
 - ## Deposit
 

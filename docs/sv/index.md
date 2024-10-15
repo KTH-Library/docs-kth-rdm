@@ -8,7 +8,7 @@
     - [Snabbstart](get_started/quick_start.md)
     - [Skapa ett konto](get_started/create_account.md)
     - [Logga in och logga ut](get_started/login_logout.md)
-    - [Navigera i Dataarkivet](#)
+    - [Navigera i KTH Data Repository](get_started/navigating_site.md)
 
 - ## Insättning
 

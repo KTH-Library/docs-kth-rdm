@@ -88,6 +88,7 @@ plugins:
                 - Skapa ett konto: get_started/create_account.md
                 - Logga in och logga ut: get_started/login_logout.md
                 - Visa inloggade enheter: get_started/viewing-devices.md
+                - Navigera i KTH Data Repository: get_started/navigating_site.md
 
 
 nav:
@@ -99,3 +100,4 @@ nav:
       - Create an Account: get_started/create_account.md
       - Logging in and Logging out: get_started/login_logout.md
       - View Logged in Devices: get_started/viewing-devices.md
+      - Navigating the KTH Data Repository: get_started/navigating_site.md
