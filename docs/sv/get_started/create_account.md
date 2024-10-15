@@ -9,18 +9,18 @@ Använd ditt KTH-konto för att skapa ett konto och få smidig åtkomst.
 1- Klicka på den **"Logga in"**-knappen i sidhuvudet.
 
 <figure markdown="span">
-    ![login button](../assets/images/en/login_btn.png){ loading=lazy, width="200" }
+    ![login button](assets/images/login_btn.png){ loading=lazy, width="200" }
   <figcaption>Logga in knappen</figcaption>
 </figure>
 
 !!! note
     Om din skärm är för liten kan du behöva klicka på hamburgermenyn i det övre högra hörnet för att visa inloggningsknappen.
-    ![hamburger menu](assets/images/en/hamburger_menu.png){ loading=lazy, width="50", align=center }
+    ![hamburger menu](assets/images/hamburger_menu.png){ loading=lazy, width="50", align=center }
 
 2- Klicka på **"Logga in med KTH SSO"**-knappen.
 
 <figure markdown="span">
-    ![alt text](assets/images/en/login_to_account.png){ loading=lazy, width="500" }
+    ![alt text](assets/images/login_to_account.png){ loading=lazy, width="500" }
   <figcaption>Logga in sidan</figcaption>
 </figure>
 

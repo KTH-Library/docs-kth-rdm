@@ -9,18 +9,18 @@ Use your KTH account to create an account for seamless access.
 1- Click the **"Log in"** button in the header.
 
 <figure markdown="span">
-    ![login button](../assets/images/en/login_btn.png){ loading=lazy, width="200" }
+    ![login button](assets/images/login_btn.png){ loading=lazy, width="200" }
   <figcaption>Login button</figcaption>
 </figure>
 
 !!! note
     If your screen is too small, you may need to click the hamburger menu in the top right corner to reveal the login button.
-    ![hamburger menu](assets/images/en/hamburger_menu.png){ loading=lazy, width="50", align=center }
+    ![hamburger menu](assets/images/hamburger_menu.png){ loading=lazy, width="50", align=center }
 
 2- Click the **"Log in with KTH SSO"** button.
 
 <figure markdown="span">
-    ![alt text](assets/images/en/login_to_account.png){ loading=lazy, width="500" }
+    ![alt text](assets/images/login_to_account.png){ loading=lazy, width="500" }
   <figcaption>Login page</figcaption>
 </figure>
 

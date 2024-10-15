@@ -5,9 +5,9 @@
 
 - ## Kom igång
 
-    - [Snabbstart](quick_start.md)
-    - [Skapa ett konto](create_account.md)
-    - [Logga in och logga ut](login_logout.md)
+    - [Snabbstart](get_started/quick_start.md)
+    - [Skapa ett konto](get_started/create_account.md)
+    - [Logga in och logga ut](get_started/login_logout.md)
     - [Navigera i Dataarkivet](#)
 
 - ## Insättning
@@ -48,7 +48,7 @@
     - [Ändra profilens synlighet](#)
     - [Länka ditt GitHub/ORCID-konto](#)
     - [Hantera notisinställningar](#)
-    - [Visa inloggade enheter](viewing-devices.md)
+    - [Visa inloggade enheter](get_started/viewing-devices.md)
 
 - ## Om
 

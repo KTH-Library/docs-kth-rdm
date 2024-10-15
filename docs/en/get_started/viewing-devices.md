@@ -17,12 +17,12 @@ In the following section, you can learn:
 1. Click the profile menu in the header and select **Security**.
 
 <figure markdown="span">
-    ![security menu](assets/images/en/menu_security.png){ loading=lazy, width="400" }
+    ![security menu](assets/images/menu_security.png){ loading=lazy, width="400" }
   <figcaption>Security menu</figcaption>
 </figure>
 2. Under **Sessions**, you will see all devices logged into your account, including their IP address, date of login, and browser. Your current device is marked with a green dot, and the button says **Logout**.
 <figure markdown="span">
-    ![security menu](assets/images/en/sessions_logout.png){ loading=lazy, width="700" }
+    ![security menu](assets/images/sessions_logout.png){ loading=lazy, width="700" }
   <figcaption>Sessions</figcaption>
 </figure>
 

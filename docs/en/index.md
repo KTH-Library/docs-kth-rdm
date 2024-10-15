@@ -5,9 +5,9 @@
 
 - ## Get started
 
-    - [Quick start](quick_start.md)
-    - [Create an account](create_account.md)
-    - [Logging in and logging out](login_logout.md)
+    - [Quick start](get_started/quick_start.md)
+    - [Create an account](get_started/create_account.md)
+    - [Logging in and logging out](get_started/login_logout.md)
     - [Navigating Data repoistory](#)
 
 - ## Deposit
@@ -48,7 +48,7 @@
     - [Change profile visibility](#)
     - [Linking your GitHub/ORCID account](#)
     - [Manage notification preferences](#)
-    - [View logged in devices](viewing-devices.md)
+    - [View logged in devices](get_started/viewing-devices.md)
 
 - ## About
 

@@ -11,7 +11,7 @@
 1. Click the down-arrow button on your username in the header to open the drop-down menu.
 
 <figure markdown="span">
-    ![logout button](assets/images/en/logout_button.png){ loading=lazy, width="400" }
+    ![logout button](assets/images/logout_button.png){ loading=lazy, width="400" }
   <figcaption>Logout button</figcaption>
 </figure>
 2. Click **Log out** to log out of the KTH Data Repository.
