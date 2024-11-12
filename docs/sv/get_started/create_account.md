@@ -14,7 +14,7 @@ Använd ditt KTH-konto för att skapa ett konto och få smidig åtkomst.
 </figure>
 
 !!! note
-    Om din skärm är för liten kan du behöva klicka på hamburgarcmenyn i det övre högra hörnet för att visa inloggningsknappen.
+    Om din skärm är för liten kan du behöva klicka på hamburgarmenyn i det övre högra hörnet för att visa inloggningsknappen.
     ![hamburger menu](assets/images/hamburger_menu.png){ loading=lazy, width="50", align=center }
 
 2- Klicka på **"Logga in med KTH SSO"**-knappen.
