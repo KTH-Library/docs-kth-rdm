@@ -17,7 +17,7 @@ In the KTH Data Repository, a community is a curated space where users can gathe
 - **Read and Accept Community Manager Responsibilities**  
 
     !!! Note
-        Before proceeding, ensure that you have read and accepted the responsibilities associated with managing a community. As a community manager, you are responsible for the content, membership, and compliance of the community with repository policies.
+        Before proceeding, ensure that you have read and accepted the [responsibilities associated with managing a community](./community_manager_responsibilities.md). As a community manager, you are responsible for the content, membership, and compliance of the community with repository policies.
 
 - **Login to the KTH Data Repository**  
   Navigate to the login page and enter your credentials. Ensure you have the required permissions to create communities.

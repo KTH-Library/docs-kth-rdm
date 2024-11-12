@@ -17,7 +17,7 @@ I KTH Data Repository är en gemenskap ett kurerat utrymme där användare kan s
 - **Läs och acceptera ansvar som gemenskapens chef**  
 
     !!! Notera
-        Innan du fortsätter, se till att du har läst och accepterat ansvaret som följer med att vara gemenskapens chef. Som chef för en gemenskap ansvarar du för innehåll, medlemskap och att gemenskapen följer förvaret policyer.
+        Innan du fortsätter, se till att du har läst och accepterat [ansvaret som följer med att vara gemenskapens chef](./community_manager_responsibilities.md). Som chef för en gemenskap ansvarar du för innehåll, medlemskap och att gemenskapen följer förvaret policyer.
 
 - **Logga in på KTH Data Repository**  
   Navigera till inloggningssidan och ange dina inloggningsuppgifter. Se till att du har de nödvändiga behörigheterna för att skapa gemenskaper.

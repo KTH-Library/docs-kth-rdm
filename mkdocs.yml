@@ -93,6 +93,7 @@ plugins:
                 - Create New Upload: deposit/create_new_upload.md
             - Communities:
                 - Skapa Nytt Community: communities/create_new_community.md
+                - Community Manager Ansvar: communities/community_manager_responsibilities.md 
 
 
 nav:
@@ -109,3 +110,4 @@ nav:
       - Create New Upload: deposit/create_new_upload.md
   - Communities:
       - Create New Community: communities/create_new_community.md
+      - Community Manager Responsibilities: communities/community_manager_responsibilities.md
