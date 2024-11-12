@@ -33,7 +33,7 @@
 - ## Communities
 
     - [Om communities](#)
-    - [Skapa nytt community](#)
+    - [Skapa nytt community](communities/create_new_community.md)
     - [Visa mina communities](#)
     - [Hantera community-inställningar](#)
     - [Hantera medlemmar](#)

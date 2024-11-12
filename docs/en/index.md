@@ -33,7 +33,7 @@
 - ## Communities
 
     - [About communities](#)
-    - [Create new community](#)
+    - [Create new community](communities/create_new_community.md)
     - [View my communities](#)
     - [Manage community settings](#)
     - [Manage members](#)

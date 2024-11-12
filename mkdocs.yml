@@ -91,6 +91,8 @@ plugins:
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
                 - Create New Upload: deposit/create_new_upload.md
+            - Communities:
+                - Skapa Nytt Community: communities/create_new_community.md
 
 
 nav:
@@ -105,3 +107,5 @@ nav:
       - Navigating the KTH Data Repository: get_started/navigating_site.md
   - Deposit:
       - Create New Upload: deposit/create_new_upload.md
+  - Communities:
+      - Create New Community: communities/create_new_community.md
