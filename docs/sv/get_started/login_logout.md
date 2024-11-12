@@ -4,7 +4,7 @@
 
 1. Klicka på den vita **Logga in**-knappen i sidhuvudet.
 
-2. Välj din föredragna metod för att logga in beroende på hur du skapade ditt konto.
+2. Välj metoden du föredrar för att logga in beroende på hur du skapade ditt konto.
 
 ## Logga ut
 
