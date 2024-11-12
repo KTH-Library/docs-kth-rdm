@@ -13,7 +13,7 @@
 - ## Insättning
 
     - [Om poster](#)
-    - [Skapa ny uppladdning](#)
+    - [Skapa ny uppladdning](deposit/create_new_upload.md)
     - [Beskriv poster](#)
     - [Hantera filer](#)
     - [Hantera poster](#)
