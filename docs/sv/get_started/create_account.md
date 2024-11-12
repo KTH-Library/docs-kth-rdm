@@ -6,7 +6,7 @@ Du kan skapa ett konto på flera sätt. Om du redan har ett ORCID-, GitHub- elle
 
 Använd ditt KTH-konto för att skapa ett konto och få smidig åtkomst.
 
-1- Klicka på den **"Logga in"**-knappen i sidhuvudet.
+1- Klicka på **"Logga in"**-knappen i sidhuvudet.
 
 <figure markdown="span">
     ![login button](assets/images/login_btn.png){ loading=lazy, width="200" }
@@ -14,7 +14,7 @@ Använd ditt KTH-konto för att skapa ett konto och få smidig åtkomst.
 </figure>
 
 !!! note
-    Om din skärm är för liten kan du behöva klicka på hamburgermenyn i det övre högra hörnet för att visa inloggningsknappen.
+    Om din skärm är för liten kan du behöva klicka på hamburgarcmenyn i det övre högra hörnet för att visa inloggningsknappen.
     ![hamburger menu](assets/images/hamburger_menu.png){ loading=lazy, width="50", align=center }
 
 2- Klicka på **"Logga in med KTH SSO"**-knappen.

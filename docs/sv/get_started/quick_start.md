@@ -1,6 +1,6 @@
 # Snabbstart
 
-Vill du testa KTH:s dataarkiv? Använd vår [sandlådemiljö](https://invenio-dev.kth-prod-1.sys.kth.se){:target="_blank"} för att prova.
+Vill du testa KTH:s Data Repository? Använd vår [sandlådemiljö](https://invenio-dev.kth-prod-1.sys.kth.se){:target="_blank"} för att prova.
 
 KTH Data Repository gör det möjligt att dela och bevara dina digitala forskningsobjekt (publikationer, data, programvara, presentationer, etc.) i tre enkla steg:
 

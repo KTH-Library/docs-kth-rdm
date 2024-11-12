@@ -17,7 +17,7 @@ I följande avsnitt kan du lära dig:
 
 <figure markdown="span">
     ![security menu](assets/images/menu_security.png){ loading=lazy, width="400" }
-  <figcaption>Säkerhets meny</figcaption>
+  <figcaption>Säkerhetsmeny</figcaption>
 </figure>
 2. Under **Sessioner** ser du alla enheter som är inloggade på ditt konto, inklusive deras IP-adress, inloggningsdatum och webbläsare. Din nuvarande enhet är markerad med en grön prick, och knappen säger **Logga ut**.
 <figure markdown="span">

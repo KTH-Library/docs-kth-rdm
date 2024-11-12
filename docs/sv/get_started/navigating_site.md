@@ -2,7 +2,7 @@
 
 Följande avsnitt ger en grundläggande översikt över hur man navigerar i KTH Data Repositorys användargränssnitt.
 
-## Sidhuvud Innehåll
+## Sidhuvud - Innehåll
 
 - Sök
 - Instrumentpanel
@@ -14,15 +14,15 @@ Följande avsnitt ger en grundläggande översikt över hur man navigerar i KTH 
 
 Från sidhuvudet kan du:
 
-- **Sök**: Sök efter poster i hela KTH Data Repository. Sökfältet är kontextualiserat, så om du bläddrar i ett community kan du välja mellan att söka endast i communityn eller i hela KTH Data Repository.
+- **Sök**: Sök efter poster i hela KTH Data Repository. Sökfältet är kontextualiserat, så om du bläddrar i en community kan du välja mellan att söka endast i communityn eller i hela KTH Data Repository.
 
-- **Inkorgen**: Förfrågningsinkorgen ger snabb åtkomst till dina väntande förfrågningar, såsom utkastrecensioner, communityinclusioner, ägarbyten, filersättningar, etc.
+- **Inkorgen**: Förfrågningsinkorgen ger snabb åtkomst till dina väntande förfrågningar, såsom utkastrecensioner, communityinklusioner, ägarbyten, filersättningar, etc.
 
-- **Snabbåtgärder (+)**: Plus-menyn låter dig snabbt skapa nya uppladdningar eller nya communities. Menyn är kontextualiserad, så om du befinner dig i ett community kan du även bjuda in nya medlemmar.
+- **Snabbåtgärder (+)**: Plus-menyn låter dig snabbt skapa nya uppladdningar. Menyn är kontextualiserad, så om du befinner dig i ett community kan du även bjuda in nya medlemmar.
 
 - **Profil**: Profilmenyn låter dig hantera ditt konto och dina inställningar på KTH Data Repository, såsom att byta lösenord eller länka/avlänka ORCID/GitHub-konton.
 
-Varje av dessa sektioner beskrivs mer i detalj nedan.
+Var och en av dessa sektioner beskrivs i mer detalj nedan.
 
 ### Sök
 
@@ -34,7 +34,7 @@ Instrumentpanelen låter dig enkelt få åtkomst till och hantera ditt innehåll
 
 - **Mina uppladdningar**: Alla dina utkast och publicerade poster.
 - **Mina communities**: Alla dina communities som du äger eller är medlem i.
-- **Mina förfrågningar**: Alla öppna och stängda förfrågningar såsom utkastrecensioner, communityinclusioner, ägarbyten, etc. Detta inkluderar både förfrågningar skapade av dig eller som skickats till dig av andra användare.
+- **Mina förfrågningar**: Alla öppna och stängda förfrågningar såsom utkastrecensioner, communityinklusioner, ägarbyten, etc. Detta inkluderar både förfrågningar skapade av dig eller som skickats till dig av andra användare.
 
 ### Snabbåtgärder
 
@@ -44,7 +44,7 @@ Instrumentpanelen låter dig enkelt få åtkomst till och hantera ditt innehåll
 
 Profilmenyn låter dig hantera ditt konto och dina inställningar:
 
-- **Profil**: Ditt fullständiga namn, tillhörigheter, e-postadress samt profil-/e-postsynlighet.
+- **Profil**: Ditt fullständiga namn, affiliering, e-postadress samt profil-/e-postsynlighet.
 - **Byt lösenord**: Uppdatera ditt lösenord om du loggat in med ett lokalt konto.
 - **Aviseringar**: Ändra om du vill ta emot aviseringar från KTH Data Repository.
 - **Säkerhet**: Se alla enheter som är inloggade på ditt aktuella konto.
@@ -53,4 +53,4 @@ Profilmenyn låter dig hantera ditt konto och dina inställningar:
 
 ### Sidfot
 
-I sidfoten hittar du länkar till dokumentation om KTH Data Repository samt vår integritetspolicy, användarvillkor och ändra språket mellan engelska och svenska.
+I sidfoten hittar du länkar till dokumentation om KTH Data Repository samt vår integritetspolicy, användarvillkor och kan ändra språket mellan engelska och svenska.
