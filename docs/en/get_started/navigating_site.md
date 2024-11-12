@@ -20,7 +20,7 @@ From the header, you can:
 
 - **Inbox**: The request inbox provides quick access to view your pending requests such as draft reviews, community inclusion, ownership transfers, file replacements, etc.
 
-- **Quick actions (+)**: The plus menu allows you to quickly create new uploads or new communities. The menu is contextualized, so if you're in a community, it allows you to also invite new members.
+- **Quick actions (+)**: The plus menu allows you to quickly create new uploads.
 
 - **Profile**: The profile menu allows you to manage your account and settings on KTH Data Repository, such as changing your password or linking/unlinking ORCID/GitHub accounts.
 
