@@ -89,6 +89,8 @@ plugins:
                 - Logga in och logga ut: get_started/login_logout.md
                 - Visa inloggade enheter: get_started/viewing-devices.md
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
+            - Deponera data:
+                - Create New Upload: deposit/create_new_upload.md
 
 
 nav:
@@ -101,3 +103,5 @@ nav:
       - Logging in and Logging out: get_started/login_logout.md
       - View Logged in Devices: get_started/viewing-devices.md
       - Navigating the KTH Data Repository: get_started/navigating_site.md
+  - Deposit:
+      - Create New Upload: deposit/create_new_upload.md

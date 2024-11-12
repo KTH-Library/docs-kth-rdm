@@ -13,7 +13,7 @@
 - ## Deposit
 
     - [About records](#)
-    - [Create new upload](#)
+    - [Create new upload](deposit/create_new_upload.md)
     - [Describe records](#)
     - [Manage files](#)
     - [Manage records](#)

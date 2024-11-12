@@ -18,7 +18,8 @@ Från sidhuvudet kan du:
 
 - **Inkorgen**: Förfrågningsinkorgen ger snabb åtkomst till dina väntande förfrågningar, såsom utkastrecensioner, communityinklusioner, ägarbyten, filersättningar, etc.
 
-- **Snabbåtgärder (+)**: Plus-menyn låter dig snabbt skapa nya uppladdningar. Menyn är kontextualiserad, så om du befinner dig i ett community kan du även bjuda in nya medlemmar.
+
+- **Snabbåtgärder (+)**: Plus-menyn låter dig snabbt skapa nya uppladdningar.
 
 - **Profil**: Profilmenyn låter dig hantera ditt konto och dina inställningar på KTH Data Repository, såsom att byta lösenord eller länka/avlänka ORCID/GitHub-konton.
 
