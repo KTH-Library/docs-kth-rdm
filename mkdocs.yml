@@ -91,6 +91,7 @@ plugins:
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
                 - Create New Upload: deposit/create_new_upload.md
+                - Github Integration: deposit/github_integration.md
             - Communities:
                 - Skapa Nytt Community: communities/create_new_community.md
                 - Community Manager Ansvar: communities/community_manager_responsibilities.md 
@@ -108,6 +109,7 @@ nav:
       - Navigating the KTH Data Repository: get_started/navigating_site.md
   - Deposit:
       - Create New Upload: deposit/create_new_upload.md
+      - Github Integration: deposit/github_integration.md
   - Communities:
       - Create New Community: communities/create_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md

@@ -18,6 +18,7 @@
     - [Manage files](#)
     - [Manage records](#)
     - [Manage versions](#)
+    - [Github integration](deposit/github_integration.md)
 
 - ## Collaborate and share
 

@@ -18,6 +18,7 @@
     - [Hantera filer](#)
     - [Hantera poster](#)
     - [Hantera versioner](#)
+    - [Github-integration](deposit/github_integration.md)
 
 - ## Samarbeta och dela
 
