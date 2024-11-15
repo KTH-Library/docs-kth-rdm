@@ -90,7 +90,7 @@ plugins:
                 - Visa inloggade enheter: get_started/viewing-devices.md
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
-                - Create New Upload: deposit/create_new_upload.md
+                - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Github Integration: deposit/github_integration.md
             - Communities:
                 - Skapa Nytt Community: communities/create_new_community.md
