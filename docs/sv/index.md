@@ -17,6 +17,7 @@
     - [Beskriv poster](#)
     - [Hantera filer](#)
     - [Restricted records](deposit/restrict_record_access.md)
+    - [Share Record Access](deposit/share_record_access.md)
     - [Hantera poster](#)
     - [Hantera versioner](#)
     - [Github-integration](deposit/github_integration.md)

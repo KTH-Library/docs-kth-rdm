@@ -17,6 +17,7 @@
     - [Describe records](#)
     - [Manage files](#)
     - [Restricted records](deposit/restrict_record_access.md)
+    - [Share Record Access](deposit/share_record_access.md)
     - [Manage records](#)
     - [Manage versions](#)
     - [Github integration](deposit/github_integration.md)

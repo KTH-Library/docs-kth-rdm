@@ -92,6 +92,7 @@ plugins:
             - Deponera data:
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade Poster: deposit/restrict_record_access.md
+                - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
@@ -112,6 +113,7 @@ nav:
   - Deposit:
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
+      - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
   - Communities:
