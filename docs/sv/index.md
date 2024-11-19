@@ -34,7 +34,8 @@
 - ## Communities
 
     - [Om communities](#)
-    - [Skapa nytt community](#)
+    - [Community manager-ansvar](communities/community_manager_responsibilities.md)
+    - [Skapa nytt community](communities/create_new_community.md)
     - [Visa mina communities](#)
     - [Hantera community-inställningar](#)
     - [Hantera medlemmar](#)
