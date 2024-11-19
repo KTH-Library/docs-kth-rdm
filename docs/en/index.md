@@ -8,7 +8,7 @@
     - [Quick start](get_started/quick_start.md)
     - [Create an account](get_started/create_account.md)
     - [Logging in and logging out](get_started/login_logout.md)
-    - [Navigating KTH Data repoistory](get_started/navigating_site.md)
+    - [Navigating KTH Data repository](get_started/navigating_site.md)
 
 - ## Deposit
 
@@ -19,6 +19,7 @@
     - [Manage records](#)
     - [Manage versions](#)
     - [Github integration](deposit/github_integration.md)
+    - [REST API](deposit/rest_api.md)
 
 - ## Collaborate and share
 

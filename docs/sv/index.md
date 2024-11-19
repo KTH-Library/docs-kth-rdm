@@ -19,6 +19,7 @@
     - [Hantera poster](#)
     - [Hantera versioner](#)
     - [Github-integration](deposit/github_integration.md)
+    - [REST API](deposit/rest_api.md)
 
 - ## Samarbeta och dela
 
