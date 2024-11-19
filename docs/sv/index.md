@@ -16,6 +16,7 @@
     - [Skapa ny uppladdning](deposit/create_new_upload.md)
     - [Beskriv poster](#)
     - [Hantera filer](#)
+    - [Restricted records](deposit/restrict_record_access.md)
     - [Hantera poster](#)
     - [Hantera versioner](#)
     - [Github-integration](deposit/github_integration.md)

@@ -91,6 +91,7 @@ plugins:
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
                 - Skapa ny uppladdning: deposit/create_new_upload.md
+                - Begränsade Poster: deposit/restrict_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
@@ -110,6 +111,7 @@ nav:
       - Navigating the KTH Data Repository: get_started/navigating_site.md
   - Deposit:
       - Create New Upload: deposit/create_new_upload.md
+      - Restricted Records: deposit/restrict_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
   - Communities:

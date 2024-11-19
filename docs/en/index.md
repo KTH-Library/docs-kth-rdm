@@ -16,6 +16,7 @@
     - [Create new upload](deposit/create_new_upload.md)
     - [Describe records](#)
     - [Manage files](#)
+    - [Restricted records](deposit/restrict_record_access.md)
     - [Manage records](#)
     - [Manage versions](#)
     - [Github integration](deposit/github_integration.md)
