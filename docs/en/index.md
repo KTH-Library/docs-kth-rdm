@@ -8,58 +8,52 @@
     - [Quick start](get_started/quick_start.md)
     - [Create an account](get_started/create_account.md)
     - [Logging in and logging out](get_started/login_logout.md)
-    - [Navigating KTH Data repoistory](get_started/navigating_site.md)
+    - [Navigating KTH Data repository](get_started/navigating_site.md)
 
 - ## Deposit
 
-    - [About records](#)
+    - [About records (WIP)](#)
     - [Create new upload](deposit/create_new_upload.md)
-    - [Describe records](#)
-    - [Manage files](#)
-    - [Manage records](#)
-    - [Manage versions](#)
+    - [Describe records (WIP)](#)
+    - [Manage files (WIP)](#)
+    - [Restricted records](deposit/restrict_record_access.md)
+    - [Share Record Access](deposit/share_record_access.md)
+    - [Manage records (WIP)](#)
+    - [Manage versions (WIP)](#)
     - [Github integration](deposit/github_integration.md)
+    - [REST API](deposit/rest_api.md)
 
 - ## Collaborate and share
 
-    - [About collaboration and sharing](#)
-    - [User sharing](#)
-    - [Link sharing](#)
-    - [Access requests](#)
-    - [Submit for review](#)
-    - [Submit to community](#)
-    - [Manage your submissions](#)
-    - [Membership invitations](#)
+    - [About collaboration and sharing (WIP)](#)
+    - [User sharing (WIP)](#)
+    - [Link sharing (WIP)](#)
+    - [Access requests (WIP)](#)
+    - [Submit for review (WIP)](#)
+    - [Submit to community (WIP)](#)
+    - [Manage your submissions (WIP)](#)
+    - [Membership invitations (WIP)](#)
 
 - ## Communities
 
-    - [About communities](#)
+    - [About communities (WIP)](#)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
     - [Create new community](communities/create_new_community.md)
-    - [View my communities](#)
-    - [Manage community settings](#)
-    - [Manage members](#)
-    - [Review submissions](#)
-    - [Curate records](#)
+    - [View my communities (WIP)](#)
+    - [Manage community settings (WIP)](#)
+    - [Manage members (WIP)](#)
+    - [Review submissions (WIP)](#)
+    - [Curate records (WIP)](#)
 
 - ## Profile
 
-    - [Edit profile](#)
-    - [Change password](#)
-    - [Reset password](#)
-    - [Change profile visibility](#)
-    - [Linking your GitHub/ORCID account](#)
-    - [Manage notification preferences](#)
+    - [Edit profile (WIP)](#)
+    - [Change password (WIP)](#)
+    - [Reset password (WIP)](#)
+    - [Change profile visibility (WIP)](#)
+    - [Linking your GitHub/ORCID account (WIP)](#)
+    - [Manage notification preferences (WIP)](#)
     - [View logged in devices](get_started/viewing-devices.md)
-
-- ## About
-
-    - [What's new?](#)
-    - [What's changed?](#)
-
-- ## How-tos
-
-    - [Accounts](#)
 
 </div>
 

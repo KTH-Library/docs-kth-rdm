@@ -12,54 +12,48 @@
 
 - ## Insättning
 
-    - [Om poster](#)
+    - [Om poster (WIP)](#)
     - [Skapa ny uppladdning](deposit/create_new_upload.md)
-    - [Beskriv poster](#)
-    - [Hantera filer](#)
-    - [Hantera poster](#)
-    - [Hantera versioner](#)
+    - [Beskriv poster (WIP)](#)
+    - [Hantera filer (WIP)](#)
+    - [Restricted records](deposit/restrict_record_access.md)
+    - [Share Record Access](deposit/share_record_access.md)
+    - [Hantera poster (WIP)](#)
+    - [Hantera versioner (WIP)](#)
     - [Github-integration](deposit/github_integration.md)
+    - [REST API](deposit/rest_api.md)
 
 - ## Samarbeta och dela
 
-    - [Om samarbete och delning](#)
-    - [Användardelning](#)
-    - [Länkdelning](#)
-    - [Åtkomstförfrågningar](#)
-    - [Skicka in för granskning](#)
-    - [Skicka till community](#)
-    - [Hantera dina inskick](#)
-    - [Medlemsinbjudningar](#)
+    - [Om samarbete och delning (WIP)](#)
+    - [Användardelning (WIP)](#)
+    - [Länkdelning (WIP)](#)
+    - [Åtkomstförfrågningar (WIP)](#)
+    - [Skicka in för granskning (WIP)](#)
+    - [Skicka till community (WIP)](#)
+    - [Hantera dina inskick (WIP)](#)
+    - [Medlemsinbjudningar (WIP)](#)
 
 - ## Communities
 
-    - [Om communities](#)
+    - [Om communities (WIP)](#)
     - [Community manager-ansvar](communities/community_manager_responsibilities.md)
     - [Skapa nytt community](communities/create_new_community.md)
-    - [Visa mina communities](#)
-    - [Hantera community-inställningar](#)
-    - [Hantera medlemmar](#)
-    - [Granska inskick](#)
-    - [Kuratera poster](#)
+    - [Visa mina communities (WIP)](#)
+    - [Hantera community-inställningar (WIP)](#)
+    - [Hantera medlemmar (WIP)](#)
+    - [Granska inskick (WIP)](#)
+    - [Kuratera poster (WIP)](#)
 
 - ## Profil
 
-    - [Redigera profil](#)
-    - [Byt lösenord](#)
-    - [Återställ lösenord](#)
-    - [Ändra profilens synlighet](#)
-    - [Länka ditt GitHub/ORCID-konto](#)
-    - [Hantera notisinställningar](#)
+    - [Redigera profil (WIP)](#)
+    - [Byt lösenord (WIP)](#)
+    - [Återställ lösenord (WIP)](#)
+    - [Ändra profilens synlighet (WIP)](#)
+    - [Länka ditt GitHub/ORCID-konto (WIP)](#)
+    - [Hantera notisinställningar (WIP)](#)
     - [Visa inloggade enheter](get_started/viewing-devices.md)
-
-- ## Om
-
-    - [Vad är nytt?](#)
-    - [Vad har ändrats?](#)
-
-- ## Instruktioner
-
-    - [Konton](#)
 
 </div>
 
