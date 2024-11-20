@@ -1,6 +1,6 @@
 # Authentication
 
-The REST API calls for KTH Datarepository require authentication. The currently supported authentication method is through the use of Bearer tokens, which can be generated in the "Applications" section of your user account's settings in your KTH Datarepository instance.
+The REST API calls for KTH Datarepository require authentication. The currently supported authentication method is through the use of Bearer tokens, which can be generated in the "Applications" section of your user account's settings in the KTH Datarepository.
 
 There are two ways to pass these tokens in your requests:
 
@@ -37,5 +37,5 @@ A basic example request to fetch posts from the KTH Datarepository instance coul
 GET /api/records?prettyprint=1 HTTP/1.1
 ```
 
-This is the basic information about the KTH Datarepository API. However, for a complete API reference, it is recommended to refer to the official documentation, as it may contain more details and the latest updates:
+This is the basic information about the KTH Datarepository API. However, for a complete API reference, it is recommended to refer to the official documentation, as it contains more details and the latest updates:
 [KTH Datarepository REST API docs](https://inveniordm.docs.cern.ch/reference/rest_api_index/)

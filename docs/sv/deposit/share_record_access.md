@@ -19,7 +19,7 @@ KTH Datarepository underlättar för enkel delning av dokument med kollegor och 
 
 3. ### Dela länken
 
-   När du klickar på knappen "Dela" bör ett modal visas "Hämta en länk" som ger en direktlänk till din post. Tryck på Hämta länk, vänta en sekund, sedan kopieras länken som genereras automatiskt.
+   När du klickar på knappen "Dela" visas "Hämta en länk" som ger en direktlänk till din post. Tryck på Hämta länk, vänta en sekund, sedan kopieras länken som genereras automatiskt.
 
 > **Notera:** Det finns tre typer av behörigheter i länken som genereras (Kan visa, Kan förhandsgranska, Kan redigera):
 
