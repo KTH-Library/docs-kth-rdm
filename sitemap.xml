@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/terms/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/terms/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/terms/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/communities/community_manager_responsibilities/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/communities/community_manager_responsibilities/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/communities/community_manager_responsibilities/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/communities/create_new_community/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/communities/create_new_community/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/communities/create_new_community/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/deposit/create_new_upload/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/create_new_upload/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/create_new_upload/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/deposit/github_integration/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/github_integration/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/github_integration/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/deposit/rest_api/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/rest_api/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/rest_api/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/deposit/restrict_record_access/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/restrict_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/restrict_record_access/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/deposit/share_record_access/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/share_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/share_record_access/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/create_account/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/terms/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/terms/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/communities/community_manager_responsibilities/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/communities/community_manager_responsibilities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/communities/community_manager_responsibilities/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/communities/create_new_community/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/communities/create_new_community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/communities/create_new_community/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/deposit/create_new_upload/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/create_new_upload/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/create_new_upload/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/deposit/github_integration/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/github_integration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/github_integration/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/deposit/rest_api/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/rest_api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/rest_api/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/deposit/restrict_record_access/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/restrict_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/restrict_record_access/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/deposit/share_record_access/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/deposit/share_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/deposit/share_record_access/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://kth-library.github.io/docs-kth-rdm/sv/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kth-library.github.io/docs-kth-rdm/get_started/viewing-devices/"/>
+    </url>
+</urlset>
