@@ -40,4 +40,4 @@ GET /api/records?prettyprint=1 HTTP/1.1
 ```
 
 Detta är grundläggande information om KTH Datarepository API. Men för en komplett API-referens rekommenderas den officiella dokumentationen, eftersom den innehåller mer detaljer och de senaste uppdateringarna:
-[KTH Datarepository REST API-dokument](https://inveniordm.docs.cern.ch/reference/rest_api_index/)
+[Invenio REST API-dokument](https://inveniordm.docs.cern.ch/reference/rest_api_index/)
