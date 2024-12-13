@@ -1,40 +1,23 @@
-# Skapa en ny community i KTH Data Repository
+# Ansöka om ny community i KTH Data Repository
 
-!!! warning
-    Om du får ett felmeddelande om **åtkomst nekad** när du försöker skapa nya communities, beror det på att denna funktion är begränsad till användare med specifika roller. Kontakta din systemadministratör för [mer information](https://www.kth.se/om).
+I KTH Data Repository är en community ett kurerat utrymme där användare kan samla, organisera och hantera relaterade poster under ett gemensamt ämne, evenemang, projekt eller organisation. Communities ger ett strukturerat sätt att organisera samlingar av poster, underlätta samarbete och främja upptäckbarhet genom att gruppera liknande innehåll tillsammans. De kan också kontrollera åtkomst och synlighet för att anpassa sig till behoven hos specifika användargrupper eller sekretesskrav. I den här guiden beskrivs stegen för att ansöka om en ny community.
 
-I KTH Data Repository är en community ett kurerat utrymme där användare kan samla, organisera och hantera relaterade poster under ett gemensamt tema, projekt eller organisatoriskt ramverk. Communities möjliggör en strukturerad presentation av samlingar av poster, underlättar samarbete och förbättrar synlighet genom att gruppera liknande innehåll. De kan också kontrollera åtkomst och synlighet för att anpassa sig till behoven hos specifika användargrupper eller sekretesskrav. Den här guiden beskriver stegen för att skapa en ny community.
+För att få en community är det första steget att bekanta dig med [ansvarsområdena för community managers](./community_manager_responsibilities.md). Därefter kontaktar du [researchdata@kth.se](mailto:researchdata@kth.se) med en skriftlig förfrågan om en community.
 
-## Förutsättningar
+Det finns fyra huvudtyper av communities: evenemang, ämne, organisation och projekt. I regel bör den person som ansvarar för evenemanget, projektet eller organisationen vara communityägaren. Om du vill bli ägare till en community ska du skicka en förfrågan till [researchdata@kth.se](mailto:researchdata@kth.se) och ange följande information i e-postmeddelandet:
+ - Namn
+ - Avdelning
+ - Vilken typ av community du vill bli ansvarig för.
 
-- Administratörs- eller communityrättigheter.
+Om du är ansvarig forskare för ett forskningsprojekt som efterfrågar en projektcommunity, vänligen inkludera projektets titel och, om relevant, namnet på externa finansiärer. Om det finns medlemmar i forskargruppen som kommer att bidra till communityn kan du också ange deras namn. Standardlagringskvoten för en projektcommunity är 5 Tb lagring.
 
-## Steg för att skapa en ny community
+Om du är en evenemangsarrangör, vänligen lägg till titeln på evenemanget/konferensen och datum för evenemanget.
 
-- **Ansök om en community-skaparroll**  
-  Se till att du har ansökt om rollen som community-skapare genom ansökningsprocessen på [kth.se/rdm-repository](https://kth.se/rdm-repository).
+Om du vill ha en community för en avdelning eller ett center kommer vi att kontakta dig för en diskussion om vilken policy och lagringskvot som behövs för den organisatoriska enheten först.
 
-- **Läs och acceptera ansvar som communityns manager**  
+I nästa steg kommer du att få ett e-postmeddelande med ett dokument som beskriver ditt ansvar som communityägare. Du måste bekräfta att du accepterar ansvaret genom att svara på e-postmeddelandet, och sedan kommer du att få en länk till din nya community som är redo att användas. 
 
-    !!! Notera
-        Innan du fortsätter, se till att du har läst och accepterat [ansvaret som följer med att vara community chef](./community_manager_responsibilities.md). Som chef för en community ansvarar du för innehåll, medlemskap och att communityen följer förvaret policyer.
 
-- **Logga in på KTH Data Repository**  
-  Navigera till inloggningssidan och ange dina inloggningsuppgifter. Se till att du har de nödvändiga behörigheterna för att skapa communities.
+!!! varning
+    Om du stöter på ett **permission denied**-fel när du försöker skapa nya communities beror det på att den här funktionen är begränsad till användare med specifika roller. Kontakta din systemadministratör för [ytterligare information](mailto:researchdata@kth.se).
 
-- **Gå till avsnittet Communities**  
-  Från huvudinstrumentpanelen, klicka på fliken "Communities" i navigeringsmenyn.
-
-- **Skapa en ny community**  
-  Klicka på knappen "Skapa ny community". Detta tar dig till ett formulär där du kan ange information om din community.
-  - **Community-namn**: Ange ett unikt namn för din community.
-  - **Identifierare**: Detta är din communitys unika identifierare. Du kommer att kunna komma åt din community via URL-formatet `https://rdm-site.se/communities/`.
-  - **Communityns synlighet**: Välj om din community ska vara offentligt tillgänglig och synas i sökresultat eller begränsad till användare med specifik åtkomst om du väljer "Begränsad".
-
-## Nästa steg
-
-När du har skapat din community, tänk på att:
-
-- Lägga till poster i din community.
-- Bjuda in andra användare att gå med och bidra.
-- Anpassa communityns utseende, om så önskas.
