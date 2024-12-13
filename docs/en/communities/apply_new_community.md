@@ -5,9 +5,10 @@ In the KTH Data Repository, a community is a curated space where users can gathe
 In order to get a community the first step is to familiarize yourself with the [responsibilities associated with managing a community](./community_manager_responsibilities.md). Next, please contact [researchdata@kth.se](mailto:researchdata@kth.se) with a written request for a community.
 
 There are four main types of communities: event, topic, organisation and project. As a rule, the person responsible for the event, project or organisation should be the community owner. If you want to become a community owner please send a request to [researchdata@kth.se](mailto:researchdata@kth.se) and provide the following information in the mail:
- - Name
- - Department
- - What type of community you want to become responsible for.
+
+- Name
+- Department
+- What type of community you want to become responsible for.
 
 If you are a PI requesting a project community, please add the title of the project and, if relevant, the name of external funder(s). If there are members of the research group that will be contributing to the community you can provide those names as well. Default storage quota for a project community is 5 Tb of storage.
 

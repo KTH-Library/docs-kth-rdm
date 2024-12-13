@@ -5,9 +5,10 @@ I KTH Data Repository är en community ett kurerat utrymme där användare kan s
 För att få en community är det första steget att bekanta dig med [ansvarsområdena för community managers](./community_manager_responsibilities.md). Därefter kontaktar du [researchdata@kth.se](mailto:researchdata@kth.se) med en skriftlig förfrågan om en community.
 
 Det finns fyra huvudtyper av communities: evenemang, ämne, organisation och projekt. I regel bör den person som ansvarar för evenemanget, projektet eller organisationen vara communityägaren. Om du vill bli ägare till en community ska du skicka en förfrågan till [researchdata@kth.se](mailto:researchdata@kth.se) och ange följande information i e-postmeddelandet:
- - Namn
- - Avdelning
- - Vilken typ av community du vill bli ansvarig för.
+
+- Namn
+- Avdelning
+- Vilken typ av community du vill bli ansvarig för.
 
 Om du är ansvarig forskare för ett forskningsprojekt som efterfrågar en projektcommunity, vänligen inkludera projektets titel och, om relevant, namnet på externa finansiärer. Om det finns medlemmar i forskargruppen som kommer att bidra till communityn kan du också ange deras namn. Standardlagringskvoten för en projektcommunity är 5 Tb lagring.
 
