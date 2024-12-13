@@ -19,5 +19,5 @@ I nästa steg kommer du att få ett e-postmeddelande med ett dokument som beskri
 
 
 !!! varning
-    Om du stöter på ett **permission denied**-fel när du försöker skapa nya communities beror det på att den här funktionen är begränsad till användare med specifika roller. Kontakta din systemadministratör för [ytterligare information](mailto:researchdata@kth.se).
+    Om du får ett felmeddelande om **åtkomst nekad** när du försöker skapa nya communities, beror det på att denna funktion är begränsad till användare med specifika roller. Kontakta din systemadministratör för [ytterligare information](mailto:researchdata@kth.se).
 

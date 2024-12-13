@@ -96,7 +96,7 @@ plugins:
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
-                - Skapa Nytt Community: communities/create_new_community.md
+                - Ansök om Nytt Community: communities/apply_new_community.md
                 - Community Manager Ansvar: communities/community_manager_responsibilities.md 
 
 
@@ -117,5 +117,5 @@ nav:
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
   - Communities:
-      - Create New Community: communities/create_new_community.md
+      - Apply for New Community: communities/apply_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
