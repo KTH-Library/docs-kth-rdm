@@ -38,7 +38,7 @@
 
     - [Om communities (WIP)](#)
     - [Community manager-ansvar](communities/community_manager_responsibilities.md)
-    - [Skapa nytt community](communities/create_new_community.md)
+    - [Ansök om en ny community](communities/apply_new_community.md)
     - [Visa mina communities (WIP)](#)
     - [Hantera community-inställningar (WIP)](#)
     - [Hantera medlemmar (WIP)](#)

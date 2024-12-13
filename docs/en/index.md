@@ -38,7 +38,7 @@
 
     - [About communities (WIP)](#)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
-    - [Create new community](communities/create_new_community.md)
+    - [Apply for a new community](communities/apply_new_community.md)
     - [View my communities (WIP)](#)
     - [Manage community settings (WIP)](#)
     - [Manage members (WIP)](#)
