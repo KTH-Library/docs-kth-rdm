@@ -1,61 +1,68 @@
-# Terms of Use and Specific Responsibilities for Community Managers
+# ​Guide for owners of a community
 
-## General Terms
+The purpose of a community is to offer long-term storage, enabling documentation of data and source code that is generated or used in research. A community also facilitates sharing of content within research activities at KTH. KTH data repository is not intended to be used for private purposes. A community should only be made public if it has been assessed that it is suitable to make the content externally visible. This assessment can be done separately or in connection to drafting a data management plan. As community owner you will by default also have the role of community manager in KTH data repository.  
 
-KTH Data Repository (referred to here as KTH.se/namn) is a platform for documenting and sharing data. It serves as a collaborative space where KTH's employees, students, and external collaborators can document, version control, and share data with varying levels of access. All systems and services provided by KTH must be used in compliance with applicable regulations, including guidelines, rules, and laws regarding data stored and shared through KTH.se/namn. Failure to comply with these rules may result in suspension from the platform.
+## Your Responsibilities as a community owner 
 
-The terms outlined in the liability agreement signed by all KTH account holders also apply to KTH.se/namn. As a user, you must adhere to the general rules for using KTH systems as specified in the [liability agreement](https://intra.kth.se/polopoly_fs/1.662185.1715157603!/ansvar_skyldigheter_systemadministrat%C3%B6r.pdf) and other relevant guidelines for KTH’s operations.
+- As owner of a community you are responsible for managing the content in the community. This responsibility  includes means that the content in the community should maintain good quality in line with good scientific practice in your field. You are also responsible for not storing any illegal content in the community and that data is shared at appropriate access level.   
 
-KTH.se/namn supports KTH’s core operations, including education, research, administrative, and union activities. Below are additional terms specific to KTH.se/namn.
+- As community owner and responsible for data management, you can delegate the responsibility for doing the actual work of assuring quality of data deposited for archive storage to someone that is assigned the role of “curator” 
 
-### Responsibilities of the Community Creator
+- As a community owner or curator you must ensure that data is accessible at an appropriate access level for authorized persons. Recommended is also to describe what the community is intended to be used for and set up guidelines for the community. This information can be added for the community under the tabs “description” and “curation policy” in the system.  
 
-As a community manager, you are responsible for all data management within your community. Communities on KTH.se/namn are designed to facilitate data sharing in collaboration within KTH’s areas of operation. Communities may only be made public after an appropriate risk assessment (e.g., through a data management plan) and when the content has been deemed suitable for open data sharing. Communities are not intended for personal use.
+You can read about the general guidelines  at KTH in the [KTH research data guidelines](https://intra.kth.se/polopoly_fs/1.1037531.1608134528!/Guidelines-on-managing-research-data.pdf) and other guidelines listed below. In the case of changed guidelines, this document will be updated to a new version that will be available in the online documentation for KTH data repository.  
 
-For more details on research data management, refer to [KTH's Guideline for Research Data Management](https://intra.kth.se/polopoly_fs/1.1037530.1714460492!/Riktlinje-om-hantering-av-forskningsdata.pdf).
+## Visibility and access to data: guide for choosing correct access level for data for your research project. 
 
-### Guidance from Research Leaders and Data Protection Officers
+### Levels of Visibility 
 
-As a community manager, it is your responsibility to ensure that data is shared at the correct access level. KTH.se/namn provides various levels of access to suit different data types. For any uncertainties about data confidentiality, consult with your research group leader or KTH’s Data Protection Officer (contact: researchdata@kth.se).
+**For datasets:**
 
-KTH reserves the right to remove any material that violates Swedish archival laws or contains confidential information that could harm KTH or individuals.
+- **Public access:** Anyone can search for and download files. 
 
-### Visibility and Access Levels
+- **Restricted access to files:** Only community members can download, but descriptions are public. 
 
-Data should not be made public if it might result in:
+- **Restricted access to both files and descriptions:** Only community members can view descriptions and download files. 
 
-- Disclosure of public documents covered by secrecy under the Public Access to Information and Secrecy Act (2009:400)
-- Disclosure of classified information
-- Disclosure of personal data that risks individual privacy
-- Unauthorized distribution of copyrighted material
+**For communities:**
 
-Information that cannot be made public can often be shared with restricted access within a community.
+- **Public access to community:** Content is searchable by anyone. 
 
-As a community manager, you decide which users have access to restricted data and must only add those who should view or interact with sensitive information.
+- **Restricted access to community:** Content only searchable and accessible to community members. 
 
-### Levels of Visibility
+KTH administrators can access all data but must adhere to KTH's system administrator responsibilities as outlined in the responsibility agreement. KTH follows public access laws, meaning material in KTH Data repository may be public records, which must be disclosed upon request unless exempt by law. 
 
-For datasets:
+ 
 
-- **Public**: Anyone can search for and download files.
-- **Restricted (files)**: Only community members can download, but descriptions are public.
-- **Restricted (files and descriptions)**: Only community members can view descriptions and download files.
+Information can be at “public access” level if it fulfills the requirement below:
 
-For communities:
+- Information is classified as a public official act where public access does not cause harm to individuals, KTH or national interests.    
 
-- **Public**: Searchable and downloadable by anyone.
-- **Restricted**: Only accessible to community members.
+Information should be kept at “restricted access” level if it fulfils the requirement below:  
 
-KTH administrators can access all data but must adhere to KTH's system administrator responsibilities as outlined in the [responsibility agreement](https://intra.kth.se/polopoly_fs/1.662185.1562824393!/ansvar_skyldigheter_systemadministrat%C3%B6r.pdf). KTH follows public access laws, meaning material in KTH.se/namn may be public records, which must be disclosed upon request unless exempt by law.
+- Information is classified as confidential, meaning that there is a risk of harm if data is shared in public. Examples of harm can be to cause damage to the integrity of individuals, cause economic damage for organisations or damage to infrastructure critical to society.  
 
-## Copyright
+Listed below are common examples of information that should remain with restricted access: 
 
-Respect copyright by only uploading material you own or have permission to use. KTH.se/namn defaults to the CC-BY 4.0 license for datasets, allowing free use with attribution. Other licenses may be selected according to [KTH's guidelines for intellectual assets](https://intra.kth.se/polopoly_fs/1.661400.1562745602!/Riktlinje_om_intellektuella_tillg%C3%A5ngar_skapade_vid_KTH.pdf).
+- Disclosure of public documents covered by confidentiality according to the Swedish law, **Offentlighets- och sekretesslag** (2009:400). See [KTH guidelines on how to apply the law in research in section 3.4.4](https://intra.kth.se/polopoly_fs/1.800294.1600688684!/Guidlines%20for%20the%20application%20of%20rules%20on%20public%20access%20to%20information%20and%20secrecey%20at%20KTH.pdf) . For information where strict secrecy applies, see section of information not to be stored at KTH data repository. 
 
-## Processing of Personal Data
+- Disclosure of personal information without making a risk assessment that assess the risk for sharing personal information to be negligible or without consent from concerned individuals to publish their personal information. Pseudonymised personal information. Contact [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) for more information. 
 
-When you create an account on KTH.se/namn, KTH processes your personal data. If you terminate your account, your name will remain in the system where required by publication standards. KTH is generally the data controller but may act as a data processor depending on agreements with external collaborators.
+- Disclosure of information concerning products with technology subjected to export control or dual use technology.  Contact [exportcontrol@kth.se](mailto:exportcontrol@kth.se) for more information. 
 
-## Acceptance of Terms
+- Disclosure of copyrighted material where you yourself do not own the rights to share the material.  
 
-By acting as a community manager, you confirm that you have read, understood, and accept these responsibilities. Changes to terms may be made, and you will be notified of any updates. External users may incur future fees upon terms changes.
+Please note this is not a complete list of all types of confidential data. If you are unsure about whether your data can be shared with open access or restricted access, contact [researchdata@kth.se](mailto:researchdata@kth.se) for advice.  
+
+In most cases, confidential material can be shared within the research group or within KTH. This can also be regulated in research agreements with other parties, and in some special cases more strict secrecy applies.   
+
+Information that **is not suitable** to store in KTH data repository that should be kept in separate storage with much more stringent security measures:   
+
+- Disclosure of information of importance from a national security perspective according to the Swedish law on national security, **Säkerhetsskyddslag** (2018:585). **Contact [security@kth.se](mailto:security@kth.se) for further information.**
+
+- Directly identifiable sensitive personal information according to GDPR.  
+
+- Code keys that can be used to re-identify sensitive personal information. 
+
+
+If you need to resign from the community owner & data manager responsibility for the project, make sure that someone else takes over. You must assign someone that takes over the responsibility before you leave KTH. Contact [researchdata@kth.se](mailto:researchdata@kth.se) if there are any questions regarding transfer of data manager responsibilities. 
