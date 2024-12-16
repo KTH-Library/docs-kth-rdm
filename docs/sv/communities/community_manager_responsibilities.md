@@ -1,67 +1,67 @@
-# Användarvillkor och särskilda ansvarsområden för dig som community manager
+# Guide för ägare av en community  
 
-## Allmänna villkor
+Syftet med en community är att erbjuda långtidslagring och möjliggöra dokumentation av data och källkod som genereras eller används i forskning. En community underlättar också delning av innehåll inom forskningsverksamheten på KTH. KTH:s datalager är inte avsett att användas för privata ändamål. En community ska endast göras publik om det har bedömts att det är lämpligt att göra innehållet synligt externt. Denna bedömning kan göras separat eller i samband med att en datahanteringsplan skrivs. Som community-ägare kommer du även att ha rollen som community manager i KTH Data Repository.  
 
-KTH.se/namn är en plattform för att dokumentera och dela data. Här kan KTH:s anställda, studenter och externa samarbetspartners tillsammans dokumentera, versionshantera och tillgängliggöra olika typer av data på olika åtkomstnivåer. Alla system och tjänster som tillhandahålls av KTH ska användas i enlighet med gällande regelverk. Detta innebär att riktlinjer, regler och lagar ska följas för data som lagras och tillgängliggörs via KTH.se/namn. Om detta inte följs och du missköter dig kan du bli avstängd från systemen.
+## Dina ansvarsområden som ägare av en community   
 
-Det som framgår i den ansvarsförbindelse som alla med KTH-konton skriver under gäller även för användning av KTH.se/namn. Som användare är du ansvarig för att följa de allmänna reglerna för användning av KTH:s system som specificeras i [ansvarsförbindelsen](https://intra.kth.se/polopoly_fs/1.662185.1715157603!/ansvar_skyldigheter_systemadministrat%C3%B6r.pdf) samt andra relevanta riktlinjer för KTH:s verksamheter.
+- Som ägare av en community är du ansvarig för att hantera innehållet i communityn. Detta ansvar innebär bland annat att innehållet i communityn ska hålla god kvalitet och vara i linje med god vetenskaplig praxis inom ditt område. Du är också ansvarig för att inget olagligt innehåll lagras i communityn och att data delas på lämplig åtkomstnivå.   
 
-KTH.se/namn är ett stödverktyg för KTH:s verksamheter, inklusive utbildning, forskning, stödverksamhet och facklig verksamhet. Nedan följer mer detaljerad information som är specifik för KTH.se/namn.
+- Som communityägare och ansvarig för datahantering kan du delegera ansvaret för att utföra det faktiska arbetet med att kvalitetssäkra data som deponeras för arkivlagring till någon som tilldelas rollen som ”curator” (granskare). 
 
-## Ansvar för community-skapare
+- Som ägare eller granskare av en community måste du se till att data är tillgänglig på en lämplig åtkomstnivå för behöriga personer. Rekommenderat är också att beskriva vad communityn är tänkt att användas till och sätta upp riktlinjer för communityn. Denna information kan adderas till communityn under flikarna ”description” (beskrivning) och ”curation policy” (granskningspolicy) i systemet.  
 
-### Community manager-ansvar
+Du kan läsa om de allmänna riktlinjerna på KTH i [KTH:s riktlinjer för forskningsdata](https://intra.kth.se/polopoly_fs/1.1037531.1608134528!/Guidelines-on-managing-research-data.pdf) och andra riktlinjer som listas nedan. I händelse av ändrade riktlinjer kommer detta dokument att uppdateras till en ny version som kommer att finnas tillgänglig i onlinedokumentationen för KTH Data Repository.  
 
-Syftet med communities på KTH.se/namn är att underlätta datadelning i samarbeten inom KTH:s verksamhetsområden samt att dokumentera och tillgängliggöra data inom verksamheten. KTH.se/namn får inte användas för privata ändamål. Communities får endast göras publika om en riskbedömning, exempelvis i samband med en datahanteringsplan, har gjorts och det delade materialet har bedömts vara lämpligt som öppen data.
+## Synlighet och åtkomst till data: guide för att välja rätt åtkomstnivå för data för ditt forskningsprojekt. 
 
-Som community manager ansvarar du för datahanteringen inom communityn. För mer information, se [KTH:s riktlinje för hantering av forskningsdata](https://intra.kth.se/polopoly_fs/1.1037530.1608134393!/Riktlinje-om-hantering-av-forskningsdata.pdf).
+### Synlighetsnivå 
 
-### Ditt ansvar som community manager
+**För dataset:**
 
-Community managern är ansvarig för att granska och säkerställa att data i communityt delas på rätt åtkomstnivå. Granskningen kan delegeras till en person som får rollen "curator" i systemet, och community managern ansvarar för att denna person förstår tillämpliga regler.
+- **Publik tillgång:** Vem som helst kan söka efter och ladda ner filer. 
 
-KTH förbehåller sig rätten att gallra material i enlighet med svensk arkivlagstiftning.
+- **Begränsad åtkomst till filer:** Endast medlemmar i communityn kan ladda ner filer, men beskrivningarna är publikt tillgängliga. 
 
-## Synlighet och åtkomst till data - välj rätt åtkomstnivå
+- **Begränsad åtkomst till både filer och beskrivningar:** Endast medlemmar i communityn kan se beskrivningar och ladda ner filer. 
 
-Det här bör inte tillgängliggöras publikt på KTH.se/namn:
+**För communities:**
 
-- Konfidentiell information där det finns risk att KTH eller enskilda individer lider skada av öppen publicering.
-  
-Om du är osäker på om material som insamlats i forskningsprojekt är konfidentiellt, kontakta researchdata@kth.se för rådgivning. I många fall kan konfidentiell data delas inom en projektgrupp med begränsad åtkomst enligt eventuella avtalsvillkor.
+- **Publik åtkomst till community:** Innehållet är sökbart för alla. 
 
-### Exempel på information som inte får publiceras offentligt:
+- **Begränsad åtkomst till community:** Innehållet är endast sökbart och tillgängligt för medlemmar i communityn. 
 
-- Allmänna handlingar som omfattas av sekretess enligt offentlighets- och sekretesslagen (2009:400).
-- Säkerhetsskyddad information.
-- Personuppgifter där riskbedömning har visat att offentliggörande utgör risk för individens integritet.
-- Upphovsrättsskyddat material utan tillstånd.
+KTH-administratörer har tillgång till all data men måste följa KTH:s systemadministratörsansvar enligt ansvarsavtalet. KTH följer lagar om offentlighet, vilket innebär att material i KTH Data Repository kan vara allmäna handlingar, som måste lämnas ut på begäran om de inte är undantagna enligt lag. 
 
-KTH.se/namn är inte lämpligt för säkerhetsskyddsklassad information.
+ 
 
-## Tillgänglighetsnivåer
+Information kan vara på ”publik tillgångs”-nivå om den uppfyller nedanstående krav:
 
-**På dataset-nivå:**
+- Informationen är klassificerad som en allmän handling där allmänhetens tillgång inte orsakar skada för individer, KTH eller nationella intressen.
 
-- **Full publik synlighet** – Vem som helst kan söka och ladda ner datafiler.
-- **Begränsad åtkomst för filer** – Endast community-medlemmar kan ladda ner, medan beskrivningen är publik.
-- **Begränsad åtkomst för filer och beskrivning** – Endast medlemmar kan se och ladda ner filbeskrivningarna.
+Information bör hållas på nivån ”begränsad åtkomst” om den uppfyller nedanstående krav:  
 
-**På community-nivå:**
+- Informationen är sekretessbelagd, vilket innebär att det finns risk för skada om informationen sprids till allmänheten. Exempel på skada kan vara att orsaka skada för individers integritet, orsaka ekonomisk skada för organisationer eller skada för samhällskritisk infrastruktur.  
 
-- **Full publik synlighet** – Alla kan söka och ladda ner filer.
-- **Begränsad åtkomst** – Endast medlemmar har åtkomst.
+Nedan listas vanliga exempel på information som bör förbli med begränsad åtkomst: 
 
-KTH:s systemadministratörer har åtkomst till all data men måste följa [ansvarsförbindelsen för systemadministratörer](https://intra.kth.se/polopoly_fs/1.662185.1562824393!/ansvar_skyldigheter_systemadministrat%C3%B6r.pdf).
+- Utlämnande av allmänna handlingar som omfattas av sekretess enligt den svenska lagen, **Offentlighets- och sekretesslag** (2009:400). Se [KTH:s riktlinjer för hur lagen ska tillämpas i forskning i avsnitt 3.4.4] (https://intra.kth.se/polopoly_fs/1.660540.1714466108!/offentlighet_sekretess.pdf) . För information där strikt sekretess gäller, se avsnitt om information som inte ska lagras i KTH:s datalager. 
 
-## Upphovsrätt
+- Utlämnande av personuppgifter utan att ha gjort en riskbedömning som bedömer att risken för att dela personuppgifter är försumbar eller att utan samtycke från berörda individer publicera deras personuppgifter. Pseudonymiserad personlig information. Kontakta [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) för mer information. 
 
-Alla användare måste respektera upphovsrätten. Ladda inte upp upphovsrättsskyddat material utan tillstånd från rättighetsinnehavaren. KTH.se/namn använder CC-BY 4.0 som standard, vilket tillåter fri användning med attributering. Se [KTH:s riktlinjer för immateriella tillgångar](https://intra.kth.se/polopoly_fs/1.661400.1562745602!/Riktlinje_om_intellektuella_tillg%C3%A5ngar_skapade_vid_KTH.pdf) för mer information.
+- Utlämnande av information om produkter med teknik som omfattas av exportkontroll eller teknik med dubbla användningsområden.  Kontakta [exportcontrol@kth.se](mailto:exportcontrol@kth.se) för mer information. 
 
-## Behandling av personuppgifter
+- Utlämnande av upphovsrättsskyddat material där du själv inte äger rättigheterna att dela materialet.  
 
-När du skapar ett konto hos KTH.se/namn behandlas dina personuppgifter av KTH. Kontakta KTH för att avsluta ditt konto. Om du anger ditt namn och eventuellt ORCID kommer detta att finnas kvar i systemet för attributering. KTH är vanligtvis personuppgiftsansvarig. Om en extern part använder KTH.se/namn måste ett avtal upprättas för att reglera ansvar för personuppgiftshantering.
+Observera att detta inte är en fullständig lista över alla typer av konfidentiella uppgifter. Om du är osäker på om dina data kan delas med öppen eller begränsad åtkomst, kontakta [researchdata@kth.se](mailto:researchdata@kth.se) för rådgivning.  
 
-## Acceptans av villkor
+I de flesta fall kan konfidentiellt material delas inom forskargruppen eller inom KTH. Detta kan också regleras i forskningsavtal med andra parter och i vissa speciella fall gäller strängare sekretess.   
 
-Genom att agera som community manager intygar du att du har läst, förstått och accepterat dessa ansvarsområden. Villkoren kan komma att ändras, och du kommer att informeras om ändringar. Externa användare kan debiteras avgifter för framtida förändringar i användarvillkoren.
+Information som **inte är lämplig** att lagra i KTH Data Repository och som bör förvaras i separat lagring med mycket strängare säkerhetsåtgärder:   
+
+- Utlämnande av uppgifter av betydelse för rikets säkerhet enligt den svenska lagen om rikets säkerhet, **Säkerhetsskyddslag** (2018:585). **Kontakta [security@kth.se](mailto:security@kth.se) för ytterligare information.**
+
+- Direkt identifierbar känslig personlig information enligt GDPR.  
+
+- Kodnycklar som kan användas för att återidentifiera känsliga personuppgifter. 
+
+Om du behöver avsäga dig ansvaret som ägare av en community och data manager för projektet ska du se till att någon annan tar över. Du måste utse någon som tar över ansvaret innan du lämnar KTH. Kontakta [researchdata@kth.se](mailto:researchdata@kth.se) om det finns några frågor angående överföring av datahanteringsansvar.
