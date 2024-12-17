@@ -44,13 +44,13 @@ Information should be kept at “restricted access” level if it fulfils the re
 
 Listed below are common examples of information that should remain with restricted access: 
 
-- Disclosure of public documents covered by confidentiality according to the Swedish law, **Offentlighets- och sekretesslag** (2009:400). See [KTH guidelines on how to apply the law in research in section 3.4.4](https://intra.kth.se/polopoly_fs/1.800294.1600688684!/Guidlines%20for%20the%20application%20of%20rules%20on%20public%20access%20to%20information%20and%20secrecey%20at%20KTH.pdf) . For information where strict secrecy applies, see section of information not to be stored at KTH data repository. 
+- Official documents covered by confidentiality according to the Swedish law, **Offentlighets- och sekretesslag** (2009:400). See [KTH guidelines on how to apply the law in research in section 3.4.4](https://intra.kth.se/polopoly_fs/1.800294.1600688684!/Guidlines%20for%20the%20application%20of%20rules%20on%20public%20access%20to%20information%20and%20secrecey%20at%20KTH.pdf) . For information where strict secrecy applies, see section of information not to be stored at KTH data repository. 
 
-- Disclosure of personal information without making a risk assessment that assess the risk for sharing personal information to be negligible or without consent from concerned individuals to publish their personal information. Pseudonymised personal information. Contact [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) for more information. 
+- Personal information where a risk assessment has determined that disclosure would cause harm to the individual. Contact [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) for more information. 
 
-- Disclosure of information concerning products with technology subjected to export control or dual use technology.  Contact [exportcontrol@kth.se](mailto:exportcontrol@kth.se) for more information. 
+- Information concerning products with technology subjected to export control or dual use technology.  Contact [exportcontrol@kth.se](mailto:exportcontrol@kth.se) for more information. 
 
-- Disclosure of copyrighted material where you yourself do not own the rights to share the material.  
+- Copyrighted material where you yourself do not own the rights to share the material.  
 
 Please note this is not a complete list of all types of confidential data. If you are unsure about whether your data can be shared with open access or restricted access, contact [researchdata@kth.se](mailto:researchdata@kth.se) for advice.  
 

@@ -42,15 +42,15 @@ Information bör hållas på nivån ”begränsad åtkomst” om den uppfyller n
 
 - Informationen är sekretessbelagd, vilket innebär att det finns risk för skada om informationen sprids till allmänheten. Exempel på skada kan vara att orsaka skada för individers integritet, orsaka ekonomisk skada för organisationer eller skada för samhällskritisk infrastruktur.  
 
-Nedan listas vanliga exempel på information som bör förbli med begränsad åtkomst: 
+Nedan listas vanliga exempel på information som bör ha begränsad åtkomst för att informationen omfattar: 
 
-- Utlämnande av allmänna handlingar som omfattas av sekretess enligt den svenska lagen, **Offentlighets- och sekretesslag** (2009:400). Se [KTH:s riktlinjer för hur lagen ska tillämpas i forskning i avsnitt 3.4.4] (https://intra.kth.se/polopoly_fs/1.660540.1714466108!/offentlighet_sekretess.pdf) . För information där strikt sekretess gäller, se avsnitt om information som inte ska lagras i KTH:s datalager. 
+- Sekretessbelagda allmänna handlingar enligt den svenska lagen, **Offentlighets- och sekretesslag** (2009:400). Se [KTH:s riktlinjer för hur lagen ska tillämpas i forskning i avsnitt 3.4.4](https://intra.kth.se/polopoly_fs/1.660540.1714466108!/offentlighet_sekretess.pdf). För information där strikt sekretess gäller, se avsnitt om information som inte ska lagras i KTH Data Repository. 
 
-- Utlämnande av personuppgifter utan att ha gjort en riskbedömning som bedömer att risken för att dela personuppgifter är försumbar eller att utan samtycke från berörda individer publicera deras personuppgifter. Pseudonymiserad personlig information. Kontakta [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) för mer information. 
+- Personuppgifter som enligt riskbedömning bedöms orsaka skada för enskilda individer om personuppgifterna röjs. Kontakta [dataskyddsombud@kth.se](mailto:dataskyddsombud@kth.se) för mer information. 
 
-- Utlämnande av information om produkter med teknik som omfattas av exportkontroll eller teknik med dubbla användningsområden.  Kontakta [exportcontrol@kth.se](mailto:exportcontrol@kth.se) för mer information. 
+- Uppgifter om produkter med teknik som omfattas av exportkontroll eller teknik med dubbla användningsområden.  Kontakta [exportcontrol@kth.se](mailto:exportcontrol@kth.se) för mer information. 
 
-- Utlämnande av upphovsrättsskyddat material där du själv inte äger rättigheterna att dela materialet.  
+- Upphovsrättsskyddat material där du själv inte äger rättigheterna att dela materialet.  
 
 Observera att detta inte är en fullständig lista över alla typer av konfidentiella uppgifter. Om du är osäker på om dina data kan delas med öppen eller begränsad åtkomst, kontakta [researchdata@kth.se](mailto:researchdata@kth.se) för rådgivning.  
 

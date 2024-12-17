@@ -1,4 +1,4 @@
-site_name: KTH data Repository Guides
+site_name: KTH Data Repository Guides
 site_url: https://kth-library.github.io/docs-kth-rdm/
 repo_url: https://github.com/KTH-Library/docs-kth-rdm
 copyright: '© 2024 KTH Royal Institute of Technology'
@@ -97,7 +97,7 @@ plugins:
                 - REST API: deposit/rest_api.md
             - Communities:
                 - Ansök om Nytt Community: communities/apply_new_community.md
-                - Community Manager Ansvar: communities/community_manager_responsibilities.md 
+                - Community manager-ansvar: communities/community_manager_responsibilities.md 
 
 
 nav:
