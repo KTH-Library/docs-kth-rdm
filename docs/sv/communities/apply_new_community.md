@@ -1,4 +1,4 @@
-# Ansöka om ny community i KTH Data Repository
+# Ansök om ny community i KTH Data Repository
 
 I KTH Data Repository är en community ett kurerat utrymme där användare kan samla, organisera och hantera relaterade poster under ett gemensamt ämne, evenemang, projekt eller organisation. Communities ger ett strukturerat sätt att organisera samlingar av poster, underlätta samarbete och främja upptäckbarhet genom att gruppera liknande innehåll tillsammans. De kan också kontrollera åtkomst och synlighet för att anpassa sig till behoven hos specifika användargrupper eller sekretesskrav. I den här guiden beskrivs stegen för att ansöka om en ny community.
 

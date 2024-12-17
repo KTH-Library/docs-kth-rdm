@@ -1,4 +1,4 @@
-# Applying for a New Community in the KTH Data Repository
+# Apply for a New Community in the KTH Data Repository
 
 In the KTH Data Repository, a community is a curated space where users can gather, organize, and manage related records under a common topic, event, project, or organizational scope. Communities provide a structured way to organise collections of records, facilitate collaboration, and promote discoverability by grouping similar content together. They can also control access and visibility to align with the needs of specific user groups or privacy requirements. This guide outlines the steps to apply for a new community.
 
