@@ -58,8 +58,7 @@
 - ## About
 
     - [Terms of use](terms.md)
-    - [Cookie policy (WIP)](cookie-policy.md)
-    - [Privacy policy (WIP)](about/privacy_policy.md)
+    - [Cookie policy](cookie-policy.md)
     - [Contact us](https://www.kth.se/om/fakta)
 
 </div>

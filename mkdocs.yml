@@ -101,7 +101,6 @@ plugins:
             - Om:
                 - Villkor för användning: terms.md
                 - Cookiepolicy: cookie-policy.md
-                - Integritetspolicy: privacy-policy.md
 
 
 nav:
@@ -126,4 +125,3 @@ nav:
   - About:
       - Terms of Use: terms.md
       - Cookie Policy: cookie-policy.md
-      - Privacy Policy: privacy-policy.md
