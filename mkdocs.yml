@@ -100,7 +100,7 @@ plugins:
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
             - Om:
                 - Villkor för användning: terms.md
-                - Cookiepolicy: cookie-policy.md
+                - Cookies Policy: cookie-policy.md
 
 
 nav:
@@ -124,4 +124,4 @@ nav:
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
   - About:
       - Terms of Use: terms.md
-      - Cookie Policy: cookie-policy.md
+      - Cookies Policy: cookie-policy.md
