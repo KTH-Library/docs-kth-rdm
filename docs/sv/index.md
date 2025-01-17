@@ -55,6 +55,13 @@
     - [Hantera notisinställningar (WIP)](#)
     - [Visa inloggade enheter](get_started/viewing-devices.md)
 
+- ## Om
+
+    - [Användarvillkor](terms.md)
+    - [Cookiepolicy (WIP)](cookie-policy.md)
+    - [Integritetspolicy (WIP)](about/privacy_policy.md)
+    - [Kontakta oss](https://www.kth.se/om/fakta)
+
 </div>
 
 ---

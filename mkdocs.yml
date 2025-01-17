@@ -97,7 +97,11 @@ plugins:
                 - REST API: deposit/rest_api.md
             - Communities:
                 - Ansök om Nytt Community: communities/apply_new_community.md
-                - Community manager-ansvar: communities/community_manager_responsibilities.md 
+                - Community manager-ansvar: communities/community_manager_responsibilities.md
+            - Om:
+                - Villkor för användning: terms.md
+                - Cookiepolicy: cookie-policy.md
+                - Integritetspolicy: privacy-policy.md
 
 
 nav:
@@ -119,3 +123,7 @@ nav:
   - Communities:
       - Apply for New Community: communities/apply_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
+  - About:
+      - Terms of Use: terms.md
+      - Cookie Policy: cookie-policy.md
+      - Privacy Policy: privacy-policy.md
