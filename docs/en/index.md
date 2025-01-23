@@ -12,7 +12,7 @@
 
 - ## Deposit
 
-    - [About records (WIP)](#)
+    - [About records](deposit/about_records.md)
     - [Create new upload](deposit/create_new_upload.md)
     - [Describe records (WIP)](#)
     - [Manage files (WIP)](#)

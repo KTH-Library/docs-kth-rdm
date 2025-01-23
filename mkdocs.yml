@@ -89,6 +89,7 @@ plugins:
                 - Visa inloggade enheter: get_started/viewing-devices.md
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
+                - Om poster: deposit/about_records.md
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade Poster: deposit/restrict_record_access.md
                 - Dela poståtkomst: deposit/share_record_access.md
@@ -112,6 +113,7 @@ nav:
       - View Logged in Devices: get_started/viewing-devices.md
       - Navigating the KTH Data Repository: get_started/navigating_site.md
   - Deposit:
+      - About Records: deposit/about_records.md
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
       - Share Record Access: deposit/share_record_access.md

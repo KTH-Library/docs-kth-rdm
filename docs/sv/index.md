@@ -12,7 +12,7 @@
 
 - ## Insättning
 
-    - [Om poster (WIP)](#)
+    - [Om poster](deposit/about_records.md)
     - [Skapa ny uppladdning](deposit/create_new_upload.md)
     - [Beskriv poster (WIP)](#)
     - [Hantera filer (WIP)](#)
