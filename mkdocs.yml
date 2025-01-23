@@ -96,8 +96,11 @@ plugins:
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
+                - Om Communities: communities/about_communities.md
                 - Ansök om Nytt Community: communities/apply_new_community.md
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
+            - Samarbeta och dela:
+                - Samarbeta och dela: share/about_share.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -120,8 +123,11 @@ nav:
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
   - Communities:
+      - About Communities: communities/about_communities.md
       - Apply for New Community: communities/apply_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
+  - Collaborate and share:
+      - Collaborate and share : share/about_share.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md

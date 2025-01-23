@@ -25,7 +25,7 @@
 
 - ## Samarbeta och dela
 
-    - [Om samarbete och delning (WIP)](#)
+    - [Om samarbete och delning](share/about_share.md)
     - [Användardelning (WIP)](#)
     - [Länkdelning (WIP)](#)
     - [Åtkomstförfrågningar (WIP)](#)
@@ -36,7 +36,7 @@
 
 - ## Communities
 
-    - [Om communities (WIP)](#)
+    - [Om communities](communities/about_communities.md)
     - [Community manager-ansvar](communities/community_manager_responsibilities.md)
     - [Ansök om en ny community](communities/apply_new_community.md)
     - [Visa mina communities (WIP)](#)
