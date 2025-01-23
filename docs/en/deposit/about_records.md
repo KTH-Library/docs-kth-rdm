@@ -50,4 +50,4 @@ Metadata for all public records in the KTH Datarepository are always publicly ac
 
 The reason we support restricted access is for cases such as embargoed content, content under peer review, content that cannot be made generally available (e.g., anonymized clinical trial data), etc.
 
-See [Collaborate and Share](#) and [Communities](#) for further options on sharing restricted content.
+See [Collaborate and Share](../share/about_share.md) and [Communities](../communities/about_communities.md) for further options on sharing restricted content.

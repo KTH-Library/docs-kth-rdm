@@ -50,4 +50,4 @@ Metadata för alla publik poster i KTH Datarepository är alltid offentligt till
 
 Anledningen till att vi stöder begränsad åtkomst är för fall som embargoinnehåll, innehåll under peer review, innehåll som inte kan göras allmänt tillgängligt (t.ex. anonymiserade kliniska prövningsdata), etc.
 
-Se [Samarbeta och dela](#) och [Communities](#) för fler alternativ på att dela begränsat innehåll.
+Se [Samarbeta och dela](../share/about_share.md) och [Communities](../communities/about_communities.md) för fler alternativ på att dela begränsat innehåll.
