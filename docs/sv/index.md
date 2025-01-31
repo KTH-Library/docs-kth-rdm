@@ -10,7 +10,7 @@
     - [Logga in och logga ut](get_started/login_logout.md)
     - [Navigera i KTH Data Repository](get_started/navigating_site.md)
 
-- ## Insättning
+- ## Deponering
 
     - [Om poster](deposit/about_records.md)
     - [Skapa ny uppladdning](deposit/create_new_upload.md)

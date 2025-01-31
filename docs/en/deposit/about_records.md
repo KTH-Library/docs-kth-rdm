@@ -31,7 +31,7 @@ You can also share research objects that already have a DOI (e.g., a journal pub
 
 ## Life Cycle
 
-A record starts as a draft, where you can fill in the metadata and upload files. Once the draft is complete, you publish the draft, and it becomes a record. Once the record is published:
+A record starts as a draft, where you can fill in the metadata and upload files. Once the draft is complete, you submit it for review to a community as a record. Once the record is published:
 
 - **Metadata CAN be modified**
 - **Files and the persistent identifier CANNOT be modified**
@@ -42,7 +42,7 @@ This is because the KTH Datarepository is a digital repository and operates acco
 
 Our versioning feature helps with cases where you need to publish an update to a dataset (i.e., modify the files). In this case, you can create a new version of your dataset.
 
-Technically, this is a completely new record with separate metadata, files, and a persistent identifier. This ensures that if a researcher cites a specific version, they can be sure the files did not change.
+Technically, this is a completely new record with separate metadata, files, and a new persistent identifier. This ensures that if a researcher cites a specific version, they can be sure the files did not change.
 
 ## Access
 
