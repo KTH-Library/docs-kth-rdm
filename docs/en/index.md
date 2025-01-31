@@ -12,7 +12,7 @@
 
 - ## Deposit
 
-    - [About records (WIP)](#)
+    - [About records](deposit/about_records.md)
     - [Create new upload](deposit/create_new_upload.md)
     - [Describe records (WIP)](#)
     - [Manage files (WIP)](#)
@@ -25,7 +25,7 @@
 
 - ## Collaborate and share
 
-    - [About collaboration and sharing (WIP)](#)
+    - [About collaboration and sharing](share/about_share.md)
     - [User sharing (WIP)](#)
     - [Link sharing (WIP)](#)
     - [Access requests (WIP)](#)
@@ -36,7 +36,7 @@
 
 - ## Communities
 
-    - [About communities (WIP)](#)
+    - [About communities](communities/about_communities.md)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
     - [Apply for a new community](communities/apply_new_community.md)
     - [View my communities (WIP)](#)

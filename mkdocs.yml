@@ -1,7 +1,7 @@
 site_name: KTH Data Repository Guides
 site_url: https://kth-library.github.io/docs-kth-rdm/
 repo_url: https://github.com/KTH-Library/docs-kth-rdm
-copyright: '© 2024 KTH Royal Institute of Technology'
+copyright: '© 2025 KTH Royal Institute of Technology'
 
 extra_css:
   - stylesheets/extra.css
@@ -89,14 +89,18 @@ plugins:
                 - Visa inloggade enheter: get_started/viewing-devices.md
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
             - Deponera data:
+                - Om poster: deposit/about_records.md
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade Poster: deposit/restrict_record_access.md
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
+                - Om Communities: communities/about_communities.md
                 - Ansök om Nytt Community: communities/apply_new_community.md
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
+            - Samarbeta och dela:
+                - Samarbeta och dela: share/about_share.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -112,14 +116,18 @@ nav:
       - View Logged in Devices: get_started/viewing-devices.md
       - Navigating the KTH Data Repository: get_started/navigating_site.md
   - Deposit:
+      - About Records: deposit/about_records.md
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
       - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
   - Communities:
+      - About Communities: communities/about_communities.md
       - Apply for New Community: communities/apply_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
+  - Collaborate and share:
+      - Collaborate and share : share/about_share.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
