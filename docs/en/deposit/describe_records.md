@@ -140,3 +140,34 @@ The **description** field is a recommended field. It is typically used to provid
 2. Fill in the additional description.
    - You can remove the description by clicking the **remove icon (X)**.
 3. Choose a **description type**, and optionally, select the **language** of the description.
+
+## Licenses and rights
+
+The **license** field is a required field. Providing a license for your post is important to allow other users to reuse your upload. The KTH Data Repository defaults to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
+
+## Choosing a license
+
+We recommend the following resources to help you choose an appropriate license:
+
+- [choosealicense.com](https://choosealicense.com/) – Useful especially for software.
+- [OpenAIRE Guide for Researchers](https://www.openaire.eu/) – Useful especially for research data.
+
+Once you have chosen a license, follow the steps below to select it in the KTH Data Repository.
+
+## Change a standard license
+
+1. Click the **Edit** button next to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
+2. Choose one of the widely recommended licenses presented, or search/browse for a standard license.
+   - The KTH Data Repository relies on the widely used **SPDX** list of licenses.
+   - If you cannot find your license, you can add a **custom license** (see next section).
+
+## Add a custom license
+
+If you cannot find a standard license, you can add a custom license.
+
+1. Click the **Add custom** button.
+2. Provide the **title** of the license, and optionally, add a **description** and a **link** to the license.
+
+## Mixed license uploads
+
+You may need to upload files that fall under different licenses (e.g., software under the **MIT** license, but documentation under the **CC-BY** license). In such cases, you can declare all the applicable licenses in the system.

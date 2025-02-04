@@ -140,3 +140,34 @@ Fältet **beskrivning** är ett rekommenderat fält. Det används vanligtvis fö
 2. Fyll i den ytterligare beskrivningen.
    - Du kan ta bort beskrivningen genom att klicka på **ta bort-ikonen (X)**.
 3. Välj en **beskrivningstyp**, och ange valfritt **språk** för beskrivningen.
+
+## Licenser och rättigheter
+
+Fältet **licens** är ett obligatoriskt fält. Att ange en licens för ditt inlägg är viktigt för att andra användare ska kunna återanvända din uppladdning. KTH Data Repository använder som standard licensen **Creative Commons Attribution 4.0 International (CC-BY)**.
+
+## Välja en licens
+
+Vi rekommenderar följande resurser för att hjälpa dig att välja en lämplig licens:
+
+- [choosealicense.com](https://choosealicense.com/) – Särskilt användbart för programvara.
+- [OpenAIRE Guide for Researchers](https://www.openaire.eu/) – Särskilt användbart för forskningsdata.
+
+När du har valt en licens, följ stegen nedan för att välja den i KTH Data Repository.
+
+## Ändra en standardlicens
+
+1. Klicka på **Redigera**-knappen bredvid licensen **Creative Commons Attribution 4.0 International (CC-BY)**.
+2. Välj en av de rekommenderade licenserna eller sök/bläddra efter en standardlicens.
+   - KTH Data Repository använder den välkända **SPDX**-listan över licenser.
+   - Om du inte hittar din licens kan du lägga till en **anpassad licens** (se nästa avsnitt).
+
+## Lägg till en anpassad licens
+
+Om du inte hittar en standardlicens kan du lägga till en anpassad licens.
+
+1. Klicka på **Lägg till anpassad**-knappen.
+2. Ange **titeln** på licensen och valfritt en **beskrivning** samt en **länk** till licensen.
+
+## Blandade licenser i en uppladdning
+
+Du kan behöva ladda upp filer som omfattas av olika licenser (t.ex. programvara under **MIT**-licensen och dokumentation under **CC-BY**-licensen). I sådana fall kan du deklarera alla relevanta licenser i systemet.
