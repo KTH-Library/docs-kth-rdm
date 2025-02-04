@@ -286,4 +286,8 @@ Du bör välja var du ska lägga till en person eller organisation beroende på 
 2. Fyll i bidragsgivarens information på samma sätt som för **skapare** (se [Skapare-dokumentation](#skapare)).
 3. Välj **rollen** för din bidragsgivare.
       - Rollen väljs från **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+      <figure markdown="span">
+      ![Bidragsgivarens roll](assets/images/contributor-role.png){ loading=lazy }
+      <figcaption>Bidragsgivarens roll</figcaption>
+      </figure>
 4. Klicka på **Spara** eller **Spara och lägg till en till**.

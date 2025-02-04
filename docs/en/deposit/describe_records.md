@@ -274,4 +274,8 @@ You should decide where to add a person or organization based on whether they sh
 2. Fill in the contributors' information, similar to **creators** (see [Creators documentation](#creators)).
 3. Choose the **role** for your contributor.
       - The list of roles is based on **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+      <figure markdown="span">
+      ![Mixed license](assets/images/contributor-role.png){ loading=lazy }
+      <figcaption>Contributor role</figcaption>
+      </figure>
 4. Click **Save** or **Save and add another**.
