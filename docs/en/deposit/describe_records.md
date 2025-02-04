@@ -3,10 +3,10 @@
 See the [Create new upload](./create_new_upload.md) for an overview of creating a new upload. This section provides a detailed description of each field available in the deposit form:
 
 - **[Resource types](#resource-types)** — Select the right resource type.
-- **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — How to reserve a DOI for inclusion in files before publication.
+- **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — Reserve a DOI for inclusion in files before publication.
 - **[Titles](#titles)** — How to add a main title and additional titles.
 - **[Publication date](#publication-date)** — Learn to use date ranges or imprecise dates.
-- **Creators** — Learn how to add creators/authors for your post.
+- **[Creators](#creators)** — Learn how to add creators/authors for your post.
 - **Descriptions** — Learn how to add abstracts and notes.
 - **Licenses and rights** — Learn to choose a license for your post.
 - **Contributors** — Learn to add persons/organisations that do not appear in the citation.
@@ -79,3 +79,42 @@ For older content, you may not always know the precise publication date. In thes
 2. **Reduced precision for year** – `2025` refers to the calendar year 2025.
 3. **Time interval** – `2025-01-01/2025-09-23` refers to the time interval beginning on January 1, 2025, and ending on September 23, 2025.
 4. **Time interval imprecise** – `1939/1945` refers to the time interval beginning sometime in 1939 and ending sometime in 1945.
+
+## Creators
+
+The **creators** field is a required field. Creators are the persons or organisations that have created the resource being uploaded (e.g., the authors in the case of papers). Creators are listed in the academic citation.
+
+A creator can be either a:
+
+- **Person**
+- **Organisation**
+
+See also [contributors](#contributors) for how to add persons or organisations that should not appear in the academic citation.
+
+## Add a creator
+
+1. Click **Add creator** to add one or more new creators.
+2. Choose between **Person** or **Organisation** as the name type.
+   - **Person names** are split into family/given name fields and can be auto-completed.
+   - **Organisation names** consist of a single name field and cannot be auto-completed.
+3. Search for an already known person to speed up entry. The search is powered by the ORCID dataset.
+4. Enter the **family name** and **given names**. The split is important for the automatic generation of citation strings.
+5. Enter **name identifiers** for the person/organisation, such as ORCIDs, ISNIs, GNDs, or RORs. These will be automatically normalized by the form.
+6. Enter one or more **affiliations** for the creator. The field is auto-completed from the ROR database.
+   - Prefer selecting an auto-completed option as it uniquely identifies the organisation.
+   - If your organisation is not listed, you may enter the name manually.
+7. Optionally, select a **role** for the creator (e.g., "Editor").
+8. Click **Save and add another** to add more creators, or click **Save** to return to the main form.
+
+## Edit a creator
+
+1. Click the **Edit** button next to a creator to update their information.
+
+## Remove a creator
+
+1. Click the **Remove** button next to a creator to delete them from the list.
+
+## Reorder creators
+
+1. Click and hold the **drag-and-drop icon**.
+2. Drag the creator into the desired order in the list.

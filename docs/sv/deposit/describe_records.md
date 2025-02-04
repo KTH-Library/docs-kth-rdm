@@ -3,10 +3,10 @@
 Se [Skapa ny uppladdning](./create_new_upload.md) för en översikt av att skapa en ny uppladdning. Denna sektion ger en detaljerad beskrivning av varje fält som finns tillgängligt i formuläret för uppladdning:
 
 - **[Resurstyper](#resurstyper)** — Välj rätt resurstyp.
-- **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — Hur man reserverar en DOI för inkludering i filer före publicering.
+- **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — Reserverar en DOI för inkludering i filer före publicering.
 - **[Titlar](#titlar)** — Hur man lägger till huvudtitel och ytterligare titlar.
 - **[Publiceringsdatum](#publiceringsdatum)** — Lär dig använda datumintervall eller oprecisa datum.
-- **Skapare** — Lär dig hur man lägger till skapare/författare för ditt inlägg.
+- **[Skapare](#skapare)** — Lär dig hur man lägger till skapare/författare för ditt inlägg.
 - **Beskrivningar** — Lär dig hur man lägger till sammanfattningar och anteckningar.
 - **Licenser och rättigheter** — Lär dig välja en licens för ditt inlägg.
 - **Bidragsgivare** — Lär dig lägga till personer/organisationer som inte förekommer i citeringen.
@@ -79,3 +79,42 @@ För äldre innehåll kanske du inte alltid vet det exakta publiceringsdatumet. 
 2. **Minskad precision för år** – `2025` avser kalenderåret 2025.
 3. **Tidsintervall** – `2025-01-01/2025-09-23` avser tidsintervallet som börjar den 1 januari 2025 och slutar den 23 september 2025.
 4. **Oprecist tidsintervall** – `1939/1945` avser tidsintervallet som börjar någon gång 1939 och slutar någon gång 1945.
+
+## Skapare
+
+Fältet **skapare** är ett obligatoriskt fält. Skapare är de personer eller organisationer som har skapat resursen som laddas upp (t.ex. författarna i en artikel). Skapare listas i den akademiska citeringen.
+
+En skapare kan vara antingen en:
+
+- **Person**
+- **Organisation**
+
+Se även [bidragsgivare](#bidragsgivare) för hur du lägger till personer eller organisationer som inte ska visas i den akademiska citeringen.
+
+## Lägg till en skapare
+
+1. Klicka på **Lägg till skapare** för att lägga till en eller flera nya skapare.
+2. Välj mellan **Person** eller **Organisation** som namntyp.
+   - **Personnamn** delas upp i fält för efternamn och förnamn och kan fyllas i automatiskt.
+   - **Organisationsnamn** består av ett enda fält och kan inte fyllas i automatiskt.
+3. Sök efter en redan känd person för att underlätta registreringen. Sökningen drivs av ORCID-datasetet.
+4. Ange **efternamn** och **förnamn**. Uppdelningen är viktig för automatisk generering av citeringssträngar.
+5. Ange **namnidentifierare** för personen/organisationen, såsom ORCID, ISNI, GND eller ROR. Dessa normaliseras automatiskt av formuläret.
+6. Ange en eller flera **affilieringar** för skaparen. Fältet fylls i automatiskt från ROR-databasen.
+   - Välj i första hand ett av de automatiskt ifyllda alternativen eftersom det unikt identifierar organisationen.
+   - Om organisationen inte finns i listan kan du skriva in namnet manuellt.
+7. Valfritt: Välj en **roll** för skaparen (t.ex. "Redaktör").
+8. Klicka på **Spara och lägg till en till** för att lägga till fler skapare, eller klicka på **Spara** för att återgå till huvudformuläret.
+
+## Redigera en skapare
+
+1. Klicka på **Redigera**-knappen bredvid en skapare för att uppdatera informationen.
+
+## Ta bort en skapare
+
+1. Klicka på **Ta bort**-knappen bredvid en skapare för att ta bort personen från listan.
+
+## Ändra ordning på skapare
+
+1. Klicka och håll nere **dra-och-släpp-ikonen**.
+2. Dra skaparen till önskad position i listan.
