@@ -45,6 +45,7 @@ Som standard registrerar KTH Data Repository DOIs för alla uppladdningar när d
 ## Reservera en DOI
 
 1. I fältet **Digital Object Identifier**, svara **"Nej"** på frågan *"Har du redan en DOI för denna uppladdning?"*
+
 <figure markdown="span">
     ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
   <figcaption>Har redan en DOI</figcaption>
@@ -66,6 +67,7 @@ Om du tar bort den reserverade DOI:n kan du återfå samma reserverade DOI genom
 Om du redan har delat eller laddat upp ditt inlägg i en annan databas eller tidskrift, kan du redan ha en DOI. I så fall måste du ange den befintliga DOI:n för att förhindra att flera DOI:er registreras för samma innehåll. Observera att om du delar kompletterande data till en tidskriftsartikel, bör du **inte** använda tidskriftsartikelns DOI.
 
 1. I fältet **Digital Object Identifier**, svara **"Ja"** på frågan *"Har du redan en DOI för denna uppladdning?"*
+
 <figure markdown="span">
     ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
   <figcaption>Har redan en DOI</figcaption>
@@ -81,7 +83,16 @@ Du kan valfritt lägga till ytterligare titlar, såsom undertitlar, översatta t
 ## Lägg till en ytterligare titel
 
 1. Klicka på knappen **Lägg till titlar**.
+
+<figure markdown="span">
+   ![lägg till titel](assets/images/add-title.png){ loading=lazy }
+      <figcaption>Lägg till titel textfält</figcaption>
+</figure>
 2. Ange den ytterligare titeln och välj titeltypen (*alternativ titel, undertitel, översatt titel eller annan*).
+<figure markdown="span">
+   ![lägg till ytterligare titel meny](assets/images/aditional-title.png){ loading=lazy }
+      <figcaption>Lägg till ytterligare titel</figcaption>
+</figure>
 3. Valfritt: Ange språket för den ytterligare titeln.
 
 ## Publiceringsdatum

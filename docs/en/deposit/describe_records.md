@@ -83,7 +83,16 @@ You may optionally add additional titles, such as subtitles, translated titles, 
 ## Add an additional title
 
 1. Click the **Add titles** button.
+
+<figure markdown="span">
+   ![add record title](assets/images/add-title.png){ loading=lazy }
+      <figcaption>Add title text input</figcaption>
+</figure>
 2. Provide the additional title and select the title type (*alternative title, subtitle, translated title, or other*).
+<figure markdown="span">
+   ![add additional record title menu](assets/images/aditional-title.png){ loading=lazy }
+      <figcaption>Add additional title</figcaption>
+</figure>
 3. Optionally, set the language of the additional title.
 
 ## Publication date
