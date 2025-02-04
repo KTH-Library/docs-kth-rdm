@@ -45,21 +45,21 @@ By default, the KTH Data Repository registers DOIs for all uploads when they are
 ## Reserve a DOI
 
 1. In the **Digital Object Identifier** field, answer **"No"** to the question *"Do you already have a DOI for this upload?"*
-
-<figure markdown="span">
-    ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
-  <figcaption>Already have a DOI</figcaption>
-</figure>
+      <figure markdown="span">
+         ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+      <figcaption>Already have a DOI</figcaption>
+      </figure>
 2. Click the **Get a DOI now!** button.
-<figure markdown="span">
-    ![Get a new DOI](assets/images/doi-no.png){ loading=lazy }
-  <figcaption>Get a new DOI</figcaption>
-</figure>
+      <figure markdown="span">
+         ![Get a new DOI](assets/images/doi-no.png){ loading=lazy }
+      <figcaption>Get a new DOI</figcaption>
+      </figure>
 3. A DOI will now be reserved for you. You can include this DOI in files before uploading them (e.g., in a text document). You can also remove it by clicking the **X** button next to the DOI.
-<figure markdown="span">
-    ![New DOI Generated](assets/images/doi-generated.png){ loading=lazy }
-  <figcaption>New DOI Generated</figcaption>
-</figure>
+      <figure markdown="span">
+         ![New DOI Generated](assets/images/doi-generated.png){ loading=lazy }
+      <figcaption>New DOI Generated</figcaption>
+      </figure>
+
 If you remove the reserved DOI, you can retrieve the same reserved DOI again by clicking the **Get DOI** button. However, if you delete the draft upload, the reserved DOI is lost.
 
 ## Use an existing DOI
@@ -67,11 +67,10 @@ If you remove the reserved DOI, you can retrieve the same reserved DOI again by 
 If you have already shared or uploaded your record to another repository or journal, you may already have a DOI. In this case, you must provide the existing DOI to prevent multiple DOIs being registered for the same content. Note that if you are sharing supplementary data for a journal article, you should **not** use the journal article DOI.
 
 1. In the **Digital Object Identifier** field, answer **"Yes"** to the question *"Do you already have a DOI for this upload?"*
-
-<figure markdown="span">
-    ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
-  <figcaption>Already have a DOI</figcaption>
-</figure>
+      <figure markdown="span">
+         ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+      <figcaption>Already have a DOI</figcaption>
+      </figure>
 2. Copy and paste (to avoid typos) the existing DOI into the field. The DOI will be validated for conformity, and a given DOI may only be deposited once in the KTH Data Repository (i.e., duplicate detection is in place).
 
 ## Titles
@@ -84,15 +83,15 @@ You may optionally add additional titles, such as subtitles, translated titles, 
 
 1. Click the **Add titles** button.
 
-<figure markdown="span">
-   ![add record title](assets/images/add-title.png){ loading=lazy }
-      <figcaption>Add title text input</figcaption>
-</figure>
+      <figure markdown="span">
+         ![add record title](assets/images/add-title.png){ loading=lazy }
+            <figcaption>Add title text input</figcaption>
+      </figure>
 2. Provide the additional title and select the title type (*alternative title, subtitle, translated title, or other*).
-<figure markdown="span">
-   ![add additional record title menu](assets/images/aditional-title.png){ loading=lazy }
-      <figcaption>Add additional title</figcaption>
-</figure>
+      <figure markdown="span">
+         ![add additional record title menu](assets/images/aditional-title.png){ loading=lazy }
+            <figcaption>Add additional title</figcaption>
+      </figure>
 3. Optionally, set the language of the additional title.
 
 ## Publication date
@@ -197,7 +196,15 @@ The **description** field is a recommended field. It is typically used to provid
 1. Click the **Add description** button to add an additional description.
 2. Fill in the additional description.
       - You can remove the description by clicking the **remove icon (X)**.
+      <figure markdown="span">
+         ![add additional description menu](assets/images/additional-description.png){ loading=lazy }
+            <figcaption>additional description menu</figcaption>
+      </figure>
 3. Choose a **description type**, and optionally, select the **language** of the description.
+      <figure markdown="span">
+         ![add additional description menu](assets/images/additional-description-types.png){ loading=lazy }
+            <figcaption>additional description types</figcaption>
+      </figure>
 
 ## Licenses and rights
 

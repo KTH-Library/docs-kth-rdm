@@ -208,7 +208,15 @@ Fältet **beskrivning** är ett rekommenderat fält. Det används vanligtvis fö
 1. Klicka på **Lägg till beskrivning**-knappen för att lägga till en ytterligare beskrivning.
 2. Fyll i den ytterligare beskrivningen.
    - Du kan ta bort beskrivningen genom att klicka på **ta bort-ikonen (X)**.
+      <figure markdown="span">
+         ![lägg till ytterligare beskrivning meny](assets/images/additional-description.png){ loading=lazy }
+            <figcaption>lägg till ytterligare beskrivning meny</figcaption>
+      </figure>
 3. Välj en **beskrivningstyp**, och ange valfritt **språk** för beskrivningen.
+      <figure markdown="span">
+         ![lägg till ytterligare beskrivning typer](assets/images/additional-description-types.png){ loading=lazy }
+            <figcaption>lägg till ytterligare beskrivning typer</figcaption>
+      </figure>
 
 ## Licenser och rättigheter
 
