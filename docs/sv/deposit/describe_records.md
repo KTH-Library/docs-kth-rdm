@@ -14,6 +14,10 @@ Se [Skapa ny uppladdning](./create_new_upload.md) för en översikt av att skapa
 ## Resurstyper
 
 Fältet för resurstyp är ett obligatoriskt fält i formuläret för uppladdning. Resurstypen används för att beskriva filernas natur och är viktig för att göra ditt inlägg sökbart.
+<figure markdown="span">
+    ![resurstyp meny](assets/images/resource-types.png){ loading=lazy }
+  <figcaption>Resurstyp meny</figcaption>
+</figure>
 
 ## Välja en resurstyp
 
@@ -41,9 +45,20 @@ Som standard registrerar KTH Data Repository DOIs för alla uppladdningar när d
 ## Reservera en DOI
 
 1. I fältet **Digital Object Identifier**, svara **"Nej"** på frågan *"Har du redan en DOI för denna uppladdning?"*
+<figure markdown="span">
+    ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
+  <figcaption>Har redan en DOI</figcaption>
+</figure>
 2. Klicka på knappen **Få en DOI nu!**
+<figure markdown="span">
+    ![Få en ny DOI](assets/images/doi-no.png){ loading=lazy }
+  <figcaption>Få en ny DOI</figcaption>
+</figure>
 3. En DOI kommer nu att reserveras för dig. Du kan inkludera denna DOI i filer innan du laddar upp dem (t.ex. i ett textdokument). Du kan också ta bort den genom att klicka på **X-knappen** bredvid DOI:n.
-
+<figure markdown="span">
+    ![Ny DOI genererad](assets/images/doi-generated.png){ loading=lazy }
+  <figcaption>Ny DOI genererad</figcaption>
+</figure>
 Om du tar bort den reserverade DOI:n kan du återfå samma reserverade DOI genom att klicka på **Få DOI**-knappen igen. Om du däremot raderar utkastet till uppladdningen går den reserverade DOI:n förlorad.
 
 ## Använd en befintlig DOI
@@ -51,6 +66,10 @@ Om du tar bort den reserverade DOI:n kan du återfå samma reserverade DOI genom
 Om du redan har delat eller laddat upp ditt inlägg i en annan databas eller tidskrift, kan du redan ha en DOI. I så fall måste du ange den befintliga DOI:n för att förhindra att flera DOI:er registreras för samma innehåll. Observera att om du delar kompletterande data till en tidskriftsartikel, bör du **inte** använda tidskriftsartikelns DOI.
 
 1. I fältet **Digital Object Identifier**, svara **"Ja"** på frågan *"Har du redan en DOI för denna uppladdning?"*
+<figure markdown="span">
+    ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
+  <figcaption>Har redan en DOI</figcaption>
+</figure>
 2. Kopiera och klistra in (för att undvika skrivfel) den befintliga DOI:n i fältet. DOI:n kommer att valideras för korrekt format, och en given DOI kan endast registreras en gång i KTH Data Repository (dubbleringar upptäcks automatiskt).
 
 ## Titlar

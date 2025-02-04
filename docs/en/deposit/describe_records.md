@@ -14,7 +14,10 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 ## Resource types
 
 The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your record.
-![alt text](image.png)
+<figure markdown="span">
+    ![resource type menu](assets/images/resource-types.png){ loading=lazy }
+  <figcaption>Login page</figcaption>
+</figure>
 
 ## Selecting a resource type
 
@@ -42,9 +45,21 @@ By default, the KTH Data Repository registers DOIs for all uploads when they are
 ## Reserve a DOI
 
 1. In the **Digital Object Identifier** field, answer **"No"** to the question *"Do you already have a DOI for this upload?"*
-2. Click the **Get a DOI now!** button.
-3. A DOI will now be reserved for you. You can include this DOI in files before uploading them (e.g., in a text document). You can also remove it by clicking the **X** button next to the DOI.
 
+<figure markdown="span">
+    ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+  <figcaption>Already have a DOI</figcaption>
+</figure>
+2. Click the **Get a DOI now!** button.
+<figure markdown="span">
+    ![Get a new DOI](assets/images/doi-no.png){ loading=lazy }
+  <figcaption>Get a new DOI</figcaption>
+</figure>
+3. A DOI will now be reserved for you. You can include this DOI in files before uploading them (e.g., in a text document). You can also remove it by clicking the **X** button next to the DOI.
+<figure markdown="span">
+    ![New DOI Generated](assets/images/doi-generated.png){ loading=lazy }
+  <figcaption>New DOI Generated</figcaption>
+</figure>
 If you remove the reserved DOI, you can retrieve the same reserved DOI again by clicking the **Get DOI** button. However, if you delete the draft upload, the reserved DOI is lost.
 
 ## Use an existing DOI
@@ -52,6 +67,11 @@ If you remove the reserved DOI, you can retrieve the same reserved DOI again by 
 If you have already shared or uploaded your record to another repository or journal, you may already have a DOI. In this case, you must provide the existing DOI to prevent multiple DOIs being registered for the same content. Note that if you are sharing supplementary data for a journal article, you should **not** use the journal article DOI.
 
 1. In the **Digital Object Identifier** field, answer **"Yes"** to the question *"Do you already have a DOI for this upload?"*
+
+<figure markdown="span">
+    ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+  <figcaption>Already have a DOI</figcaption>
+</figure>
 2. Copy and paste (to avoid typos) the existing DOI into the field. The DOI will be validated for conformity, and a given DOI may only be deposited once in the KTH Data Repository (i.e., duplicate detection is in place).
 
 ## Titles
