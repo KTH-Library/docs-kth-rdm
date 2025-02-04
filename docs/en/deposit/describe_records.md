@@ -8,12 +8,13 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 - **[Publication date](#publication-date)** — Learn to use date ranges or imprecise dates.
 - **[Creators](#creators)** — Learn how to add creators/authors for your record.
 - **[Descriptions](#descriptions)** — Learn how to add abstracts and notes.
-- **Licenses and rights** — Learn to choose a license for your record.
-- **Contributors** — Learn to add persons/organizations that do not appear in the citation.
+- **[Licenses and rights](#licenses-and-rights)** — Learn to choose a license for your record.
+- **[Contributors](#contributors)** — Learn to add persons/organizations that do not appear in the citation.
 
 ## Resource types
 
 The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your record.
+![alt text](image.png)
 
 ## Selecting a resource type
 
@@ -73,7 +74,7 @@ Note that in addition to the publication date, the KTH Data Repository keeps tra
 
 ## Imprecise dates (EDTF)
 
-For older content, you may not always know the precise publication date. In these cases, you can use both imprecise dates and date ranges following the **Extended Date Time Format (EDTF) Level 1** standard:
+For older content, you may not always know the precise publication date. In these cases, you can use both imprecise dates and date ranges following the **[Extended Date Time Format](https://www.loc.gov/standards/datetime/) (EDTF) Level 1** standard:
 
 1. **Reduced precision for year and month** – `2025-09` refers to the month of September 2025.
 2. **Reduced precision for year** – `2025` refers to the calendar year 2025.
@@ -143,7 +144,7 @@ The **description** field is a recommended field. It is typically used to provid
 
 ## Licenses and rights
 
-The **license** field is a required field. Providing a license for your post is important to allow other users to reuse your upload. The KTH Data Repository defaults to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
+The **license** field is a required field. Providing a license for your record is important to allow other users to reuse your upload. The KTH Data Repository defaults to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
 
 ## Choosing a license
 
@@ -158,7 +159,7 @@ Once you have chosen a license, follow the steps below to select it in the KTH D
 
 1. Click the **Edit** button next to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
 2. Choose one of the widely recommended licenses presented, or search/browse for a standard license.
-   - The KTH Data Repository relies on the widely used **SPDX** list of licenses.
+   - The KTH Data Repository relies on the widely used **[SPDX](https://spdx.org/licenses/)** list of licenses.
    - If you cannot find your license, you can add a **custom license** (see next section).
 
 ## Add a custom license
@@ -171,3 +172,26 @@ If you cannot find a standard license, you can add a custom license.
 ## Mixed license uploads
 
 You may need to upload files that fall under different licenses (e.g., software under the **MIT** license, but documentation under the **CC-BY** license). In such cases, you can declare all the applicable licenses in the system.
+
+## Contributors
+
+The **contributors** field is a recommended field. Use this field to provide information about persons or organisations that have contributed to the record, such as **supervisors, contact persons, sponsors**, etc. Contributors are **not** included in the academic citation.
+
+## Creators vs. Contributors
+
+The main difference between **creators** and **contributors** is summarized in the table below:
+
+| | Included in citation | Role required |
+|------------------|-----|-----|
+| **Creators**     | Yes | No  |
+| **Contributors** | No  | Yes |
+
+You should decide where to add a person or organization based on whether they should appear in the academic citation.
+
+## Add a contributor
+
+1. Click the **Add contributor** button to add one or more contributors.
+2. Fill in the contributors' information, similar to **creators** (see [Creators documentation](#creators)).
+3. Choose the **role** for your contributor.
+   - The list of roles is based on **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+4. Click **Save** or **Save and add another**.

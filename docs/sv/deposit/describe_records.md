@@ -8,8 +8,8 @@ Se [Skapa ny uppladdning](./create_new_upload.md) för en översikt av att skapa
 - **[Publiceringsdatum](#publiceringsdatum)** — Lär dig använda datumintervall eller oprecisa datum.
 - **[Skapare](#skapare)** — Lär dig hur man lägger till skapare/författare för ditt inlägg.
 - **[Beskrivningar](#beskrivningar)** — Lär dig hur man lägger till sammanfattningar och anteckningar.
-- **Licenser och rättigheter** — Lär dig välja en licens för ditt inlägg.
-- **Bidragsgivare** — Lär dig lägga till personer/organisationer som inte förekommer i citeringen.
+- **[Licenser och rättigheter](#licenser-och-rattigheter)** — Lär dig välja en licens för ditt inlägg.
+- **[Bidragsgivare](#bidragsgivare)** — Lär dig lägga till personer/organisationer som inte förekommer i citeringen.
 
 ## Resurstyper
 
@@ -73,7 +73,7 @@ Observera att förutom publiceringsdatumet, håller KTH Data Repository reda på
 
 ## Oprecisa datum (EDTF)
 
-För äldre innehåll kanske du inte alltid vet det exakta publiceringsdatumet. I dessa fall kan du använda både oprecisa datum och datumintervall enligt **Extended Date Time Format (EDTF) Level 1**-standarden:
+För äldre innehåll kanske du inte alltid vet det exakta publiceringsdatumet. I dessa fall kan du använda både oprecisa datum och datumintervall enligt **[Extended Date Time Format](https://www.loc.gov/standards/datetime/) (EDTF) Level 1**-standarden:
 
 1. **Minskad precision för år och månad** – `2025-09` avser månaden september 2025.
 2. **Minskad precision för år** – `2025` avser kalenderåret 2025.
@@ -158,7 +158,7 @@ När du har valt en licens, följ stegen nedan för att välja den i KTH Data Re
 
 1. Klicka på **Redigera**-knappen bredvid licensen **Creative Commons Attribution 4.0 International (CC-BY)**.
 2. Välj en av de rekommenderade licenserna eller sök/bläddra efter en standardlicens.
-   - KTH Data Repository använder den välkända **SPDX**-listan över licenser.
+   - KTH Data Repository använder den välkända **[SPDX](https://spdx.org/licenses/)**-listan över licenser.
    - Om du inte hittar din licens kan du lägga till en **anpassad licens** (se nästa avsnitt).
 
 ## Lägg till en anpassad licens
@@ -171,3 +171,26 @@ Om du inte hittar en standardlicens kan du lägga till en anpassad licens.
 ## Blandade licenser i en uppladdning
 
 Du kan behöva ladda upp filer som omfattas av olika licenser (t.ex. programvara under **MIT**-licensen och dokumentation under **CC-BY**-licensen). I sådana fall kan du deklarera alla relevanta licenser i systemet.
+
+## Bidragsgivare
+
+Fältet **bidragsgivare** är ett rekommenderat fält. Använd detta fält för att ange personer eller organisationer som har bidragit till inlägget, såsom **handledare, kontaktpersoner, sponsorer**, etc. Bidragsgivare **inkluderas inte** i den akademiska citeringen.
+
+## Skapare vs. Bidragsgivare
+
+Den huvudsakliga skillnaden mellan **skapare** och **bidragsgivare** sammanfattas i tabellen nedan:
+
+| | Ingår i citering | Roll krävs |
+|---|---|---|
+| **Skapare** | Ja | Nej |
+| **Bidragsgivare** | Nej | Ja |
+
+Du bör välja var du ska lägga till en person eller organisation beroende på om de ska visas i den akademiska citeringen eller inte.
+
+## Lägg till en bidragsgivare
+
+1. Klicka på **Lägg till bidragsgivare**-knappen för att lägga till en eller flera bidragsgivare.
+2. Fyll i bidragsgivarens information på samma sätt som för **skapare** (se [Skapare-dokumentation](#skapare)).
+3. Välj **rollen** för din bidragsgivare.
+   - Rollen väljs från **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+4. Klicka på **Spara** eller **Spara och lägg till en till**.
