@@ -124,30 +124,58 @@ See also [contributors](#contributors) for how to add persons or organizations t
 ## Add a creator
 
 1. Click **Add creator** to add one or more new creators.
+      <figure markdown="span">
+         ![add creator button](assets/images/add-creator-btn.png){ loading=lazy }
+            <figcaption>Add creator button</figcaption>
+      </figure>
 2. Choose between **Person** or **Organisation** as the name type.
-   - **Person names** are split into family/given name fields and can be auto-completed.
-   - **Organisation names** consist of a single name field and cannot be auto-completed.
+      - **Person names** are split into family/given name fields and can be auto-completed.
+      - **Organisation names** consist of a single name field and cannot be auto-completed.
+      <figure markdown="span">
+         ![add creator menu](assets/images/add-creator-menu.png){ loading=lazy }
+            <figcaption>Add creator menu</figcaption>
+      </figure>
 3. Search for an already known person to speed up entry. The search is powered by the ORCID dataset.
+      <figure markdown="span">
+         ![add creator autocomplete](assets/images/add-creator-menu-autocomplete.png){ loading=lazy }
+            <figcaption>Add creator autocomplete</figcaption>
+      </figure>
 4. Enter the **family name** and **given names**. The split is important for the automatic generation of citation strings.
 5. Enter **name identifiers** for the person/organisation, such as ORCIDs, ISNIs, GNDs, or RORs. These will be automatically normalized by the form.
 6. Enter one or more **affiliations** for the creator. The field is auto-completed from the ROR database.
-   - Prefer selecting an auto-completed option as it uniquely identifies the organisation.
-   - If your organisation is not listed, you may enter the name manually.
+      - Prefer selecting an auto-completed option as it uniquely identifies the organisation.
+      - If your organisation is not listed, you may enter the name manually.
+      <figure markdown="span">
+         ![add affiliation](assets/images/add-affiliations.png){ loading=lazy }
+            <figcaption>Add affiliation</figcaption>
+      </figure>
 7. Optionally, select a **role** for the creator (e.g., "Editor").
 8. Click **Save and add another** to add more creators, or click **Save** to return to the main form.
 
 ## Edit a creator
 
 1. Click the **Edit** button next to a creator to update their information.
+      <figure markdown="span">
+         ![edit creators](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Edit creators</figcaption>
+      </figure>
 
 ## Remove a creator
 
 1. Click the **Remove** button next to a creator to delete them from the list.
+      <figure markdown="span">
+         ![remove creators](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Remove creators</figcaption>
+      </figure>
 
 ## Reorder creators
 
 1. Click and hold the **drag-and-drop icon**.
 2. Drag the creator into the desired order in the list.
+      <figure markdown="span">
+         ![Reorder creators](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Reorder creators</figcaption>
+      </figure>
 
 ## Descriptions
 
@@ -157,18 +185,18 @@ The **description** field is a recommended field. It is typically used to provid
 
 1. Enter an **abstract** for your record.
    - You may use basic formatting, including:
-     - Paragraphs
-     - Headings
-     - Bold/italic text
-     - Links
-     - Bullet lists
-     - Quotes
+      - Paragraphs
+      - Headings
+      - Bold/italic text
+      - Links
+      - Bullet lists
+      - Quotes
 
 ## Add an additional description (e.g., notes, methods)
 
 1. Click the **Add description** button to add an additional description.
 2. Fill in the additional description.
-   - You can remove the description by clicking the **remove icon (X)**.
+      - You can remove the description by clicking the **remove icon (X)**.
 3. Choose a **description type**, and optionally, select the **language** of the description.
 
 ## Licenses and rights

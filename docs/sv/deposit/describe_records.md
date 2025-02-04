@@ -45,17 +45,19 @@ Som standard registrerar KTH Data Repository DOIs för alla uppladdningar när d
 ## Reservera en DOI
 
 1. I fältet **Digital Object Identifier**, svara **"Nej"** på frågan *"Har du redan en DOI för denna uppladdning?"*
-
-<figure markdown="span">
-    ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
-  <figcaption>Har redan en DOI</figcaption>
-</figure>
+    <figure markdown="span">
+       ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
+    <figcaption>Har redan en DOI</figcaption>
+    </figure>
 2. Klicka på knappen **Få en DOI nu!**
-<figure markdown="span">
-    ![Få en ny DOI](assets/images/doi-no.png){ loading=lazy }
-  <figcaption>Få en ny DOI</figcaption>
-</figure>
+
+    <figure markdown="span">
+      ![Få en ny DOI](assets/images/doi-no.png){ loading=lazy }
+      <figcaption>Få en ny DOI</figcaption>
+    </figure>
+
 3. En DOI kommer nu att reserveras för dig. Du kan inkludera denna DOI i filer innan du laddar upp dem (t.ex. i ett textdokument). Du kan också ta bort den genom att klicka på **X-knappen** bredvid DOI:n.
+
 <figure markdown="span">
     ![Ny DOI genererad](assets/images/doi-generated.png){ loading=lazy }
   <figcaption>Ny DOI genererad</figcaption>
@@ -68,10 +70,10 @@ Om du redan har delat eller laddat upp ditt inlägg i en annan databas eller tid
 
 1. I fältet **Digital Object Identifier**, svara **"Ja"** på frågan *"Har du redan en DOI för denna uppladdning?"*
 
-<figure markdown="span">
-    ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
-  <figcaption>Har redan en DOI</figcaption>
-</figure>
+    <figure markdown="span">
+         ![Har redan en DOI](assets/images/doi-yes.png){ loading=lazy }
+      <figcaption>Har redan en DOI</figcaption>
+    </figure>
 2. Kopiera och klistra in (för att undvika skrivfel) den befintliga DOI:n i fältet. DOI:n kommer att valideras för korrekt format, och en given DOI kan endast registreras en gång i KTH Data Repository (dubbleringar upptäcks automatiskt).
 
 ## Titlar
@@ -84,15 +86,17 @@ Du kan valfritt lägga till ytterligare titlar, såsom undertitlar, översatta t
 
 1. Klicka på knappen **Lägg till titlar**.
 
-<figure markdown="span">
-   ![lägg till titel](assets/images/add-title.png){ loading=lazy }
-      <figcaption>Lägg till titel textfält</figcaption>
-</figure>
+      <figure markdown="span">
+         ![lägg till titel](assets/images/add-title.png){ loading=lazy }
+            <figcaption>Lägg till titel textfält</figcaption>
+      </figure>
+
 2. Ange den ytterligare titeln och välj titeltypen (*alternativ titel, undertitel, översatt titel eller annan*).
-<figure markdown="span">
-   ![lägg till ytterligare titel meny](assets/images/aditional-title.png){ loading=lazy }
-      <figcaption>Lägg till ytterligare titel</figcaption>
-</figure>
+
+      <figure markdown="span">
+         ![lägg till ytterligare titel meny](assets/images/aditional-title.png){ loading=lazy }
+            <figcaption>Lägg till ytterligare titel</figcaption>
+      </figure>
 3. Valfritt: Ange språket för den ytterligare titeln.
 
 ## Publiceringsdatum
@@ -124,30 +128,65 @@ Se även [bidragsgivare](#bidragsgivare) för hur du lägger till personer eller
 ## Lägg till en skapare
 
 1. Klicka på **Lägg till skapare** för att lägga till en eller flera nya skapare.
+
+      <figure markdown="span">
+         ![lägg till skapare knapp](assets/images/add-creator-btn.png){ loading=lazy }
+            <figcaption>Lägg till skapare knapp</figcaption>
+      </figure>
 2. Välj mellan **Person** eller **Organisation** som namntyp.
    - **Personnamn** delas upp i fält för efternamn och förnamn och kan fyllas i automatiskt.
    - **Organisationsnamn** består av ett enda fält och kan inte fyllas i automatiskt.
+      <figure markdown="span">
+         ![lägg till skapare meny](assets/images/add-creator-menu.png){ loading=lazy }
+            <figcaption>Lägg till skapare meny</figcaption>
+      </figure>
 3. Sök efter en redan känd person för att underlätta registreringen. Sökningen drivs av ORCID-datasetet.
+      <figure markdown="span">
+         ![lägg till skapare autocomplete](assets/images/add-creator-menu-autocomplete.png){ loading=lazy }
+            <figcaption>Lägg till skapare autocomplete</figcaption>
+      </figure>
 4. Ange **efternamn** och **förnamn**. Uppdelningen är viktig för automatisk generering av citeringssträngar.
+
 5. Ange **namnidentifierare** för personen/organisationen, såsom ORCID, ISNI, GND eller ROR. Dessa normaliseras automatiskt av formuläret.
+
 6. Ange en eller flera **affilieringar** för skaparen. Fältet fylls i automatiskt från ROR-databasen.
-   - Välj i första hand ett av de automatiskt ifyllda alternativen eftersom det unikt identifierar organisationen.
-   - Om organisationen inte finns i listan kan du skriva in namnet manuellt.
+    - Välj i första hand ett av de automatiskt ifyllda alternativen eftersom det unikt identifierar organisationen.
+    - Om organisationen inte finns i listan kan du skriva in namnet manuellt.
+      <figure markdown="span">
+         ![lägg till affiliering](assets/images/add-affiliations.png){ loading=lazy }
+            <figcaption>Lägg till affiliering</figcaption>
+      </figure>
 7. Valfritt: Välj en **roll** för skaparen (t.ex. "Redaktör").
+
 8. Klicka på **Spara och lägg till en till** för att lägga till fler skapare, eller klicka på **Spara** för att återgå till huvudformuläret.
 
 ## Redigera en skapare
 
 1. Klicka på **Redigera**-knappen bredvid en skapare för att uppdatera informationen.
 
+      <figure markdown="span">
+         ![redigera skapare](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Redigera skapare</figcaption>
+      </figure>
+
 ## Ta bort en skapare
 
 1. Klicka på **Ta bort**-knappen bredvid en skapare för att ta bort personen från listan.
+
+      <figure markdown="span">
+         ![ta bort skapare](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Ta bort skapare</figcaption>
+      </figure>
 
 ## Ändra ordning på skapare
 
 1. Klicka och håll nere **dra-och-släpp-ikonen**.
 2. Dra skaparen till önskad position i listan.
+
+      <figure markdown="span">
+         ![ändra ordning på skapare](assets/images/creators-list.png){ loading=lazy }
+            <figcaption>Ändra ordning på skapare</figcaption>
+      </figure>
 
 ## Beskrivningar
 
