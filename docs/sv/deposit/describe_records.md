@@ -7,7 +7,7 @@ Se [Skapa ny uppladdning](./create_new_upload.md) för en översikt av att skapa
 - **[Titlar](#titlar)** — Hur man lägger till huvudtitel och ytterligare titlar.
 - **[Publiceringsdatum](#publiceringsdatum)** — Lär dig använda datumintervall eller oprecisa datum.
 - **[Skapare](#skapare)** — Lär dig hur man lägger till skapare/författare för ditt inlägg.
-- **Beskrivningar** — Lär dig hur man lägger till sammanfattningar och anteckningar.
+- **[Beskrivningar](#beskrivningar)** — Lär dig hur man lägger till sammanfattningar och anteckningar.
 - **Licenser och rättigheter** — Lär dig välja en licens för ditt inlägg.
 - **Bidragsgivare** — Lär dig lägga till personer/organisationer som inte förekommer i citeringen.
 
@@ -118,3 +118,25 @@ Se även [bidragsgivare](#bidragsgivare) för hur du lägger till personer eller
 
 1. Klicka och håll nere **dra-och-släpp-ikonen**.
 2. Dra skaparen till önskad position i listan.
+
+## Beskrivningar
+
+Fältet **beskrivning** är ett rekommenderat fält. Det används vanligtvis för att ange en sammanfattning av ditt inlägg. Du kan även lägga till ytterligare beskrivningar, såsom metoder, teknisk information och anteckningar.
+
+## Lägg till en beskrivning
+
+1. Ange en **sammanfattning** för ditt inlägg.
+   - Du kan använda grundläggande formatering, inklusive:
+     - Stycken
+     - Rubriker
+     - Fet/kursiv text
+     - Länkar
+     - Punktlistor
+     - Citat
+
+## Lägg till en ytterligare beskrivning (t.ex. anteckningar, metoder)
+
+1. Klicka på **Lägg till beskrivning**-knappen för att lägga till en ytterligare beskrivning.
+2. Fyll i den ytterligare beskrivningen.
+   - Du kan ta bort beskrivningen genom att klicka på **ta bort-ikonen (X)**.
+3. Välj en **beskrivningstyp**, och ange valfritt **språk** för beskrivningen.

@@ -1,4 +1,4 @@
-# Describe posts
+# Describe records
 
 See the [Create new upload](./create_new_upload.md) for an overview of creating a new upload. This section provides a detailed description of each field available in the deposit form:
 
@@ -6,14 +6,14 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 - **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — Reserve a DOI for inclusion in files before publication.
 - **[Titles](#titles)** — How to add a main title and additional titles.
 - **[Publication date](#publication-date)** — Learn to use date ranges or imprecise dates.
-- **[Creators](#creators)** — Learn how to add creators/authors for your post.
-- **Descriptions** — Learn how to add abstracts and notes.
-- **Licenses and rights** — Learn to choose a license for your post.
-- **Contributors** — Learn to add persons/organisations that do not appear in the citation.
+- **[Creators](#creators)** — Learn how to add creators/authors for your record.
+- **[Descriptions](#descriptions)** — Learn how to add abstracts and notes.
+- **Licenses and rights** — Learn to choose a license for your record.
+- **Contributors** — Learn to add persons/organizations that do not appear in the citation.
 
 ## Resource types
 
-The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your post.
+The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your record.
 
 ## Selecting a resource type
 
@@ -25,11 +25,11 @@ The resource type field is a required field in the deposit form. The resource ty
 You may find that you want to share a digital object that consists of, for example, both data and software, or any other combination of multiple resource types. In these cases, there are two possible solutions:
 
 1. **Choose one type** – Select the resource type that you believe best describes and/or is most significant for the upload. For instance, the main contribution may be the dataset, while the software consists of a couple of processing scripts.
-2. **Split the upload** – Divide the upload into multiple posts, one per resource type. Choose this method when both, for example, the dataset and software are significant contributions in themselves.
+2. **Split the upload** – Divide the upload into multiple records, one per resource type. Choose this method when both, for example, the dataset and software are significant contributions in themselves.
 
 ## Digital Object Identifier (DOI)
 
-A Digital Object Identifier (DOI) is a globally unique persistent identifier for your post. The DOI is important because:
+A Digital Object Identifier (DOI) is a globally unique persistent identifier for your record. The DOI is important because:
 
 - It provides a permanent link to your upload so readers can always reliably locate your content.
 - It is important for discovery systems to attribute citations correctly.
@@ -48,14 +48,14 @@ If you remove the reserved DOI, you can retrieve the same reserved DOI again by 
 
 ## Use an existing DOI
 
-If you have already shared or uploaded your post to another repository or journal, you may already have a DOI. In this case, you must provide the existing DOI to prevent multiple DOIs being registered for the same content. Note that if you are sharing supplementary data for a journal article, you should **not** use the journal article DOI.
+If you have already shared or uploaded your record to another repository or journal, you may already have a DOI. In this case, you must provide the existing DOI to prevent multiple DOIs being registered for the same content. Note that if you are sharing supplementary data for a journal article, you should **not** use the journal article DOI.
 
 1. In the **Digital Object Identifier** field, answer **"Yes"** to the question *"Do you already have a DOI for this upload?"*
 2. Copy and paste (to avoid typos) the existing DOI into the field. The DOI will be validated for conformity, and a given DOI may only be deposited once in the KTH Data Repository (i.e., duplicate detection is in place).
 
 ## Titles
 
-The title field is a required field in the deposit form. The title is essential for readers to discover your research, and it is used in citations and when posts are displayed anywhere in the repository.
+The title field is a required field in the deposit form. The title is essential for readers to discover your research, and it is used in citations and when records are displayed anywhere in the repository.
 
 You may optionally add additional titles, such as subtitles, translated titles, or alternative titles.
 
@@ -69,7 +69,7 @@ You may optionally add additional titles, such as subtitles, translated titles, 
 
 The **publication date** field is a required field. By default, it is set to the date the draft was created. If your upload was previously published elsewhere (e.g., as a journal article), please use the date of the first publication.
 
-Note that in addition to the publication date, the KTH Data Repository keeps track of the date a post was uploaded to the repository.
+Note that in addition to the publication date, the KTH Data Repository keeps track of the date a record was uploaded to the repository.
 
 ## Imprecise dates (EDTF)
 
@@ -82,14 +82,14 @@ For older content, you may not always know the precise publication date. In thes
 
 ## Creators
 
-The **creators** field is a required field. Creators are the persons or organisations that have created the resource being uploaded (e.g., the authors in the case of papers). Creators are listed in the academic citation.
+The **creators** field is a required field. Creators are the persons or organizations that have created the resource being uploaded (e.g., the authors in the case of papers). Creators are listed in the academic citation.
 
 A creator can be either a:
 
 - **Person**
 - **Organisation**
 
-See also [contributors](#contributors) for how to add persons or organisations that should not appear in the academic citation.
+See also [contributors](#contributors) for how to add persons or organizations that should not appear in the academic citation.
 
 ## Add a creator
 
@@ -118,3 +118,25 @@ See also [contributors](#contributors) for how to add persons or organisations t
 
 1. Click and hold the **drag-and-drop icon**.
 2. Drag the creator into the desired order in the list.
+
+## Descriptions
+
+The **description** field is a recommended field. It is typically used to provide an abstract of your record. Additionally, you can add other descriptions, such as methods, technical information, and notes.
+
+## Add a description
+
+1. Enter an **abstract** for your record.
+   - You may use basic formatting, including:
+     - Paragraphs
+     - Headings
+     - Bold/italic text
+     - Links
+     - Bullet lists
+     - Quotes
+
+## Add an additional description (e.g., notes, methods)
+
+1. Click the **Add description** button to add an additional description.
+2. Fill in the additional description.
+   - You can remove the description by clicking the **remove icon (X)**.
+3. Choose a **description type**, and optionally, select the **language** of the description.
