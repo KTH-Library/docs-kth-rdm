@@ -4,8 +4,8 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 
 - **[Resource types](#resource-types)** — Select the right resource type.
 - **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — How to reserve a DOI for inclusion in files before publication.
-- **Titles** — How to add a main title and additional titles.
-- **Publication date** — Learn to use date ranges or imprecise dates.
+- **[Titles](#titles)** — How to add a main title and additional titles.
+- **[Publication date](#publication-date)** — Learn to use date ranges or imprecise dates.
 - **Creators** — Learn how to add creators/authors for your post.
 - **Descriptions** — Learn how to add abstracts and notes.
 - **Licenses and rights** — Learn to choose a license for your post.
@@ -52,3 +52,30 @@ If you have already shared or uploaded your post to another repository or journa
 
 1. In the **Digital Object Identifier** field, answer **"Yes"** to the question *"Do you already have a DOI for this upload?"*
 2. Copy and paste (to avoid typos) the existing DOI into the field. The DOI will be validated for conformity, and a given DOI may only be deposited once in the KTH Data Repository (i.e., duplicate detection is in place).
+
+## Titles
+
+The title field is a required field in the deposit form. The title is essential for readers to discover your research, and it is used in citations and when posts are displayed anywhere in the repository.
+
+You may optionally add additional titles, such as subtitles, translated titles, or alternative titles.
+
+## Add an additional title
+
+1. Click the **Add titles** button.
+2. Provide the additional title and select the title type (*alternative title, subtitle, translated title, or other*).
+3. Optionally, set the language of the additional title.
+
+## Publication date
+
+The **publication date** field is a required field. By default, it is set to the date the draft was created. If your upload was previously published elsewhere (e.g., as a journal article), please use the date of the first publication.
+
+Note that in addition to the publication date, the KTH Data Repository keeps track of the date a post was uploaded to the repository.
+
+## Imprecise dates (EDTF)
+
+For older content, you may not always know the precise publication date. In these cases, you can use both imprecise dates and date ranges following the **Extended Date Time Format (EDTF) Level 1** standard:
+
+1. **Reduced precision for year and month** – `2025-09` refers to the month of September 2025.
+2. **Reduced precision for year** – `2025` refers to the calendar year 2025.
+3. **Time interval** – `2025-01-01/2025-09-23` refers to the time interval beginning on January 1, 2025, and ending on September 23, 2025.
+4. **Time interval imprecise** – `1939/1945` refers to the time interval beginning sometime in 1939 and ending sometime in 1945.

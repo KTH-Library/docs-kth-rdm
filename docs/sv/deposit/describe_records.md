@@ -4,8 +4,8 @@ Se [Skapa ny uppladdning](./create_new_upload.md) för en översikt av att skapa
 
 - **[Resurstyper](#resurstyper)** — Välj rätt resurstyp.
 - **[Digital Object Identifier (DOI)](#digital-object-identifier-doi)** — Hur man reserverar en DOI för inkludering i filer före publicering.
-- **Titlar** — Hur man lägger till huvudtitel och ytterligare titlar.
-- **Publiceringsdatum** — Lär dig använda datumintervall eller oprecisa datum.
+- **[Titlar](#titlar)** — Hur man lägger till huvudtitel och ytterligare titlar.
+- **[Publiceringsdatum](#publiceringsdatum)** — Lär dig använda datumintervall eller oprecisa datum.
 - **Skapare** — Lär dig hur man lägger till skapare/författare för ditt inlägg.
 - **Beskrivningar** — Lär dig hur man lägger till sammanfattningar och anteckningar.
 - **Licenser och rättigheter** — Lär dig välja en licens för ditt inlägg.
@@ -52,3 +52,30 @@ Om du redan har delat eller laddat upp ditt inlägg i en annan databas eller tid
 
 1. I fältet **Digital Object Identifier**, svara **"Ja"** på frågan *"Har du redan en DOI för denna uppladdning?"*
 2. Kopiera och klistra in (för att undvika skrivfel) den befintliga DOI:n i fältet. DOI:n kommer att valideras för korrekt format, och en given DOI kan endast registreras en gång i KTH Data Repository (dubbleringar upptäcks automatiskt).
+
+## Titlar
+
+Titel-fältet är ett obligatoriskt fält i formuläret för uppladdning. Titeln är viktig för att läsare ska kunna hitta din forskning och används i citeringar samt vid visning av inlägg i lagringsplatsen.
+
+Du kan valfritt lägga till ytterligare titlar, såsom undertitlar, översatta titlar eller alternativa titlar.
+
+## Lägg till en ytterligare titel
+
+1. Klicka på knappen **Lägg till titlar**.
+2. Ange den ytterligare titeln och välj titeltypen (*alternativ titel, undertitel, översatt titel eller annan*).
+3. Valfritt: Ange språket för den ytterligare titeln.
+
+## Publiceringsdatum
+
+Fältet **publiceringsdatum** är ett obligatoriskt fält. Som standard är det inställt på det datum då utkastet skapades. Om din uppladdning tidigare publicerats någon annanstans (t.ex. som en tidskriftsartikel), använd datumet för den första publiceringen.
+
+Observera att förutom publiceringsdatumet, håller KTH Data Repository reda på datumet då ett inlägg laddades upp till databasen.
+
+## Oprecisa datum (EDTF)
+
+För äldre innehåll kanske du inte alltid vet det exakta publiceringsdatumet. I dessa fall kan du använda både oprecisa datum och datumintervall enligt **Extended Date Time Format (EDTF) Level 1**-standarden:
+
+1. **Minskad precision för år och månad** – `2025-09` avser månaden september 2025.
+2. **Minskad precision för år** – `2025` avser kalenderåret 2025.
+3. **Tidsintervall** – `2025-01-01/2025-09-23` avser tidsintervallet som börjar den 1 januari 2025 och slutar den 23 september 2025.
+4. **Oprecist tidsintervall** – `1939/1945` avser tidsintervallet som börjar någon gång 1939 och slutar någon gång 1945.
