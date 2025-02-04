@@ -134,8 +134,8 @@ Se även [bidragsgivare](#bidragsgivare) för hur du lägger till personer eller
             <figcaption>Lägg till skapare knapp</figcaption>
       </figure>
 2. Välj mellan **Person** eller **Organisation** som namntyp.
-   - **Personnamn** delas upp i fält för efternamn och förnamn och kan fyllas i automatiskt.
-   - **Organisationsnamn** består av ett enda fält och kan inte fyllas i automatiskt.
+      - **Personnamn** delas upp i fält för efternamn och förnamn och kan fyllas i automatiskt.
+      - **Organisationsnamn** består av ett enda fält och kan inte fyllas i automatiskt.
       <figure markdown="span">
          ![lägg till skapare meny](assets/images/add-creator-menu.png){ loading=lazy }
             <figcaption>Lägg till skapare meny</figcaption>
@@ -195,32 +195,36 @@ Fältet **beskrivning** är ett rekommenderat fält. Det används vanligtvis fö
 ## Lägg till en beskrivning
 
 1. Ange en **sammanfattning** för ditt inlägg.
-   - Du kan använda grundläggande formatering, inklusive:
-     - Stycken
-     - Rubriker
-     - Fet/kursiv text
-     - Länkar
-     - Punktlistor
-     - Citat
+      - Du kan använda grundläggande formatering, inklusive:
+      - Stycken
+      - Rubriker
+      - Fet/kursiv text
+      - Länkar
+      - Punktlistor
+      - Citat
 
 ## Lägg till en ytterligare beskrivning (t.ex. anteckningar, metoder)
 
 1. Klicka på **Lägg till beskrivning**-knappen för att lägga till en ytterligare beskrivning.
 2. Fyll i den ytterligare beskrivningen.
-   - Du kan ta bort beskrivningen genom att klicka på **ta bort-ikonen (X)**.
+      - Du kan ta bort beskrivningen genom att klicka på **ta bort-ikonen (X)**.
       <figure markdown="span">
          ![lägg till ytterligare beskrivning meny](assets/images/additional-description.png){ loading=lazy }
-            <figcaption>lägg till ytterligare beskrivning meny</figcaption>
+            <figcaption>Lägg till ytterligare beskrivning meny</figcaption>
       </figure>
 3. Välj en **beskrivningstyp**, och ange valfritt **språk** för beskrivningen.
       <figure markdown="span">
          ![lägg till ytterligare beskrivning typer](assets/images/additional-description-types.png){ loading=lazy }
-            <figcaption>lägg till ytterligare beskrivning typer</figcaption>
+            <figcaption>Lägg till ytterligare beskrivning typer</figcaption>
       </figure>
 
 ## Licenser och rättigheter
 
 Fältet **licens** är ett obligatoriskt fält. Att ange en licens för ditt inlägg är viktigt för att andra användare ska kunna återanvända din uppladdning. KTH Data Repository använder som standard licensen **Creative Commons Attribution 4.0 International (CC-BY)**.
+<figure markdown="span">
+   ![licenser meny](assets/images/licenses.png){ loading=lazy }
+   <figcaption>Licenser meny</figcaption>
+</figure>
 
 ## Välja en licens
 
@@ -234,6 +238,10 @@ När du har valt en licens, följ stegen nedan för att välja den i KTH Data Re
 ## Ändra en standardlicens
 
 1. Klicka på **Redigera**-knappen bredvid licensen **Creative Commons Attribution 4.0 International (CC-BY)**.
+      <figure markdown="span">
+         ![Ändra licens meny](assets/images/license-change.png){ loading=lazy }
+         <figcaption>Ändra licens meny</figcaption>
+      </figure>
 2. Välj en av de rekommenderade licenserna eller sök/bläddra efter en standardlicens.
    - KTH Data Repository använder den välkända **[SPDX](https://spdx.org/licenses/)**-listan över licenser.
    - Om du inte hittar din licens kan du lägga till en **anpassad licens** (se nästa avsnitt).
@@ -244,10 +252,18 @@ Om du inte hittar en standardlicens kan du lägga till en anpassad licens.
 
 1. Klicka på **Lägg till anpassad**-knappen.
 2. Ange **titeln** på licensen och valfritt en **beskrivning** samt en **länk** till licensen.
+      <figure markdown="span">
+         ![Anpassad licens meny](assets/images/license-custom.png){ loading=lazy }
+         <figcaption>Anpassad licens meny</figcaption>
+      </figure>
 
 ## Blandade licenser i en uppladdning
 
 Du kan behöva ladda upp filer som omfattas av olika licenser (t.ex. programvara under **MIT**-licensen och dokumentation under **CC-BY**-licensen). I sådana fall kan du deklarera alla relevanta licenser i systemet.
+<figure markdown="span">
+![Blandade licenser](assets/images/license-mixed.png){ loading=lazy }
+<figcaption>Blandade licenser</figcaption>
+</figure>
 
 ## Bidragsgivare
 
@@ -269,5 +285,5 @@ Du bör välja var du ska lägga till en person eller organisation beroende på 
 1. Klicka på **Lägg till bidragsgivare**-knappen för att lägga till en eller flera bidragsgivare.
 2. Fyll i bidragsgivarens information på samma sätt som för **skapare** (se [Skapare-dokumentation](#skapare)).
 3. Välj **rollen** för din bidragsgivare.
-   - Rollen väljs från **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+      - Rollen väljs från **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
 4. Klicka på **Spara** eller **Spara och lägg till en till**.

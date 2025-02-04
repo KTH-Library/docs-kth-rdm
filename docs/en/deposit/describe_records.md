@@ -15,8 +15,8 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 
 The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your record.
 <figure markdown="span">
-    ![resource type menu](assets/images/resource-types.png){ loading=lazy }
-  <figcaption>Login page</figcaption>
+![resource type menu](assets/images/resource-types.png){ loading=lazy }
+<figcaption>Login page</figcaption>
 </figure>
 
 ## Selecting a resource type
@@ -46,17 +46,17 @@ By default, the KTH Data Repository registers DOIs for all uploads when they are
 
 1. In the **Digital Object Identifier** field, answer **"No"** to the question *"Do you already have a DOI for this upload?"*
       <figure markdown="span">
-         ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+      ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
       <figcaption>Already have a DOI</figcaption>
       </figure>
 2. Click the **Get a DOI now!** button.
       <figure markdown="span">
-         ![Get a new DOI](assets/images/doi-no.png){ loading=lazy }
+      ![Get a new DOI](assets/images/doi-no.png){ loading=lazy }
       <figcaption>Get a new DOI</figcaption>
       </figure>
 3. A DOI will now be reserved for you. You can include this DOI in files before uploading them (e.g., in a text document). You can also remove it by clicking the **X** button next to the DOI.
       <figure markdown="span">
-         ![New DOI Generated](assets/images/doi-generated.png){ loading=lazy }
+      ![New DOI Generated](assets/images/doi-generated.png){ loading=lazy }
       <figcaption>New DOI Generated</figcaption>
       </figure>
 
@@ -68,7 +68,7 @@ If you have already shared or uploaded your record to another repository or jour
 
 1. In the **Digital Object Identifier** field, answer **"Yes"** to the question *"Do you already have a DOI for this upload?"*
       <figure markdown="span">
-         ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
+      ![Already have a DOI](assets/images/doi-yes.png){ loading=lazy }
       <figcaption>Already have a DOI</figcaption>
       </figure>
 2. Copy and paste (to avoid typos) the existing DOI into the field. The DOI will be validated for conformity, and a given DOI may only be deposited once in the KTH Data Repository (i.e., duplicate detection is in place).
@@ -84,13 +84,13 @@ You may optionally add additional titles, such as subtitles, translated titles, 
 1. Click the **Add titles** button.
 
       <figure markdown="span">
-         ![add record title](assets/images/add-title.png){ loading=lazy }
-            <figcaption>Add title text input</figcaption>
+      ![add record title](assets/images/add-title.png){ loading=lazy }
+      <figcaption>Add title text input</figcaption>
       </figure>
 2. Provide the additional title and select the title type (*alternative title, subtitle, translated title, or other*).
       <figure markdown="span">
-         ![add additional record title menu](assets/images/aditional-title.png){ loading=lazy }
-            <figcaption>Add additional title</figcaption>
+      ![add additional record title menu](assets/images/aditional-title.png){ loading=lazy }
+      <figcaption>Add additional title</figcaption>
       </figure>
 3. Optionally, set the language of the additional title.
 
@@ -124,20 +124,20 @@ See also [contributors](#contributors) for how to add persons or organizations t
 
 1. Click **Add creator** to add one or more new creators.
       <figure markdown="span">
-         ![add creator button](assets/images/add-creator-btn.png){ loading=lazy }
-            <figcaption>Add creator button</figcaption>
+      ![add creator button](assets/images/add-creator-btn.png){ loading=lazy }
+      <figcaption>Add creator button</figcaption>
       </figure>
 2. Choose between **Person** or **Organisation** as the name type.
       - **Person names** are split into family/given name fields and can be auto-completed.
       - **Organisation names** consist of a single name field and cannot be auto-completed.
       <figure markdown="span">
-         ![add creator menu](assets/images/add-creator-menu.png){ loading=lazy }
-            <figcaption>Add creator menu</figcaption>
+      ![add creator menu](assets/images/add-creator-menu.png){ loading=lazy }
+      <figcaption>Add creator menu</figcaption>
       </figure>
 3. Search for an already known person to speed up entry. The search is powered by the ORCID dataset.
       <figure markdown="span">
-         ![add creator autocomplete](assets/images/add-creator-menu-autocomplete.png){ loading=lazy }
-            <figcaption>Add creator autocomplete</figcaption>
+      ![add creator autocomplete](assets/images/add-creator-menu-autocomplete.png){ loading=lazy }
+      <figcaption>Add creator autocomplete</figcaption>
       </figure>
 4. Enter the **family name** and **given names**. The split is important for the automatic generation of citation strings.
 5. Enter **name identifiers** for the person/organisation, such as ORCIDs, ISNIs, GNDs, or RORs. These will be automatically normalized by the form.
@@ -146,7 +146,7 @@ See also [contributors](#contributors) for how to add persons or organizations t
       - If your organisation is not listed, you may enter the name manually.
       <figure markdown="span">
          ![add affiliation](assets/images/add-affiliations.png){ loading=lazy }
-            <figcaption>Add affiliation</figcaption>
+         <figcaption>Add affiliation</figcaption>
       </figure>
 7. Optionally, select a **role** for the creator (e.g., "Editor").
 8. Click **Save and add another** to add more creators, or click **Save** to return to the main form.
@@ -155,16 +155,16 @@ See also [contributors](#contributors) for how to add persons or organizations t
 
 1. Click the **Edit** button next to a creator to update their information.
       <figure markdown="span">
-         ![edit creators](assets/images/creators-list.png){ loading=lazy }
-            <figcaption>Edit creators</figcaption>
+      ![edit creators](assets/images/creators-list.png){ loading=lazy }
+      <figcaption>Edit creators</figcaption>
       </figure>
 
 ## Remove a creator
 
 1. Click the **Remove** button next to a creator to delete them from the list.
       <figure markdown="span">
-         ![remove creators](assets/images/creators-list.png){ loading=lazy }
-            <figcaption>Remove creators</figcaption>
+      ![remove creators](assets/images/creators-list.png){ loading=lazy }
+      <figcaption>Remove creators</figcaption>
       </figure>
 
 ## Reorder creators
@@ -172,8 +172,8 @@ See also [contributors](#contributors) for how to add persons or organizations t
 1. Click and hold the **drag-and-drop icon**.
 2. Drag the creator into the desired order in the list.
       <figure markdown="span">
-         ![Reorder creators](assets/images/creators-list.png){ loading=lazy }
-            <figcaption>Reorder creators</figcaption>
+      ![Reorder creators](assets/images/creators-list.png){ loading=lazy }
+      <figcaption>Reorder creators</figcaption>
       </figure>
 
 ## Descriptions
@@ -183,13 +183,13 @@ The **description** field is a recommended field. It is typically used to provid
 ## Add a description
 
 1. Enter an **abstract** for your record.
-   - You may use basic formatting, including:
-      - Paragraphs
-      - Headings
-      - Bold/italic text
-      - Links
-      - Bullet lists
-      - Quotes
+      - You may use basic formatting, including:
+         - Paragraphs
+         - Headings
+         - Bold/italic text
+         - Links
+         - Bullet lists
+         - Quotes
 
 ## Add an additional description (e.g., notes, methods)
 
@@ -198,17 +198,21 @@ The **description** field is a recommended field. It is typically used to provid
       - You can remove the description by clicking the **remove icon (X)**.
       <figure markdown="span">
          ![add additional description menu](assets/images/additional-description.png){ loading=lazy }
-            <figcaption>additional description menu</figcaption>
+         <figcaption>additional description menu</figcaption>
       </figure>
 3. Choose a **description type**, and optionally, select the **language** of the description.
       <figure markdown="span">
-         ![add additional description menu](assets/images/additional-description-types.png){ loading=lazy }
-            <figcaption>additional description types</figcaption>
+      ![add additional description menu](assets/images/additional-description-types.png){ loading=lazy }
+      <figcaption>additional description types</figcaption>
       </figure>
 
 ## Licenses and rights
 
 The **license** field is a required field. Providing a license for your record is important to allow other users to reuse your upload. The KTH Data Repository defaults to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
+<figure markdown="span">
+   ![licenses menu](assets/images/licenses.png){ loading=lazy }
+   <figcaption>Licenses menu</figcaption>
+</figure>
 
 ## Choosing a license
 
@@ -222,9 +226,13 @@ Once you have chosen a license, follow the steps below to select it in the KTH D
 ## Change a standard license
 
 1. Click the **Edit** button next to the **Creative Commons Attribution 4.0 International (CC-BY)** license.
+      <figure markdown="span">
+      ![Change license menu](assets/images/license-change.png){ loading=lazy }
+      <figcaption>Change Licenses menu</figcaption>
+      </figure>
 2. Choose one of the widely recommended licenses presented, or search/browse for a standard license.
-   - The KTH Data Repository relies on the widely used **[SPDX](https://spdx.org/licenses/)** list of licenses.
-   - If you cannot find your license, you can add a **custom license** (see next section).
+      - The KTH Data Repository relies on the widely used **[SPDX](https://spdx.org/licenses/)** list of licenses.
+      - If you cannot find your license, you can add a **custom license** (see next section).
 
 ## Add a custom license
 
@@ -232,10 +240,18 @@ If you cannot find a standard license, you can add a custom license.
 
 1. Click the **Add custom** button.
 2. Provide the **title** of the license, and optionally, add a **description** and a **link** to the license.
+      <figure markdown="span">
+      ![Custom license menu](assets/images/license-custom.png){ loading=lazy }
+      <figcaption>Custom license menu</figcaption>
+      </figure>
 
 ## Mixed license uploads
 
 You may need to upload files that fall under different licenses (e.g., software under the **MIT** license, but documentation under the **CC-BY** license). In such cases, you can declare all the applicable licenses in the system.
+<figure markdown="span">
+![Mixed license](assets/images/license-mixed.png){ loading=lazy }
+<figcaption>Mixed licenses</figcaption>
+</figure>
 
 ## Contributors
 
@@ -257,5 +273,5 @@ You should decide where to add a person or organization based on whether they sh
 1. Click the **Add contributor** button to add one or more contributors.
 2. Fill in the contributors' information, similar to **creators** (see [Creators documentation](#creators)).
 3. Choose the **role** for your contributor.
-   - The list of roles is based on **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
+      - The list of roles is based on **[DataCite's contributor vocabulary](https://schema.datacite.org/)**.
 4. Click **Save** or **Save and add another**.
