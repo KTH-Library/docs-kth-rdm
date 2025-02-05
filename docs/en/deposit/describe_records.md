@@ -9,7 +9,7 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 - **[Creators](#creators)** — Learn how to add creators/authors for your record.
 - **[Descriptions](#descriptions)** — Learn how to add abstracts and notes.
 - **[Licenses and rights](#licenses-and-rights)** — Learn to choose a license for your record.
-- **[Contributors](#contributors)** — Learn to add persons/organizations that do not appear in the citation.
+- **[Contributors](#contributors)** — Learn to add persons/organisations that do not appear in the citation.
 
 ## Resource types
 
@@ -111,14 +111,14 @@ For older content, you may not always know the precise publication date. In thes
 
 ## Creators
 
-The **creators** field is a required field. Creators are the persons or organizations that have created the resource being uploaded (e.g., the authors in the case of papers). Creators are listed in the academic citation.
+The **creators** field is a required field. Creators are the persons or organisations that have created the resource being uploaded (e.g., the authors in the case of papers). Creators are listed in the academic citation.
 
 A creator can be either a:
 
 - **Person**
 - **Organisation**
 
-See also [contributors](#contributors) for how to add persons or organizations that should not appear in the academic citation.
+See also [contributors](#contributors) for how to add persons or organisations that should not appear in the academic citation.
 
 ## Add a creator
 
@@ -266,7 +266,7 @@ The main difference between **creators** and **contributors** is summarized in t
 | **Creators**     | Yes | No  |
 | **Contributors** | No  | Yes |
 
-You should decide where to add a person or organization based on whether they should appear in the academic citation.
+You should decide where to add a person or organisation based on whether they should appear in the academic citation.
 
 ## Add a contributor
 
