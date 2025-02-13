@@ -16,7 +16,7 @@ See the [Create new upload](./create_new_upload.md) for an overview of creating 
 The resource type field is a required field in the deposit form. The resource type is used to describe the nature of the files being shared and is important for the discoverability of your record.
 <figure markdown="span">
 ![resource type menu](assets/images/resource-types.png){ loading=lazy }
-<figcaption>Login page</figcaption>
+<figcaption>Resource types</figcaption>
 </figure>
 
 ## Selecting a resource type
@@ -219,7 +219,7 @@ The **license** field is a required field. Providing a license for your record i
 We recommend the following resources to help you choose an appropriate license:
 
 - [choosealicense.com](https://choosealicense.com/) – Useful especially for software.
-- [OpenAIRE Guide for Researchers](https://www.openaire.eu/) – Useful especially for research data.
+- [OpenAIRE Guide for Researchers](https://www.openaire.eu/how-do-i-license-my-research-data) – Useful especially for research data.
 
 Once you have chosen a license, follow the steps below to select it in the KTH Data Repository.
 
