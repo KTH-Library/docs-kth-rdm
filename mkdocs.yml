@@ -92,6 +92,7 @@ plugins:
                 - Om poster: deposit/about_records.md
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade Poster: deposit/restrict_record_access.md
+                - Beskriv Poster: deposit/describe_records.md
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
@@ -119,6 +120,7 @@ nav:
       - About Records: deposit/about_records.md
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
+      - Describe Records: deposit/describe_records.md
       - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md

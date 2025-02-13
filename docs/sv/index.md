@@ -14,7 +14,7 @@
 
     - [Om poster](deposit/about_records.md)
     - [Skapa ny uppladdning](deposit/create_new_upload.md)
-    - [Beskriv poster (WIP)](#)
+    - [Beskriv poster](deposit/describe_records.md)
     - [Hantera filer (WIP)](#)
     - [Restricted records](deposit/restrict_record_access.md)
     - [Share Record Access](deposit/share_record_access.md)

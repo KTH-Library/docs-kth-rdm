@@ -3,7 +3,7 @@
 
 This service offers functionality to create records with restricted access. This feature allows data curators and administrators to limit the visibility of certain records, making them accessible only to authorized users. In this guide, we'll outline the process to create a restricted record.
 
-A restricted record is a record that contains sensitive or confidential information and is not publicly accessible. Restricted records can be useful in cases where you want to provide access to certain information or resources to only a select group of users or organizations.
+A restricted record is a record that contains sensitive or confidential information and is not publicly accessible. Restricted records can be useful in cases where you want to provide access to certain information or resources to only a select group of users or organisations.
 
 ## Prerequisites
 
