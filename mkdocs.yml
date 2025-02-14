@@ -53,6 +53,12 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/kth
+validation:
+# https://www.mkdocs.org/user-guide/configuration/#validation
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
 
 plugins:
   - search:
@@ -91,14 +97,17 @@ plugins:
             - Deponera data:
                 - Om poster: deposit/about_records.md
                 - Skapa ny uppladdning: deposit/create_new_upload.md
-                - Begränsade Poster: deposit/restrict_record_access.md
-                - Beskriv Poster: deposit/describe_records.md
+                - Begränsade poster: deposit/restrict_record_access.md
+                - Beskriv poster: deposit/describe_records.md
+                - Hantera filer: deposit/manage_files.md
+                - Hantera poster: deposit/manage_records.md
+                - Hantera versioner: deposit/manage_versions.md
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
             - Communities:
                 - Om Communities: communities/about_communities.md
-                - Ansök om Nytt Community: communities/apply_new_community.md
+                - Ansök om nytt Community: communities/apply_new_community.md
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
             - Samarbeta och dela:
                 - Samarbeta och dela: share/about_share.md
@@ -121,6 +130,9 @@ nav:
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
       - Describe Records: deposit/describe_records.md
+      - Manage Files: deposit/manage_files.md
+      - Manage Records: deposit/manage_records.md
+      - Manage Versions: deposit/manage_versions.md
       - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
