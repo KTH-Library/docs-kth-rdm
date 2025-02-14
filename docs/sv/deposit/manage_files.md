@@ -22,8 +22,8 @@ När du förbereder filer för uppladdning, tänk på följande:
 
 1. Dra och släpp filer eller klicka på **Ladda upp filer** för att välja en eller flera filer.
     <figure markdown="span">
-        ![Lägg till filer](assets/images/files-add.png){ loading=lazy }
-        <figcaption>Lägg till filer</figcaption>
+    ![Lägg till filer](assets/images/files-add.png){ loading=lazy }
+    <figcaption>Lägg till filer</figcaption>
     </figure>
 2. Stora uppladdningar kan avbrytas medan de pågår genom att trycka på **Avbryt**-knappen.
     <figure markdown="span">
@@ -35,8 +35,8 @@ När du förbereder filer för uppladdning, tänk på följande:
 
 1. Klicka på **-**-ikonen för att ta bort en uppladdad fil.
     <figure markdown="span">
-        ![Ta bort fil](assets/images/files-delete.png){ loading=lazy }
-        <figcaption>Ta bort uppladdning</figcaption>
+    ![Ta bort fil](assets/images/files-delete.png){ loading=lazy }
+    <figcaption>Ta bort uppladdning</figcaption>
     </figure>
 
 ## Ställ in standardförhandsvisning
@@ -45,8 +45,8 @@ När du förbereder filer för uppladdning, tänk på följande:
 
 2. För att ändra standardförhandsvisningen, markera kryssrutan i kolumnen **Förhandsvisning**.
     <figure markdown="span">
-        ![Filförhandsvisning](assets/images/files-preview.png){ loading=lazy }
-        <figcaption>Filförhandsvisning</figcaption>
+    ![Filförhandsvisning](assets/images/files-preview.png){ loading=lazy }
+    <figcaption>Filförhandsvisning</figcaption>
     </figure>
 
 ## Väntande status
@@ -58,8 +58,8 @@ En fil kan visa statusen **Väntande** i kolumnen **Förlopp**. Detta betyder at
 
 Om en uppladdning avbryts, följ instruktionerna för **Ta bort fil** för att lösa problemet.
     <figure markdown="span">
-        ![Fil väntar](assets/images/files-pending.png){ loading=lazy }
-        <figcaption>Fil väntar</figcaption>
+    ![Fil väntar](assets/images/files-pending.png){ loading=lazy }
+    <figcaption>Fil väntar</figcaption>
     </figure>
 
 ## Ändra filer efter publicering
