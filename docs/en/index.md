@@ -18,8 +18,8 @@
     - [Manage files](deposit/manage_files.md)
     - [Restricted records](deposit/restrict_record_access.md)
     - [Share Record Access](deposit/share_record_access.md)
-    - [Manage records (WIP)](#)
-    - [Manage versions (WIP)](#)
+    - [Manage records](deposit/manage_records.md)
+    - [Manage versions](deposit/manage_versions.md)
     - [Github integration](deposit/github_integration.md)
     - [REST API](deposit/rest_api.md)
 
