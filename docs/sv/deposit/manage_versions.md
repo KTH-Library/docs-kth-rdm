@@ -50,4 +50,4 @@ Läs mer om versionering i [Om poster](./about_records.md).
 ### Redigera metadata i en tidigare version
 
 1. Hitta den tidigare version du vill redigera, t.ex. via **Bläddra bland versioner**.
-2. Klicka på **Redigera**-knappen för att redigera den tidigare versionen (se [Redigera publicerade poster](./manage_records.md#edit-published-records)).
+2. Klicka på **Redigera**-knappen för att redigera den tidigare versionen (se [Redigera publicerade poster](./manage_records.md#redigera-publicerade-poster)).
