@@ -53,6 +53,12 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/kth
+validation:
+# https://www.mkdocs.org/user-guide/configuration/#validation
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
 
 plugins:
   - search:
@@ -95,6 +101,7 @@ plugins:
                 - Beskriv poster: deposit/describe_records.md
                 - Hantera filer: deposit/manage_files.md
                 - Hantera poster: deposit/manage_records.md
+                - Hantera versioner: deposit/manage_versions.md
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
