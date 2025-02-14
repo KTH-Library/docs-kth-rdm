@@ -93,6 +93,7 @@ plugins:
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade Poster: deposit/restrict_record_access.md
                 - Beskriv Poster: deposit/describe_records.md
+                - Hantera filer: deposit/manage_files.md
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
@@ -121,6 +122,7 @@ nav:
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
       - Describe Records: deposit/describe_records.md
+      - Manage files: deposit/manage_files.md
       - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md

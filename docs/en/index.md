@@ -15,7 +15,7 @@
     - [About records](deposit/about_records.md)
     - [Create new upload](deposit/create_new_upload.md)
     - [Describe records](deposit/describe_records.md)
-    - [Manage files (WIP)](#)
+    - [Manage files](deposit/manage_files.md)
     - [Restricted records](deposit/restrict_record_access.md)
     - [Share Record Access](deposit/share_record_access.md)
     - [Manage records (WIP)](#)
