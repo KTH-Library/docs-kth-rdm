@@ -3,11 +3,11 @@
 !!! warning "**Observera:**"
     Du kan INTE ändra filer efter att ditt post har publicerats. Använd istället versionering.
 
-Följande avsnitt dokumenterar hur du hanterar filer i ett utkast och post. Som standard kan du ladda upp upp till 100 filer med en total volym på 50GB (50 000 000 000 byte).
+Följande avsnitt beskriver hur du hanterar filer i ett utkast och post. Som standard kan du ladda upp upp till 100 filer med en total volym på 10GB (10 000 000 000 byte).
 
-## Förbered filer
+## Förbereda filer
 
-Vi stöder filuppladdningar upp till 50GB (50 000 MB) och maximalt 100 filer. Se hur du kan begära en ökning av kvoten.
+Vi stöder filuppladdningar upp till 10GB (10 000 MB) och maximalt 100 filer. Se hur du kan efterfråga en ökning av lagringskvoten nedan.
 
 När du förbereder filer för uppladdning, tänk på följande:
 
@@ -41,7 +41,7 @@ När du förbereder filer för uppladdning, tänk på följande:
 
 ## Ställ in standardförhandsvisning
 
-1. Som standard visas den första förhandsgranskbara filen i alfabetisk ordning på landningssidan för ditt post.
+1. Som standard visas den första förhandsgranskbara filen i alfabetisk ordning på landningssidan för din post.
 
 2. För att ändra standardförhandsvisningen, markera kryssrutan i kolumnen **Förhandsvisning**.
     <figure markdown="span">
@@ -64,22 +64,22 @@ Om en uppladdning avbryts, följ instruktionerna för **Ta bort fil** för att l
 
 ## Ändra filer efter publicering
 
-När ett post har publicerats kan filer INTE läggas till, tas bort eller ändras. Använd istället versionering för att skapa en ny version av posten.
+När en post har publicerats kan filer INTE läggas till, tas bort eller ändras. Använd istället versionering för att skapa en ny version av posten.
 
-En **en-månads nådperiod** tillåter ändringar om misstag upptäcks. Efter denna period tillåts ändringar endast i särskilda fall (t.ex. upphovsrättsintrång eller exponering av personuppgifter). Alla begäranden om ändringar måste skickas till supporten, men versionering är den föredragna metoden.
+Under en **en-månads period** tillåts ändringar om misstag upptäcks. Efter denna period tillåts ändringar endast i särskilda fall (t.ex. upphovsrättsintrång eller exponering av personuppgifter). Alla begäranden om ändringar måste skickas till supporten, men versionering är den föredragna metoden för att korrigera poster.
 
 ## Kvotökning
 
-Vi beviljar undantagsvis en **engångsökning av kvoten** upp till **200GB** för dataset.
+Om din post är större än 10 GB eller 100 filer kontakta supporten för att fråga om ökning av lagringskvoten på: **<researchdata@kth.se>**.
 
 ## Begär en kvotökning
 
-1. Se till att din begäran inte överstiger **200GB (200 000 MB)** och innehåller färre än **100 filer**.
+1. Specificera i din förfrågan den totala storleken i **GB** samt antal **filer**.
 2. Logga in på ditt konto och skapa ett nytt **utkastspost** (publicera inte). Se [Skapa ett post](./create_new_upload.md) för detaljer. Ange så mycket metadata som möjligt, inklusive:
     - **Titel**
     - **Beskrivning**
     - **Skapare/Författare** (med affilieringar)
-    - **Relaterade verk** (särskilt referentgranskade artiklar)
+    - **Relaterade verk** (särskilt vetenskapliga artiklar)
     - **Licens**
     - **Finansieringsinformation**
 3. Kopiera webbläsarens URL, som bör se ut ungefär så här:

@@ -31,7 +31,7 @@ Läs mer om versionering i [Om poster](./about_records.md).
 
 ### Importera filer från en tidigare version
 
-1. I avsnittet **Filer** i insändningsformuläret, klicka på knappen **Importera filer** för att importera filer från en tidigare version. Denna funktion sparar lagringsutrymme eftersom vi inte duplicerar de tidigare filerna.
+1. I avsnittet **Filer** i formuläret, klicka på knappen **Importera filer** för att importera filer från en tidigare version. Denna funktion sparar lagringsutrymme eftersom vi inte duplicerar de tidigare filerna.
         <figure markdown="span">
         ![Ny version importera filer](assets/images/versioning-import-files.png){ loading=lazy }
         <figcaption>Ny version importera filer</figcaption>

@@ -7,7 +7,7 @@ The following sections document how to manage files for a draft and record. By d
 
 ## Prepare Files
 
-We support file uploads up to 50GB (50,000 MB) and a maximum of 100 files. See how to request a quota increase.
+We support file uploads up to 10GB (10,000 MB) and a maximum of 100 files as default. See how to request a quota increase below.
 
 When preparing files for upload, consider the following:
 
@@ -69,11 +69,11 @@ A **one-month grace period** allows file modifications if errors are found. Afte
 
 ## Quota Increase
 
-We exceptionally grant a **one-time quota increase** of up to **200GB** for datasets.
+If an upload exceeds the 10 GB or 100 file limit contact support to request an increase at **<researchdata@kth.se>**.
 
 ## Request a Quota Increase
 
-1. Ensure that your request does not exceed **200GB (200,000 MB)** and contains fewer than **100 files**.
+1. Specify in your request the total size in **GB** and number of **files**.
 2. Log in to your account and create a new **draft record** (do not publish). See [Create a record](./create_new_upload.md) for details. Provide as much metadata as possible, including:
     - **Title**
     - **Description**
