@@ -26,8 +26,8 @@
 - ## Samarbeta och dela
 
     - [Om samarbete och delning](share/about_share.md)
-    - [Användardelning (WIP)](#)
-    - [Länkdelning (WIP)](#)
+    - [Användardelning](share/user_sharing.md)
+    - [Länkdelning](share/link_sharing.md)
     - [Åtkomstförfrågningar (WIP)](#)
     - [Skicka in för granskning (WIP)](#)
     - [Skicka till community (WIP)](#)

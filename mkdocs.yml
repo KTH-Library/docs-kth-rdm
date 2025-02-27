@@ -111,6 +111,8 @@ plugins:
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
             - Samarbeta och dela:
                 - Samarbeta och dela: share/about_share.md
+                - Användardelning: share/user_sharing.md
+                - Länkdelning: share/link_sharing.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -142,6 +144,8 @@ nav:
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
   - Collaborate and share:
       - Collaborate and share : share/about_share.md
+      - User Sharing: share/user_sharing.md
+      - Link Sharing: share/link_sharing.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
