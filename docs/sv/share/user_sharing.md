@@ -1,5 +1,3 @@
-## Användardelning
-
 Användardelning gör det möjligt att dela en post eller ett utkast med en annan KTH Data Repository-användare. Om personen du vill dela en post med inte har ett KTH Data Repository-konto kan du istället använda [länkdelning](link_sharing.md).
 
 ### Behörigheter

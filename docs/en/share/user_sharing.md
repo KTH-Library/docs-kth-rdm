@@ -1,5 +1,3 @@
-## User Sharing
-
 User sharing enables you to share a draft or record with another KTH Data Repository user. If the person you want to share a record with does not have a KTH Data Repository account, you can instead use [link sharing](./link_sharing.md).
 
 ### Permissions
