@@ -13,8 +13,20 @@ Du kan ge den hemliga länken en av följande tre behörigheter:
 ### Skapa en länk
 
 1. Gå till den post du vill dela och klicka på den blå **Dela**-knappen.
+        <figure markdown="span">
+        ![Dela-knappen](assets/images/share_button.png){ loading=lazy }
+        <figcaption>Klicka på Dela-knappen</figcaption>
+        </figure>
 2. I dialogrutan **Dela åtkomst**, klicka på fliken **Länkar**.
+        <figure markdown="span">
+        ![Menyn för delningslänkar](assets/images/share_links_menu.png){ loading=lazy }
+        <figcaption>Menyn för delningslänkar</figcaption>
+        </figure>
 3. Ange eventuellt en titel, sätt ett utgångsdatum och välj en behörighet för din länk (se ovan för förklaring av behörigheter).
+        <figure markdown="span">
+        ![Delningslänkar valfri titel](assets/images/share_links_access.png){ loading=lazy }
+        <figcaption>Delningslänkar valfri titel</figcaption>
+        </figure>
 4. Klicka på den gröna knappen **Skapa en ny länk**.
 5. Klicka på den grå knappen **Kopiera länk** för att kopiera den genererade länken till urklipp.
 
@@ -22,3 +34,8 @@ Du kan ge den hemliga länken en av följande tre behörigheter:
 
 1. Hitta länken du vill ta bort i fliken **Länkar** i dialogrutan **Dela åtkomst** (se ovan).
 2. Klicka på knappen **Ta bort** bredvid länken.
+        <figure markdown="span">
+        ![Radera länk-knappen](assets/images/share_links_access.png){ loading=lazy }
+        <figcaption>Radera länk-knappen</figcaption>
+        </figure>
+

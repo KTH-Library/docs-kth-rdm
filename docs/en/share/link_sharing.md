@@ -18,7 +18,15 @@ You can give the secret link one of the following three permissions:
         <figcaption>Click the Share button</figcaption>
         </figure>
 2. In the **Share access** dialog, click the **Links** tab.
+        <figure markdown="span">
+        ![Share links menu](assets/images/share_links_menu.png){ loading=lazy }
+        <figcaption>Share links menu</figcaption>
+        </figure>
 3. Optionally provide a title, set an expiration date, and choose a permission for your link (see above for an explanation of permissions).
+        <figure markdown="span">
+        ![Share links optional title](assets/images/share_links_access.png){ loading=lazy }
+        <figcaption>Share links optional title</figcaption>
+        </figure>
 4. Click the green **Create a new link** button.
 5. Click the grey **Copy link** button to copy the generated link to your clipboard.
 
@@ -26,3 +34,7 @@ You can give the secret link one of the following three permissions:
 
 1. Find the link you want to delete in the **Links** tab in the **Share access** dialog (see above).
 2. Click the **Delete** button next to the link.
+        <figure markdown="span">
+        ![Delete link button](assets/images/share_links_access.png){ loading=lazy }
+        <figcaption>Delete link button</figcaption>
+        </figure>
