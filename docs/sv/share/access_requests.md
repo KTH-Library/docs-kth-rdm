@@ -17,9 +17,9 @@ Följande avsnitt förklarar hur du begär åtkomst till begränsade filer i en 
 
 ### Lär dig hur du begär åtkomst:
 
-- [Begär åtkomst som gäst](#begär-åtkomst-som-gäst)
-- [Begär åtkomst som autentiserad användare](#begär-åtkomst-som-autentiserad-användare)
-- [Visa mina åtkomstförfrågningar](#visa-mina-åtkomstförfrågningar)
+- [Begär åtkomst som gäst](#begar-atkomst-som-gast)
+- [Begär åtkomst som autentiserad användare](#begar-atkomst-som-autentiserad-anvandare)
+- [Visa mina åtkomstförfrågningar](#visa-mina-atkomstforfragningar)
 
 ## Begär åtkomst som gäst
 
