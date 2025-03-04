@@ -28,7 +28,7 @@
     - [About collaboration and sharing](share/about_share.md)
     - [User sharing](share/user_sharing.md)
     - [Link sharing](share/link_sharing.md)
-    - [Access requests (WIP)](#)
+    - [Access requests](share/access_requests.md)
     - [Submit for review (WIP)](#)
     - [Submit to community (WIP)](#)
     - [Manage your submissions (WIP)](#)

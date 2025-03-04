@@ -113,6 +113,7 @@ plugins:
                 - Samarbeta och dela: share/about_share.md
                 - Användardelning: share/user_sharing.md
                 - Länkdelning: share/link_sharing.md
+                - Åtkomstförfrågningar: share/access_requests.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -146,6 +147,7 @@ nav:
       - Collaborate and share : share/about_share.md
       - User Sharing: share/user_sharing.md
       - Link Sharing: share/link_sharing.md
+      - Access Requests: share/access_requests.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
