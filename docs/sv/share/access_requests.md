@@ -56,3 +56,29 @@ Följande avsnitt förklarar hur du begär åtkomst till begränsade filer i en 
 ## Visa mina åtkomstförfrågningar
 
 1. Gå till **Mina förfrågningar** genom att klicka på **Min instrumentpanel** i sidhuvudet och sedan på **Mina förfrågningar** i flikmenyn.
+
+
+## Tillåt åtkomstförfrågningar
+
+### 1. Öppna en post
+Gå till den post du vill dela och klicka på den blå knappen **Dela**.
+      <figure markdown="span">
+      ![Dela-knapp](assets/images/share_button.png){ loading=lazy }
+      <figcaption>Klicka på Dela-knappen</figcaption>
+      </figure>
+
+### 2. Fliken Åtkomstförfrågningar
+I dialogrutan **Dela åtkomst**, klicka på fliken **Åtkomstförfrågningar**.
+      <figure markdown="span">
+      ![Dela åtkomstinställningar](assets/images/share_access_settings.png){ loading=lazy }
+      <figcaption>Dela åtkomstinställningar</figcaption>
+      </figure>
+
+### 3. Konfigurera åtkomstförfrågningar
+Markera kryssrutorna för att:
+- Tillåta autentiserade användare åtkomst
+- Tillåta gäster att begära åtkomst
+- Valfritt, ange villkor för att godkänna/avslå åtkomst.
+
+### 4. Spara ändringar
+Klicka på **Spara**.

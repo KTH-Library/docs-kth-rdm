@@ -58,3 +58,27 @@ The following sections explain how to request access to restricted files in a re
 ## View my access requests
 
 1. Go to **My requests** by clicking **My dashboard** in the header, then click **My requests** in the tab menu.
+
+
+## Allow Access Requests
+
+### 1. Open the Record
+Go to the record you would like to share, and click the blue **Share** button.
+      <figure markdown="span">
+      ![Share button](assets/images/share_button.png){ loading=lazy }
+      <figcaption>Click the Share button</figcaption>
+      </figure>
+### 2. Access Requests Tab
+In the **Share access** dialog, click the **Access requests** tab.
+      <figure markdown="span">
+      ![Share access settings](assets/images/share_access_settings.png){ loading=lazy }
+      <figcaption>Share access settings</figcaption>
+      </figure>
+### 3. Configure Access Requests
+Tick the checkboxes to:
+- Allow authenticated users access
+- Allow guests to request access
+- Optionally, provide conditions on which you approve/decline access.
+
+### 4. Save Changes
+Click **Save**.

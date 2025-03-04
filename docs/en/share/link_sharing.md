@@ -35,6 +35,6 @@ You can give the secret link one of the following three permissions:
 1. Find the link you want to delete in the **Links** tab in the **Share access** dialog (see above).
 2. Click the **Delete** button next to the link.
         <figure markdown="span">
-        ![Delete link button](assets/images/share_links_access.png){ loading=lazy }
-        <figcaption>Delete link button</figcaption>
+        ![Delete link](assets/images/share_links_access.png){ loading=lazy }
+        <figcaption>Delete link</figcaption>
         </figure>
