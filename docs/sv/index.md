@@ -29,7 +29,7 @@
     - [Användardelning](share/user_sharing.md)
     - [Länkdelning](share/link_sharing.md)
     - [Åtkomstförfrågningar](share/access_requests.md)
-    - [Skicka in för granskning (WIP)](#)
+    - [Skicka in för granskning](share/submit_for_review.md)
     - [Skicka till community (WIP)](#)
     - [Hantera dina inskick (WIP)](#)
     - [Medlemsinbjudningar (WIP)](#)
