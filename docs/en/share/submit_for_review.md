@@ -4,7 +4,7 @@ The following section explains how you submit an unpublished record to a communi
 
 ### Only drafts
 
-You can only submit drafts (i.e. unpublished records) to a community (see submit to community for submitting published records).
+You can only submit drafts (i.e. unpublished records) to a community (see [submit to community](submit_to_community.md) for submitting published records).
 
 ### Both uploader and curators can edit
 

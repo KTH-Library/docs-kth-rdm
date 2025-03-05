@@ -6,7 +6,7 @@ Följande avsnitt förklarar hur du skickar in en opublicerad post till en commu
 
 ### Endast utkast
 
-Du kan endast skicka in utkast (d.v.s. opublicerade poster) till en community (se skicka till community för att skicka in publicerade poster).
+Du kan endast skicka in utkast (d.v.s. opublicerade poster) till en community (se [skicka till community](submit_to_community.md) för att skicka in publicerade poster).
 
 ### Både uppladdare och kuratorer kan redigera
 
