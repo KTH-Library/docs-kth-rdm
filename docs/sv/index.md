@@ -30,8 +30,8 @@
     - [Länkdelning](share/link_sharing.md)
     - [Åtkomstförfrågningar](share/access_requests.md)
     - [Skicka in för granskning](share/submit_for_review.md)
-    - [Skicka till community (WIP)](#)
-    - [Hantera dina inskick (WIP)](#)
+    - [Skicka till community](share/submit_to_community.md)
+    - [Hantera dina inskick](share/manage_submissions.md)
     - [Medlemsinbjudningar (WIP)](#)
 
 - ## Communities

@@ -115,6 +115,8 @@ plugins:
                 - Länkdelning: share/link_sharing.md
                 - Åtkomstförfrågningar: share/access_requests.md
                 - Skicka in för granskning: share/submit_for_review.md
+                - Skicka till Community: share/submit_to_community.md
+                - Hantera dina inskick: share/manage_submissions.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -150,6 +152,8 @@ nav:
       - Link Sharing: share/link_sharing.md
       - Access Requests: share/access_requests.md
       - Submit for Review: share/submit_for_review.md
+      - Submit to Community: share/submit_to_community.md
+      - Manage Submissions: share/manage_submissions.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
