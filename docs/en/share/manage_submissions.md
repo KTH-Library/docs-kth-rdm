@@ -48,3 +48,26 @@ The following sections explain how to view your records in review and find their
         ![Record preview page](assets/images/share_preview_page.jpg){ loading=lazy }
         <figcaption>Record preview page</figcaption>
         </figure>
+
+## Cancel/Withdraw Submission
+
+You can cancel a review request at any point in the review process.
+
+### Cancel a Submission (Withdraw)
+
+1. Go to the review request (see [View Submissions](#view-submissions)).
+        <figure markdown="span">
+        ![Record preview page](assets/images/share_preview_page.jpg){ loading=lazy }
+        <figcaption>Record preview page</figcaption>
+        </figure>
+2. Click the **Cancel** button in the top right corner.
+3. (Optional) Leave a message for the curators and confirm the cancellation by clicking **Cancel request**.
+        <figure markdown="span">
+        ![Cancel Request](assets/images/share_cancel_request_menu.jpg){ loading=lazy }
+        <figcaption>Cancel Request</figcaption>
+        </figure>
+4. The request timeline will update to show that the request was cancelled. The community curators will no longer be able to view your record.
+        <figure markdown="span">
+        ![Record preview page](assets/images/share_chat_canelled_request.jpg){ loading=lazy }
+        <figcaption>Record preview page</figcaption>
+        </figure>

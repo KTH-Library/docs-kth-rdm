@@ -48,3 +48,26 @@ Följande avsnitt förklarar hur du visar dina poster som är under granskning o
         ![Förhandsgranskningssida för post](assets/images/share_preview_page.jpg){ loading=lazy }
         <figcaption>Förhandsgranskningssida för post</figcaption>
         </figure>
+
+## Avbryta/Återkalla en inskickning
+
+Du kan när som helst avbryta en granskningsförfrågan under granskningsprocessen.
+
+### Avbryta en inskickning (Återkalla)
+
+1. Gå till granskningsförfrågan (se [Visa inskickningar](#visa-inlamningar)).
+        <figure markdown="span">
+        ![Förhandsgranskningssida för post](assets/images/share_preview_page.jpg){ loading=lazy }
+        <figcaption>Förhandsgranskningssida för post</figcaption>
+        </figure>
+2. Klicka på **Avbryt**-knappen i det övre högra hörnet.
+3. (Valfritt) Lämna ett meddelande till kuratorerna och bekräfta avbrytandet genom att klicka på **Avbryt begäran**.
+        <figure markdown="span">
+        ![Avbryt begäran](assets/images/share_cancel_request_menu.jpg){ loading=lazy }
+        <figcaption>Avbryt begäran</figcaption>
+        </figure>
+4. Förfrågningshistoriken kommer att uppdateras för att visa att begäran har avbrutits. Community-kuratorerna kommer inte längre att kunna se din post.
+        <figure markdown="span">
+        ![Förhandsgranskningssida för post](assets/images/share_chat_canelled_request.jpg){ loading=lazy }
+        <figcaption>Förhandsgranskningssida för post</figcaption>
+        </figure>
