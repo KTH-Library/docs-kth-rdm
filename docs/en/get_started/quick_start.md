@@ -4,21 +4,10 @@ Want to test KTH Data Repository? Use our [sandbox environment](https://invenio-
 
 KTH Data Repository enables you to share and preserve your digital research objects (publications, data, software, presentations, etc.) in three simple steps:
 
-## Upload
-
-Upload the files you want to share.
-
-## Describe
-
-Describe the files with minimal metadata such as title and creators.
-
-## Publish
-
-When ready, hit the publish button to share your research.
-
-Once you publish, we will automatically assign a Digital Object Identifier (DOI) to your record.
 
 ## Step 1: Upload
+
+Upload the files you want to share.
 
 1. Before you start, make sure you have created an account and logged in.
 2. Click the plus icon in the header, and select **New upload**.
@@ -32,6 +21,8 @@ Once you publish, we will automatically assign a Digital Object Identifier (DOI)
         <figcaption>Upload section</figcaption>
         </figure>
 ## Step 2: Describe
+
+Describe the files with minimal metadata such as title and creators.
 
 1. Fill in the minimal required fields (marked with a red star).
         <figure markdown="span">
@@ -56,5 +47,7 @@ Once you publish, we will automatically assign a Digital Object Identifier (DOI)
 4. Congratulations, you have now submitted your first record for review.
 
 !!! warning ATTENTION
+    Once you publish, we will automatically assign a Digital Object Identifier (DOI) to your record.
+
     You will not be able to add, modify or remove files from the record once published
 
