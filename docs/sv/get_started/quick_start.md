@@ -16,20 +16,45 @@ Beskriv filerna med minimal metadata som titel och skapare.
 
 När du är redo, tryck på publiceringsknappen för att dela din forskning.
 
+När du publicerar kommer vi automatiskt att tilldela en Digital Object Identifier (DOI) till din post.
+
 ## Steg 1: Ladda upp
 
 1. Innan du börjar, se till att du har skapat ett konto och loggat in.
 2. Klicka på plusikonen i sidhuvudet och välj **Ny uppladdning**.
+        <figure markdown="span">
+            ![Ladda upp-knappen](assets/images/get_started_new_upload_btn.jpg){ loading=lazy }
+        <figcaption>Ladda upp-knappen</figcaption>
+        </figure>
 3. Ladda upp en eller flera filer genom att klicka på **Ladda upp filer**-knappen för att välja filer från din dator. Observera att du inte kommer att kunna lägga till, ta bort eller ändra filer när de har publicerats.
+        <figure markdown="span">
+            ![Uppladdningssektion](assets/images/get_started_upload_section.jpg){ loading=lazy }
+        <figcaption>Uppladdningssektion</figcaption>
+        </figure>
 
 ## Steg 2: Beskriv
 
 1. Fyll i de minimalt nödvändiga fälten (markerade med en röd stjärna).
+        <figure markdown="span">
+            ![Beskriv post](assets/images/get_started_describe_record.jpg){ loading=lazy }
+        <figcaption>Beskriv post</figcaption>
+        </figure>
 2. Klicka på **Spara utkast** för att validera den angivna informationen.
+        <figure markdown="span">
+            ![Spara utkast-knappen](assets/images/get_started_submit_for_review.jpg){ loading=lazy }
+        <figcaption>Spara utkast-knappen</figcaption>
+        </figure>
 
-## Steg 3: Publicera
+## Steg 3: Skicka in för granskning
 
-1. När du är redo, tryck på **Publicera**-knappen.
-2. **OBS:** Du kommer inte att kunna lägga till, ändra eller ta bort filer från posten efter publicering.
-3. Klicka på **Publicera**-knappen för att bekräfta.
-4. Grattis, du har nu publicerat din första post.
+1. När du är redo, tryck på **Skicka in för granskning**-knappen.
+2. Din inlämning kommer att granskas av en kurator. Se [Skicka in för granskning](../share/submit_for_review.md)
+        <figure markdown="span">
+            ![Skicka in för granskning-knappen](assets/images/get_started_submit_for_review.jpg){ loading=lazy }
+        <figcaption>Skicka in för granskning-knappen</figcaption>
+        </figure>
+3. När den har godkänts kommer din post att publiceras och en Digital Object Identifier (DOI) kommer att tilldelas.
+4. Grattis, du har nu skickat in din första post för granskning.
+
+!!! warning "OBS"
+    Du kommer inte att kunna lägga till, ändra eller ta bort filer från posten efter publicering.

@@ -22,16 +22,39 @@ Once you publish, we will automatically assign a Digital Object Identifier (DOI)
 
 1. Before you start, make sure you have created an account and logged in.
 2. Click the plus icon in the header, and select **New upload**.
+        <figure markdown="span">
+            ![Upload button](assets/images/get_started_new_upload_btn.jpg){ loading=lazy }
+        <figcaption>Upload button</figcaption>
+        </figure>
 3. Upload one or more files by clicking the **Upload files** button to select files from your computer. Note that you will not be able to add, remove or modify files once published.
-
+        <figure markdown="span">
+            ![Upload section](assets/images/get_started_upload_section.jpg){ loading=lazy }
+        <figcaption>Upload section</figcaption>
+        </figure>
 ## Step 2: Describe
 
 1. Fill in the minimal required fields (marked with a red star).
+        <figure markdown="span">
+            ![Describe record](assets/images/get_started_describe_record.jpg){ loading=lazy }
+        <figcaption>Describe record</figcaption>
+        </figure>
 2. Click **Save draft** to validate the provided information.
+        <figure markdown="span">
+            ![Save draft button](assets/images/get_started_submit_for_review.jpg){ loading=lazy }
+        <figcaption>Save draft button</figcaption>
+        </figure>
 
-## Step 3: Publish
+## Step 3: Submit for review
 
-1. When ready, press the **Publish** button.
-2. **ATTENTION:** You will not be able to add, modify or remove files from the record once published.
-3. Click the **Publish** button to confirm.
-4. Congratulations, you have now published your first record.
+1. When ready, press the **Submit for review** button.
+2. Your submission will be reviewed by a curator. see [Submit for review](../share/submit_for_review.md)
+        <figure markdown="span">
+            ![Submit for review button](assets/images/get_started_submit_for_review.jpg){ loading=lazy}
+        <figcaption>Submit for review button</figcaption>
+        </figure>
+3. Once approved, your record will be published and a Digital Object Identifier (DOI) will be assigned.
+4. Congratulations, you have now submitted your first record for review.
+
+!!! warning ATTENTION
+    You will not be able to add, modify or remove files from the record once published
+
