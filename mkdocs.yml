@@ -109,6 +109,7 @@ plugins:
                 - Om Communities: communities/about_communities.md
                 - Ansök om nytt Community: communities/apply_new_community.md
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
+                - Kurera poster: communities/curate_records.md
             - Samarbeta och dela:
                 - Samarbeta och dela: share/about_share.md
                 - Användardelning: share/user_sharing.md
@@ -146,6 +147,7 @@ nav:
       - About Communities: communities/about_communities.md
       - Apply for New Community: communities/apply_new_community.md
       - Community Manager Responsibilities: communities/community_manager_responsibilities.md
+      - Curate Records: communities/curate_records.md
   - Collaborate and share:
       - Collaborate and share : share/about_share.md
       - User Sharing: share/user_sharing.md

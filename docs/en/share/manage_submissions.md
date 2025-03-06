@@ -4,9 +4,9 @@ The following sections explain how you can manage your submissions, in particula
 - **Cancel/withdraw submission** — Learn how to withdraw a record that was submitted for review to a community.
 - **Reply/edit/delete comments** — Learn how to reply to comments, as well as how to edit/delete comments.
 
-See [Submit for review](#) and [Submit to community](#) for how to make a new submission.
+See [Submit for review](./submit_for_review.md) and [Submit to community](./submit_to_community.md) for how to make a new submission.
 
-In addition, see [Curate records](#) for details on removing the record from a community once accepted, as well as how to set the branded community of the record.
+In addition, see [Curate records](../communities/curate_records.md) for details on removing the record from a community once accepted, as well as how to set the branded community of the record.
 
 ## View submissions
 

@@ -4,9 +4,9 @@ Följande avsnitt förklarar hur du kan hantera dina inlämningar, i synnerhet:
 - **Avbryta/återkalla inlämning** — Lär dig hur du återkallar en post som har skickats in för granskning till en community.
 - **Svara/redigera/radera kommentarer** — Lär dig hur du svarar på kommentarer, samt hur du redigerar eller raderar kommentarer.
 
-Se [Skicka in för granskning](#) och [Skicka in till en community](#) för hur du gör en ny inlämning.
+Se [Skicka in för granskning](./submit_for_review.md) och [Skicka in till en community](./submit_to_community.md) för hur du gör en ny inlämning.
 
-Se även [Kuratera poster](#) för detaljer om hur du tar bort en post från en community efter att den accepterats, samt hur du ställer in postens varumärkta community.
+Se även [Kuratera poster](../communities/curate_records.md) för detaljer om hur du tar bort en post från en community efter att den accepterats, samt hur du ställer in postens varumärkta community.
 
 ## Visa inlämningar
 
