@@ -26,12 +26,12 @@
 - ## Collaborate and share
 
     - [About collaboration and sharing](share/about_share.md)
-    - [User sharing (WIP)](#)
-    - [Link sharing (WIP)](#)
-    - [Access requests (WIP)](#)
-    - [Submit for review (WIP)](#)
-    - [Submit to community (WIP)](#)
-    - [Manage your submissions (WIP)](#)
+    - [User sharing](share/user_sharing.md)
+    - [Link sharing](share/link_sharing.md)
+    - [Access requests](share/access_requests.md)
+    - [Submit for review](share/submit_for_review.md)
+    - [Submit to community](share/submit_to_community.md)
+    - [Manage your submissions](share/manage_submissions.md)
     - [Membership invitations (WIP)](#)
 
 - ## Communities
