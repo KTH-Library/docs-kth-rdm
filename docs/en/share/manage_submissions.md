@@ -71,3 +71,54 @@ You can cancel a review request at any point in the review process.
         ![Record preview page](assets/images/share_chat_canelled_request.jpg){ loading=lazy }
         <figcaption>Record preview page</figcaption>
         </figure>
+
+## Reply, Edit, or Delete Comments
+
+A review request allows for communication between the uploader and community curators. You will receive email notifications for new comments if you have enabled notifications.
+
+### Reply to a Comment
+
+1. Go to the review request (see **View Submissions**).
+2. Write a comment in the comment field. You may use basic formatting.
+      <figure markdown="span">
+      ![Conversation window](assets/images/share_request_conversation.jpg){ loading=lazy }
+      <figcaption>Conversation window</figcaption>
+      </figure>
+3. Submit the comment by clicking the green **Comment** button.
+
+### Edit a Comment
+
+1. Find the comment you want to edit and click the three dots (**...**) in the top right corner of the comment.
+2. Click **Edit** in the dropdown menu.
+      <figure markdown="span">
+      ![Conversation edit input](assets/images/share_edit_menu.jpg){ loading=lazy }
+      <figcaption>Conversation edit input</figcaption>
+      </figure>
+3. Edit your comment. Once ready, click the green **Save** button.
+      <figure markdown="span">
+      ![Conversation marked as edited](assets/images/share_chat_edit_menu.jpg){ loading=lazy }
+      <figcaption>Conversation marked as edited</figcaption>
+      </figure>
+4. The comment will show that it was edited.
+      <figure markdown="span">
+      ![Conversation marked as edited](assets/images/share_chat_edited.jpg){ loading=lazy }
+      <figcaption>Conversation marked as edited</figcaption>
+      </figure>
+### Delete a Comment
+
+1. Find the comment you want to delete and click the three dots (**...**) in the top right corner of the comment.
+2. Click **Delete** in the dropdown menu.
+      <figure markdown="span">
+      ![Conversation edit input](assets/images/share_edit_menu.jpg){ loading=lazy }
+      <figcaption>Conversation delete button</figcaption>
+      </figure>
+3. Confirm that you want to delete the comment by clicking the red **Delete** button.
+      <figure markdown="span">
+      ![Conversation confirm delete](assets/images/share_chat_confirm_delete.jpg){ loading=lazy }
+      <figcaption>Conversation confirm delete</figcaption>
+      </figure>
+4. The timeline will indicate that a comment was deleted.
+      <figure markdown="span">
+      ![Selected chat deleted](assets/images/share_chat_deleted.jpg){ loading=lazy }
+      <figcaption>Selected chat deleted</figcaption>
+      </figure>

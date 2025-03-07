@@ -71,3 +71,55 @@ Du kan när som helst avbryta en granskningsförfrågan under granskningsprocess
         ![Förhandsgranskningssida för post](assets/images/share_chat_canelled_request.jpg){ loading=lazy }
         <figcaption>Förhandsgranskningssida för post</figcaption>
         </figure>
+
+## Svara, redigera eller ta bort kommentarer
+
+En granskningsbegäran möjliggör kommunikation mellan uppladdaren och community-kuratorer. Du får e-postaviseringar om nya kommentarer om du har aktiverat aviseringar.
+
+### Svara på en kommentar
+
+1. Gå till granskningsbegäran (se **Visa inskickade bidrag**).
+2. Skriv en kommentar i kommentarsfältet. Du kan använda enkel formatering.
+      <figure markdown="span">
+      ![Konversationsfönster](assets/images/share_request_conversation.jpg){ loading=lazy }
+      <figcaption>Konversationsfönster</figcaption>
+      </figure>
+3. Skicka kommentaren genom att klicka på den gröna knappen **Kommentera**.
+
+### Redigera en kommentar
+
+1. Hitta kommentaren du vill redigera och klicka på de tre prickarna (**...**) i det övre högra hörnet av kommentaren.
+2. Klicka på **Redigera** i rullgardinsmenyn.
+      <figure markdown="span">
+      ![Redigeringsmeny för konversation](assets/images/share_edit_menu.jpg){ loading=lazy }
+      <figcaption>Redigeringsmeny för konversation</figcaption>
+      </figure>
+3. Redigera din kommentar. När du är klar, klicka på den gröna knappen **Spara**.
+      <figure markdown="span">
+      ![Konversation markerad som redigerad](assets/images/share_chat_edit_menu.jpg){ loading=lazy }
+      <figcaption>Konversation markerad som redigerad</figcaption>
+      </figure>
+4. Kommentaren kommer att visa att den har redigerats.
+      <figure markdown="span">
+      ![Konversation markerad som redigerad](assets/images/share_chat_edited.jpg){ loading=lazy }
+      <figcaption>Konversation markerad som redigerad</figcaption>
+      </figure>
+
+### Ta bort en kommentar
+
+1. Hitta kommentaren du vill ta bort och klicka på de tre prickarna (**...**) i det övre högra hörnet av kommentaren.
+2. Klicka på **Ta bort** i rullgardinsmenyn.
+      <figure markdown="span">
+      ![Redigeringsmeny för konversation](assets/images/share_edit_menu.jpg){ loading=lazy }
+      <figcaption>Raderingsknapp för konversation</figcaption>
+      </figure>
+3. Bekräfta att du vill ta bort kommentaren genom att klicka på den röda knappen **Ta bort**.
+      <figure markdown="span">
+      ![Bekräfta radering av konversation](assets/images/share_chat_confirm_delete.jpg){ loading=lazy }
+      <figcaption>Bekräfta radering av konversation</figcaption>
+      </figure>
+4. Tidslinjen kommer att indikera att en kommentar har tagits bort.
+      <figure markdown="span">
+      ![Vald chatt raderad](assets/images/share_chat_deleted.jpg){ loading=lazy }
+      <figcaption>Vald chatt raderad</figcaption>
+      </figure>
