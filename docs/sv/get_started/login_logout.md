@@ -11,7 +11,7 @@
 1. Klicka på pilknappen bredvid ditt användarnamn i sidhuvudet för att öppna rullgardinsmenyn.
 
 <figure markdown="span">
-    ![logout button](assets/images/logout_button.png){ loading=lazy, width="400" }
+    ![logout button](assets/images/logout_button.jpg){ loading=lazy, width="400" }
   <figcaption>Logga ut knappen</figcaption>
 </figure>
 2. Klicka på **Logga ut** för att logga ut från KTH Data Repository.

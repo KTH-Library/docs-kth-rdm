@@ -26,24 +26,24 @@
 - ## Samarbeta och dela
 
     - [Om samarbete och delning](share/about_share.md)
-    - [Användardelning (WIP)](#)
-    - [Länkdelning (WIP)](#)
-    - [Åtkomstförfrågningar (WIP)](#)
-    - [Skicka in för granskning (WIP)](#)
-    - [Skicka till community (WIP)](#)
-    - [Hantera dina inskick (WIP)](#)
-    - [Medlemsinbjudningar (WIP)](#)
+    - [Användardelning](share/user_sharing.md)
+    - [Länkdelning](share/link_sharing.md)
+    - [Åtkomstförfrågningar](share/access_requests.md)
+    - [Skicka in för granskning](share/submit_for_review.md)
+    - [Skicka till community](share/submit_to_community.md)
+    - [Hantera dina inskick](share/manage_submissions.md)
+    - [Medlemsinbjudningar](share/membership_invitations.md)
 
 - ## Communities
 
     - [Om communities](communities/about_communities.md)
     - [Community manager-ansvar](communities/community_manager_responsibilities.md)
     - [Ansök om en ny community](communities/apply_new_community.md)
-    - [Visa mina communities (WIP)](#)
+    <!-- - [Visa mina communities (WIP)](#)
     - [Hantera community-inställningar (WIP)](#)
-    - [Hantera medlemmar (WIP)](#)
-    - [Granska inskick (WIP)](#)
-    - [Kuratera poster (WIP)](#)
+    - [Hantera medlemmar (WIP)](#) -->
+    - [Granska inskick](communities/review_submissions.md)
+    - [Kuratera poster](communities/curate_records.md)
 
 - ## Profil
 
