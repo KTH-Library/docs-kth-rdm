@@ -32,7 +32,7 @@
     - [Skicka in för granskning](share/submit_for_review.md)
     - [Skicka till community](share/submit_to_community.md)
     - [Hantera dina inskick](share/manage_submissions.md)
-    - [Medlemsinbjudningar (WIP)](#)
+    - [Medlemsinbjudningar](share/membership_invitations.md)
 
 - ## Communities
 

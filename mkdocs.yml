@@ -118,6 +118,7 @@ plugins:
                 - Skicka in för granskning: share/submit_for_review.md
                 - Skicka till Community: share/submit_to_community.md
                 - Hantera dina inskick: share/manage_submissions.md
+                - Medlemsinbjudningar: share/membership_invitations.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -156,6 +157,7 @@ nav:
       - Submit for Review: share/submit_for_review.md
       - Submit to Community: share/submit_to_community.md
       - Manage Submissions: share/manage_submissions.md
+      - Membership Invitation: share/membership_invitations.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md

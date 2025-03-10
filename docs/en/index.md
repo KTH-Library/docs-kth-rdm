@@ -32,7 +32,7 @@
     - [Submit for review](share/submit_for_review.md)
     - [Submit to community](share/submit_to_community.md)
     - [Manage your submissions](share/manage_submissions.md)
-    - [Membership invitations (WIP)](#)
+    - [Membership invitations](share/membership_invitations.md)
 
 - ## Communities
 
