@@ -39,11 +39,11 @@
     - [About communities](communities/about_communities.md)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
     - [Apply for a new community](communities/apply_new_community.md)
-    - [View my communities (WIP)](#)
+    <!-- - [View my communities (WIP)](#)
     - [Manage community settings (WIP)](#)
-    - [Manage members (WIP)](#)
-    - [Review submissions (WIP)](#)
-    - [Curate records (WIP)](#)
+    - [Manage members (WIP)](#) -->
+    - [Review submissions](communities/review_submissions.md)
+    - [Curate records](communities/curate_records.md)
 
 - ## Profile
 
