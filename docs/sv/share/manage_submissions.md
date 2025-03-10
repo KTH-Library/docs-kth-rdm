@@ -1,8 +1,8 @@
 Följande avsnitt förklarar hur du kan hantera dina inlämningar, i synnerhet:
 
-- **Visa inlämningar** — Lär dig hur du visar poster som är under granskning och hittar deras associerade granskningsbegäran.
-- **Avbryta/återkalla inlämning** — Lär dig hur du återkallar en post som har skickats in för granskning till en community.
-- **Svara/redigera/radera kommentarer** — Lär dig hur du svarar på kommentarer, samt hur du redigerar eller raderar kommentarer.
+- [**Visa inlämningar**](#visa-inlamningar) — Lär dig hur du visar poster som är under granskning och hittar deras associerade granskningsbegäran.
+- [**Avbryta/återkalla inlämning**](#avbryta-en-inskickning-aterkalla) — Lär dig hur du återkallar en post som har skickats in för granskning till en community.
+- [**Svara/redigera/radera kommentarer**](#svara-redigera-eller-ta-bort-kommentarer) — Lär dig hur du svarar på kommentarer, samt hur du redigerar eller raderar kommentarer.
 
 Se [Skicka in för granskning](./submit_for_review.md) och [Skicka in till en community](./submit_to_community.md) för hur du gör en ny inlämning.
 

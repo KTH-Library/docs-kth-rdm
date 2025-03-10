@@ -1,8 +1,8 @@
 The following sections explain how you can manage your submissions, in particular:
 
-- **View submissions** — Learn how to view records in review and find their associated review request.
-- **Cancel/withdraw submission** — Learn how to withdraw a record that was submitted for review to a community.
-- **Reply/edit/delete comments** — Learn how to reply to comments, as well as how to edit/delete comments.
+- [**View submissions**](#view-submissions) — Learn how to view records in review and find their associated review request.
+- [**Cancel/withdraw submission**](#cancel-a-submission-withdraw) — Learn how to withdraw a record that was submitted for review to a community.
+- [**Reply/edit/delete comments**](#reply-edit-or-delete-comments) — Learn how to reply to comments, as well as how to edit/delete comments.
 
 See [Submit for review](./submit_for_review.md) and [Submit to community](./submit_to_community.md) for how to make a new submission.
 
