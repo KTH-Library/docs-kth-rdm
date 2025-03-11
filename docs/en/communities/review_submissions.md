@@ -50,7 +50,7 @@ An unpublished record is published when you accept the record into the community
 
 ## Comment on a submission
 
-See [Reply/Edit/Delete comments](#reply-edit-delete-comments) for details on how to communicate with the submitter.
+See [Reply/Edit/Delete comments](../share/manage_submissions.md#reply-edit-or-delete-comments) for details on how to communicate with the submitter.
 
 ---
 
