@@ -26,7 +26,7 @@ En opublicerad post publiceras när du godkänner posten i communityn.
 - [Granska en inlämning](#granska-en-inlamning)
 - [Kommentera en inlämning](#kommentera-en-inlamning)
 - [Acceptera en inlämning](#acceptera-en-inlamning)
-- [Avslå en inlämning](#avsla-en-inlamning)
+- [Avslå en inlämning](#neka-en-inlamning)
 
 ---
 
