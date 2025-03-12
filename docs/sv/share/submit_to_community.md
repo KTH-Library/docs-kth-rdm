@@ -4,11 +4,11 @@ Följande avsnitt förklarar hur du skickar en publicerad post till en community
 
 ## Endast publicerade poster
 
-Du kan endast skicka publicerade poster för inkludering i en community (se ["Skicka för granskning"](submit_for_review.md) för att skicka en opublicerad post till en community).
+Du kan endast skicka publicerade poster för inkludering i en ny community (se ["Skicka för granskning"](submit_for_review.md) för att skicka en opublicerad post till en community).
 
-## Både uppladdare och curatorer kan redigera
+## Både uppladdare och granskare kan redigera
 
-Både du som uppladdare och curatorerna i communityn kan redigera metadata när du skickar posten till en community.
+Både du som uppladdare och granskare i communityn kan redigera metadata när du skickar posten till en community.
 
 Lär dig nedan hur du:
 
@@ -48,8 +48,8 @@ Hitta den community du vill skicka till och klicka på **Välj**-knappen.
 
 Bekräfta att du vill skicka posten till communityn genom att:
 
-- Kryssa i rutan som ger curatorer visnings- och redigeringsåtkomst till din post.
-- Valfritt: skriva ett meddelande till curatorerna.
+- Kryssa i rutan som ger granskare visnings- och redigeringsåtkomst till din post.
+- Valfritt: skriva ett meddelande till granskarna.
 - Slutligen klicka på den blå knappen **Skicka till en community**.
         <figure markdown="span">
         ![Bekräfta inlämning](assets/images/share_submit_to_comm_agreement.jpg){ loading=lazy }
@@ -70,9 +70,9 @@ Klicka på **Pågående inlämningar** i community-menyn från postens landnings
 
 Klicka på communityns titel för att visa åtkomstförfrågan.
 
-### 3. Kommunicera med curatorer
+### 3. Kommunicera med granskare
 
-Åtkomstförfrågan låter dig ha en konversation med communityns curatorer. Se även [Hantera inlämning](./manage_submissions.md) för mer information.
+Åtkomstförfrågan låter dig ha en konversation med communityns granskare. Se även [Hantera inlämning](./manage_submissions.md) för mer information.
         <figure markdown="span">
         ![Förfrågningssida](assets/images/share_request_chat.png){ loading=lazy }
         <figcaption>Förfrågningssida</figcaption>

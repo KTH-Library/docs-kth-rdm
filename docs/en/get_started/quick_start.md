@@ -22,9 +22,9 @@ Upload the files you want to share.
         </figure>
 ## Step 2: Describe
 
-Describe the files with minimal metadata such as title and creators.
+Describe the files with metadata such as title and creators.
 
-1. Fill in the minimal required fields (marked with a red star).
+1. Fill in the required fields (marked with a red star).
         <figure markdown="span">
             ![Describe record](assets/images/get_started_describe_record.jpg){ loading=lazy }
         <figcaption>Describe record</figcaption>

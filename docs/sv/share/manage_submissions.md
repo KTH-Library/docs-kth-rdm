@@ -1,21 +1,21 @@
-Följande avsnitt förklarar hur du kan hantera dina inlämningar, i synnerhet:
+Följande avsnitt förklarar hur du kan hantera dina inskickade poster, specifikt:
 
-- [**Visa inlämningar**](#visa-inlamningar) — Lär dig hur du visar poster som är under granskning och hittar deras associerade granskningsbegäran.
+- [**Visa inlämningar**](#visa-inlamningar) — Lär dig hur du visar poster som är under granskning och hittar deras associerade granskningsförfrågningar.
 - [**Avbryta/återkalla inlämning**](#avbryta-en-inskickning-aterkalla) — Lär dig hur du återkallar en post som har skickats in för granskning till en community.
 - [**Svara/redigera/radera kommentarer**](#svara-redigera-eller-ta-bort-kommentarer) — Lär dig hur du svarar på kommentarer, samt hur du redigerar eller raderar kommentarer.
 
 Se [Skicka in för granskning](./submit_for_review.md) och [Skicka in till en community](./submit_to_community.md) för hur du gör en ny inlämning.
 
-Se även [Kuratera poster](../communities/curate_records.md) för detaljer om hur du tar bort en post från en community efter att den accepterats, samt hur du ställer in postens varumärkta community.
+Se även [Granska poster](../communities/curate_records.md) för detaljer om hur du tar bort en post från en community efter att den accepterats, samt hur du ställer in postens community.
 
 ## Visa inlämningar
 
-En granskningsbegäran gör det möjligt att ha en konversation med communityns kuratorer samt följa granskningsstatusen. Du kan redigera poster som är under granskning när som helst under granskningsprocessen.
+En granskningsbegäran gör det möjligt att ha en konversation med communityns granskare samt följa granskningsstatusen. Du kan redigera poster som är under granskning när som helst under granskningsprocessen.
 
-Följande avsnitt förklarar hur du visar dina poster som är under granskning och hittar deras associerade granskningsbegäran:
+Följande avsnitt förklarar hur du visar dina poster som är under granskning och hittar deras associerade granskningsförfrågningar:
 
 - **Visa poster under granskning**
-- **Visa granskningsbegäranden**
+- **Visa granskningsförfrågningar**
 
 ### Visa poster under granskning
 
@@ -25,23 +25,23 @@ Följande avsnitt förklarar hur du visar dina poster som är under granskning o
         <figcaption>Post under granskning</figcaption>
         </figure>
 
-2. Öppna posten som är under granskning. Du kommer att märka att community-hanteringsknapparna och inlämningsknapparna har inaktiverats. Klicka på **Visa begäran** för att komma åt granskningsbegäran.
+2. Öppna posten som är under granskning. Du kommer att märka att community-hanteringsknapparna och inlämningsknapparna har inaktiverats. Klicka på **Visa förfrågan** för att komma åt granskningsförfrågan.
         <figure markdown="span">
         ![Granskningsknapp](assets/images/share_review_button.jpg){ loading=lazy }
         <figcaption>Granskningsknapp</figcaption>
         </figure>
 
-### Visa granskningsbegäranden
+### Visa granskningsförfrågningar
 
-1. Klicka på **Min instrumentpanel** i sidhuvudet och därefter på **Mina begäranden**. Som standard visas alla öppna granskningsbegäranden. Klicka på **Stängda**-knappen för att visa stängda begäranden.
+1. Klicka på **Min instrumentpanel** i sidhuvudet och därefter på **Mina förfrågningar**. Som standard visas alla öppna granskningsförfrågningar. Klicka på **Stängda**-knappen för att visa stängda förfrågningar.
         <figure markdown="span">
         ![Öppna begäranden-sida](assets/images/share_open_requests_page.jpg){ loading=lazy }
-        <figcaption>Öppna begäranden-sida</figcaption>
+        <figcaption>Öppna förfrågningar-sida</figcaption>
         </figure>
-2. Öppna granskningsbegäran för att se konversationshistoriken.
+2. Öppna granskningsförfrågan för att se konversationshistoriken.
         <figure markdown="span">
-        ![Begäranskonversation](assets/images/share_request_conversation.jpg){ loading=lazy }
-        <figcaption>Begäranskonversation</figcaption>
+        ![Förfrågningskonversation](assets/images/share_request_conversation.jpg){ loading=lazy }
+        <figcaption>Förfrågningskonversation</figcaption>
         </figure>
 3. Klicka på fliken **Post** för att se en förhandsgranskning av posten.
         <figure markdown="span">
@@ -49,24 +49,24 @@ Följande avsnitt förklarar hur du visar dina poster som är under granskning o
         <figcaption>Förhandsgranskningssida för post</figcaption>
         </figure>
 
-## Avbryta/Återkalla en inskickning
+## Avbryta/Återkalla en inlämning
 
 Du kan när som helst avbryta en granskningsförfrågan under granskningsprocessen.
 
-### Avbryta en inskickning (Återkalla)
+### Avbryta en inlämning (Återkalla)
 
-1. Gå till granskningsförfrågan (se [Visa inskickningar](#visa-inlamningar)).
+1. Gå till granskningsförfrågan (se [Visa inlämningar](#visa-inlamningar)).
         <figure markdown="span">
         ![Förhandsgranskningssida för post](assets/images/share_preview_page.jpg){ loading=lazy }
         <figcaption>Förhandsgranskningssida för post</figcaption>
         </figure>
 2. Klicka på **Avbryt**-knappen i det övre högra hörnet.
-3. (Valfritt) Lämna ett meddelande till kuratorerna och bekräfta avbrytandet genom att klicka på **Avbryt begäran**.
+3. (Valfritt) Lämna ett meddelande till granskarna och bekräfta avbrytandet genom att klicka på **Avbryt förfrågan**.
         <figure markdown="span">
-        ![Avbryt begäran](assets/images/share_cancel_request_menu.jpg){ loading=lazy }
-        <figcaption>Avbryt begäran</figcaption>
+        ![Avbryt förfrågan](assets/images/share_cancel_request_menu.jpg){ loading=lazy }
+        <figcaption>Avbryt förfrågan</figcaption>
         </figure>
-4. Förfrågningshistoriken kommer att uppdateras för att visa att begäran har avbrutits. Community-kuratorerna kommer inte längre att kunna se din post.
+4. Historiken kommer att uppdateras för att visa att förfrågan har avbrutits. Community-granskarna kommer inte längre att kunna se din post.
         <figure markdown="span">
         ![Förhandsgranskningssida för post](assets/images/share_chat_canelled_request.jpg){ loading=lazy }
         <figcaption>Förhandsgranskningssida för post</figcaption>
@@ -74,11 +74,11 @@ Du kan när som helst avbryta en granskningsförfrågan under granskningsprocess
 
 ## Svara, redigera eller ta bort kommentarer
 
-En granskningsbegäran möjliggör kommunikation mellan uppladdaren och community-kuratorer. Du får e-postaviseringar om nya kommentarer om du har aktiverat aviseringar.
+En granskningsförfrågan möjliggör kommunikation mellan uppladdaren och community-granskare. Du får e-postaviseringar om nya kommentarer om du har aktiverat aviseringar.
 
 ### Svara på en kommentar
 
-1. Gå till granskningsbegäran (se **Visa inskickade bidrag**).
+1. Gå till granskningsförfrågan (se **Visa inlämnade bidrag**).
 2. Skriv en kommentar i kommentarsfältet. Du kan använda enkel formatering.
       <figure markdown="span">
       ![Konversationsfönster](assets/images/share_request_conversation.jpg){ loading=lazy }

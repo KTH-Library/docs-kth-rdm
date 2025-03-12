@@ -109,8 +109,8 @@ plugins:
                 - Om Communities: communities/about_communities.md
                 - Ansök om nytt Community: communities/apply_new_community.md
                 - Community manager-ansvar: communities/community_manager_responsibilities.md
-                - Granska inskick: communities/review_submissions.md
-                - Kurera poster: communities/curate_records.md
+                - Granska inlämning: communities/review_submissions.md
+                - Granska poster: communities/curate_records.md
             - Samarbeta och dela:
                 - Samarbeta och dela: share/about_share.md
                 - Användardelning: share/user_sharing.md
@@ -118,7 +118,7 @@ plugins:
                 - Åtkomstförfrågningar: share/access_requests.md
                 - Skicka in för granskning: share/submit_for_review.md
                 - Skicka till Community: share/submit_to_community.md
-                - Hantera dina inskick: share/manage_submissions.md
+                - Hantera dina inlämningar: share/manage_submissions.md
                 - Medlemsinbjudningar: share/membership_invitations.md
             - Om:
                 - Villkor för användning: terms.md

@@ -1,12 +1,12 @@
-Länkdela gör det möjligt att skapa en hemlig länk som ger åtkomst till din post. Länken kan även ha ett utgångsdatum. Om personen du vill dela en post med redan har ett KTH Data Repository-konto kan du även använda användardelning.
+Länkdelning gör det möjligt att skapa en hemlig länk som ger åtkomst till din post. Länken kan även ha ett utgångsdatum. Om personen du vill dela en post med redan har ett KTH Data Repository-konto kan du även använda användardelning.
 
 ### Behörigheter
 
 Du kan ge den hemliga länken en av följande tre behörigheter:
 
-- **Kan visa**: Ger åtkomst för att se begränsade/embargo-belagda filer av alla nuvarande och framtida versioner av en publicerad post.
-- **Kan förhandsgranska utkast**: Ger åtkomst för att se utkast (opublicerade poster) och begränsade/embargo-belagda filer av alla nuvarande och framtida versioner av en post/utkast.
-- **Kan redigera**: Ger åtkomst för att redigera utkast och se begränsade/embargo-belagda filer av alla nuvarande och framtida versioner av en post.
+- **Kan visa**: Ger åtkomst för att se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en publicerad post.
+- **Kan förhandsgranska utkast**: Ger åtkomst för att se utkast (opublicerade poster) och begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post/utkast.
+- **Kan redigera**: Ger åtkomst för att redigera utkast och se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post.
 
 *Observera: Behörigheterna gäller för alla nuvarande och framtida versioner av en post/utkast.*
 

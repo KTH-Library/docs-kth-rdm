@@ -1,1 +1,1 @@
-# Curate records
+# Granska poster

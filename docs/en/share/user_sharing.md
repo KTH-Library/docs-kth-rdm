@@ -30,7 +30,7 @@ You can grant one or more users one of the following four permissions:
       ![Add people button](assets/images/share_add_people_btn.png){ loading=lazy }
       <figcaption>Click the Add people button</figcaption>
       </figure>
-3. In the **Add people** dialog, use the **User** field to search for one or more users by name, username, or email address.
+3. In the **Add people** dialogue, use the **User** field to search for one or more users by name, username, or email address.
    > **Note:** Only users who have public profile visibility can be found and added.
       <figure markdown="span">
       ![Add people menu](assets/images/share_add_people_menu.png){ loading=lazy }

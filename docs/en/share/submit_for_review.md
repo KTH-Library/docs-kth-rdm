@@ -12,7 +12,7 @@ Both you as the uploader and the curators of the community can edit the metadata
 
 ### Published when accepted
 
-The record is automatically published when the curator(s) of the community accept your record into the community. If the review is declined, you can choose to submit the record to a new community or publish it without a community.
+The record is automatically published when the curator(s) of the community accept your record into the community. If the review is declined, you can choose to submit the record to a new community.
 
 ## Submit your record for review in 3 simple steps:
 

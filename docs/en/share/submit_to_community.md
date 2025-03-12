@@ -4,7 +4,7 @@ The following section explains how you submit a published record to a community 
 
 ## Only published records
 
-You can only submit published records for inclusion in a community (see [Submit for review](submit_for_review.md) for submitting an unpublished record to a community).
+You can only submit published records for inclusion in a new community (see [Submit for review](submit_for_review.md) for submitting an unpublished record to a community).
 
 ## Both uploader and curators can edit
 

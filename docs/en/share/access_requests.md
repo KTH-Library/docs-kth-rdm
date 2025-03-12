@@ -1,5 +1,5 @@
 
-Access requests enable other users and guests to request access to view restricted files in your published record (e.g. anonymised clinical trial data that can only be shared with medical professionals).
+Access requests enable other users and guests to request access to view restricted files in your published record.
 
 ## Request access
 

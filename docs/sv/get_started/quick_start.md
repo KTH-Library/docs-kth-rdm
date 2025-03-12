@@ -22,14 +22,14 @@ Ladda upp de filer du vill dela.
 
 ## Steg 2: Beskriv
 
-Beskriv filerna med minimal metadata som titel och skapare.
+Beskriv filerna med metadata som titel och skapare.
 
-1. Fyll i de minimalt nödvändiga fälten (markerade med en röd stjärna).
+1. Fyll i de nödvändiga fälten (markerade med en röd stjärna).
         <figure markdown="span">
             ![Beskriv post](assets/images/get_started_describe_record.jpg){ loading=lazy }
         <figcaption>Beskriv post</figcaption>
         </figure>
-2. Klicka på **Spara utkast** för att validera den angivna informationen.
+2. Klicka på **Spara utkast** för att bekräfta den angivna informationen.
         <figure markdown="span">
             ![Spara utkast-knappen](assets/images/get_started_submit_for_review.jpg){ loading=lazy }
         <figcaption>Spara utkast-knappen</figcaption>
@@ -38,12 +38,12 @@ Beskriv filerna med minimal metadata som titel och skapare.
 ## Steg 3: Skicka in för granskning
 
 1. När du är redo, tryck på **Skicka in för granskning**-knappen.
-2. Din inlämning kommer att granskas av en kurator. Se [Skicka in för granskning](../share/submit_for_review.md)
+2. Din inlämning kommer att granskas av en av communityns granskare. Se [Skicka in för granskning](../share/submit_for_review.md)
         <figure markdown="span">
             ![Skicka in för granskning-knappen](assets/images/get_started_submit_for_review.jpg){ loading=lazy }
         <figcaption>Skicka in för granskning-knappen</figcaption>
         </figure>
-3. När den har godkänts kommer din post att publiceras och en Digital Object Identifier (DOI) kommer att tilldelas.
+3. När den har godkänts kommer din post att publiceras och tilldelas en Digital Object Identifier (DOI).
 4. Grattis, du har nu skickat in din första post för granskning.
 
 !!! warning "OBS"

@@ -6,7 +6,7 @@ The following sections explain how you can manage your submissions, in particula
 
 See [Submit for review](./submit_for_review.md) and [Submit to community](./submit_to_community.md) for how to make a new submission.
 
-In addition, see [Curate records](../communities/curate_records.md) for details on removing the record from a community once accepted, as well as how to set the branded community of the record.
+In addition, see [Curate records](../communities/curate_records.md) for details on removing the record from a community once accepted, as well as how to set the community of the record.
 
 ## View submissions
 
