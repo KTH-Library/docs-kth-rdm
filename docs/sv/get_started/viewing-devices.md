@@ -16,7 +16,7 @@ I följande avsnitt kan du lära dig:
 1. Klicka på profilmenyn i sidhuvudet och välj **Säkerhet**.
 
 <figure markdown="span">
-    ![security menu](assets/images/menu_security.png){ loading=lazy, width="400" }
+    ![security menu](assets/images/menu_security.jpg){ loading=lazy, width="400" }
   <figcaption>Säkerhetsmeny</figcaption>
 </figure>
 2. Under **Sessioner** ser du alla enheter som är inloggade på ditt konto, inklusive deras IP-adress, inloggningsdatum och webbläsare. Din nuvarande enhet är markerad med en grön prick, och knappen säger **Logga ut**.

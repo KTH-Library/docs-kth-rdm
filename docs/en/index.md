@@ -26,24 +26,24 @@
 - ## Collaborate and share
 
     - [About collaboration and sharing](share/about_share.md)
-    - [User sharing (WIP)](#)
-    - [Link sharing (WIP)](#)
-    - [Access requests (WIP)](#)
-    - [Submit for review (WIP)](#)
-    - [Submit to community (WIP)](#)
-    - [Manage your submissions (WIP)](#)
-    - [Membership invitations (WIP)](#)
+    - [User sharing](share/user_sharing.md)
+    - [Link sharing](share/link_sharing.md)
+    - [Access requests](share/access_requests.md)
+    - [Submit for review](share/submit_for_review.md)
+    - [Submit to community](share/submit_to_community.md)
+    - [Manage your submissions](share/manage_submissions.md)
+    - [Membership invitations](share/membership_invitations.md)
 
 - ## Communities
 
     - [About communities](communities/about_communities.md)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
     - [Apply for a new community](communities/apply_new_community.md)
-    - [View my communities (WIP)](#)
+    <!-- - [View my communities (WIP)](#)
     - [Manage community settings (WIP)](#)
-    - [Manage members (WIP)](#)
-    - [Review submissions (WIP)](#)
-    - [Curate records (WIP)](#)
+    - [Manage members (WIP)](#) -->
+    - [Review submissions](communities/review_submissions.md)
+    - [Curate records](communities/curate_records.md)
 
 - ## Profile
 

@@ -38,4 +38,4 @@ GET /api/records?prettyprint=1 HTTP/1.1
 ```
 
 This is the basic information about the KTH Datarepository API. However, for a complete API reference, it is recommended to refer to the official documentation, as it contains more details and the latest updates:
-[Invenio REST API docs](https://inveniordm.docs.cern.ch/reference/rest_api_index/)
+[Invenio REST API docs](https://inveniordm.docs.cern.ch/reference/rest_api_quickstart/)
