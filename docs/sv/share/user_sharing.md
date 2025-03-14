@@ -4,10 +4,10 @@ Användardelning gör det möjligt att dela en post eller ett utkast med en anna
 
 Du kan ge en eller flera användare en av följande fyra behörigheter:
 
-- **Kan visa** – Ger åtkomst till att se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en publicerad post.  
-- **Kan förhandsgranska utkast** – Ger åtkomst till att se utkast (opublicerade poster) och begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post/utkast.  
-- **Kan redigera** – Ger åtkomst till att redigera utkast och se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post.  
-- **Kan hantera** – Ger åtkomst till att hantera åtkomst, redigera utkast och se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post.  
+- **Kan visa** – Ger åtkomst till att se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en publicerad post.
+- **Kan förhandsgranska utkast** – Ger åtkomst till att se utkast (opublicerade poster) och begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post/utkast.
+- **Kan redigera** – Ger åtkomst till att redigera utkast och se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post.
+- **Kan hantera** – Ger åtkomst till att hantera åtkomst, redigera utkast och se begränsade/embargo-belagda filer för alla nuvarande och framtida versioner av en post.
 
 > **Observera:** Behörigheterna gäller för alla nuvarande och framtida versioner av en post.
 
@@ -25,12 +25,12 @@ Du kan ge en eller flera användare en av följande fyra behörigheter:
       ![Dela-knappen](assets/images/share_button.png){ loading=lazy }
       <figcaption>Klicka på Dela-knappen</figcaption>
       </figure>
-2. Klicka på den gröna knappen **Lägg till personer** i dialogrutan **Delad åtkomst** under fliken **Personer**.  
+2. Klicka på den gröna knappen **Lägg till personer** i dialogrutan **Delad åtkomst** under fliken **Personer**.
       <figure markdown="span">
       ![Lägg till personer-knappen](assets/images/share_add_people_btn.png){ loading=lazy }
       <figcaption>Klicka på Lägg till personer-knappen</figcaption>
       </figure>
-3. I dialogrutan **Lägg till personer**, använd fältet **Användare** för att söka efter en eller flera användare via namn, användarnamn eller e-postadress.  
+3. I dialogrutan **Lägg till personer**, använd fältet **Användare** för att söka efter en eller flera användare via namn, användarnamn eller e-postadress.
    > **Observera:** Endast användare med en offentlig profil kan hittas och läggas till.
       <figure markdown="span">
       ![Lägg till personer-menyn](assets/images/share_add_people_menu.png){ loading=lazy }

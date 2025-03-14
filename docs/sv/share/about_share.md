@@ -11,9 +11,9 @@ Ur ett övergripande perspektiv gör KTH Data Repositorys funktioner det möjlig
 
 Enskilda poster/utkast kan delas på olika sätt beroende på vem och hur du vill dela:
 
-- **Användardelning** – Möjliggör delning av poster/utkast med andra KTH Data Repository-användare.  
-- **Länkdelning** – Möjliggör skapandet av en hemlig länk som ger åtkomst till din post (t.ex. för personer som inte har ett KTH Data Repository-konto).  
-- **Åtkomstförfrågningar** – Tillåter gäster/användare att begära åtkomst till en begränsad/embargo-belagd post.  
+- **Användardelning** – Möjliggör delning av poster/utkast med andra KTH Data Repository-användare.
+- **Länkdelning** – Möjliggör skapandet av en hemlig länk som ger åtkomst till din post (t.ex. för personer som inte har ett KTH Data Repository-konto).
+- **Åtkomstförfrågningar** – Tillåter gäster/användare att begära åtkomst till en begränsad/embargo-belagd post.
 
 ### Behörigheter
 
@@ -32,7 +32,7 @@ Communities-funktionen gör det möjligt att organisera en samling av poster och
 
 Den här sektionen fokuserar på hur du skickar in utkast/poster till ett community och hur du hanterar dina inskick, oavsett om du är medlem eller inte:
 
-- **Skicka in för granskning** – Lär dig hur du skickar in ett utkast (opublicerad post) till ett community.  
-- **Skicka in till community** – Lär dig hur du skickar in en redan publicerad post till ett community.  
-- **Hantera inskick** – Lär dig hur du hanterar dina inskick.  
-- **Medlemsinbjudningar** – Lär dig hur du accepterar/avböjer medlemsinbjudningar.  
+- **Skicka in för granskning** – Lär dig hur du skickar in ett utkast (opublicerad post) till ett community.
+- **Skicka in till community** – Lär dig hur du skickar in en redan publicerad post till ett community.
+- **Hantera inskick** – Lär dig hur du hanterar dina inskick.
+- **Medlemsinbjudningar** – Lär dig hur du accepterar/avböjer medlemsinbjudningar.
