@@ -11,9 +11,9 @@ From a high-level perspective, KTH Data Repository's features allow you to:
 
 Individual records/drafts can be shared in different ways depending on whom and how you want to share:
 
-- **User sharing** – Enables you to share records/drafts with other KTH Data Repository users.  
-- **Link sharing** – Enables you to create a secret link that provides access to your record (e.g., with persons who do not have a KTH Data Repository account).  
-- **Access requests** – Allows guests/users to request access to a restricted/embargoed record.  
+- **User sharing** – Enables you to share records/drafts with other KTH Data Repository users.
+- **Link sharing** – Enables you to create a secret link that provides access to your record (e.g., with persons who do not have a KTH Data Repository account).
+- **Access requests** – Allows guests/users to request access to a restricted/embargoed record.
 
 ### Permissions
 
@@ -32,8 +32,8 @@ The communities feature allows you to organise a collection of records and share
 
 This section focuses on how you submit drafts/records to a community and how you manage your submissions, regardless of whether you are a member or not:
 
-- **Submit for review** – Learn how to submit a draft (unpublished record) to a community.  
-- **Submit to community** – Learn how to submit an already published record to a community.  
-- **Managing submissions** – Learn how to manage your submissions.  
-- **Membership invitations** – Learn how to accept/decline membership invitations.  
+- **Submit for review** – Learn how to submit a draft (unpublished record) to a community.
+- **Submit to community** – Learn how to submit an already published record to a community.
+- **Managing submissions** – Learn how to manage your submissions.
+- **Membership invitations** – Learn how to accept/decline membership invitations.
 
