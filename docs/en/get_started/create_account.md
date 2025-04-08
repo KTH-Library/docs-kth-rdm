@@ -13,9 +13,9 @@ Use your KTH account to create an account for seamless access.
   <figcaption>Login button</figcaption>
 </figure>
 
-!!! note
+!!! warning note
     If your screen is too small, you may need to click the hamburger menu in the top right corner to reveal the login button.
-    ![hamburger menu](assets/images/hamburger_menu.png){ loading=lazy, width="50", align=center }
+    ![hamburger menu](assets/images/hamburger_menu.gif){ loading=lazy, }
 
 2- Click the **"Log in with KTH SSO"** button.
 
