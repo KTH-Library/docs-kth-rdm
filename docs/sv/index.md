@@ -46,7 +46,7 @@
 
     - [Redigera profil](profile/edit_profile.md)
     - [Ändra profilens synlighet](profile/change_profile_visibility.md)
-    - [Länka ditt GitHub/ORCID-konto (WIP)](#)
+    - [Länka ditt GitHub/ORCID-konto](profile/link_external_accounts.md)
     - [Hantera notisinställningar (WIP)](#)
     - [Visa inloggade enheter](get_started/viewing-devices.md)
 
