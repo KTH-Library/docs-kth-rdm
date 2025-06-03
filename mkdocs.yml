@@ -127,6 +127,7 @@ plugins:
                 - Redigera Profil: profile/edit_profile.md
                 - Ändra profilens synlighet: profile/change_profile_visibility.md
                 - Länka ditt GitHub/ORCID-konto: profile/link_external_accounts.md
+                - Hantera aviseringsinställningar: profile/manage_notification_preferences.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
@@ -170,3 +171,4 @@ nav:
       - Edit Profile: profile/edit_profile.md
       - Change Profile Visibility: profile/change_profile_visibility.md
       - Linking your GitHub/ORCID account: profile/link_external_accounts.md
+      - Manage Notification Preferences: profile/manage_notification_preferences.md
