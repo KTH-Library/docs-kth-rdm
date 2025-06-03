@@ -9,6 +9,7 @@
     - [Skapa ett konto](get_started/create_account.md)
     - [Logga in och logga ut](get_started/login_logout.md)
     - [Navigera i KTH Data Repository](get_started/navigating_site.md)
+    - [Sökning på metadatafält](get_started/metadata_field_searches.md)
 
 - ## Deponering
 

@@ -9,6 +9,7 @@
     - [Create an account](get_started/create_account.md)
     - [Logging in and logging out](get_started/login_logout.md)
     - [Navigating KTH Data repository](get_started/navigating_site.md)
+    - [Metadata field searches](get_started/metadata_field_searches.md)
 
 - ## Deposit
 
