@@ -39,17 +39,12 @@
     - [Om communities](communities/about_communities.md)
     - [Community manager-ansvar](communities/community_manager_responsibilities.md)
     - [Ansök om en ny community](communities/apply_new_community.md)
-    <!-- - [Visa mina communities (WIP)](#)
-    - [Hantera community-inställningar (WIP)](#)
-    - [Hantera medlemmar (WIP)](#) -->
     - [Granska inskick](communities/review_submissions.md)
     - [Kuratera poster](communities/curate_records.md)
 
 - ## Profil
 
-    - [Redigera profil (WIP)](#)
-    - [Byt lösenord (WIP)](#)
-    - [Återställ lösenord (WIP)](#)
+    - [Redigera profil](profile/edit_profile.md)
     - [Ändra profilens synlighet (WIP)](#)
     - [Länka ditt GitHub/ORCID-konto (WIP)](#)
     - [Hantera notisinställningar (WIP)](#)

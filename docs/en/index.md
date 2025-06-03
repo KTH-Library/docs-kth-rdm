@@ -39,17 +39,12 @@
     - [About communities](communities/about_communities.md)
     - [Community manager responsibilities](communities/community_manager_responsibilities.md)
     - [Apply for a new community](communities/apply_new_community.md)
-    <!-- - [View my communities (WIP)](#)
-    - [Manage community settings (WIP)](#)
-    - [Manage members (WIP)](#) -->
     - [Review submissions](communities/review_submissions.md)
     - [Curate records](communities/curate_records.md)
 
 - ## Profile
 
-    - [Edit profile (WIP)](#)
-    - [Change password (WIP)](#)
-    - [Reset password (WIP)](#)
+    - [Edit profile](profile/edit_profile.md)
     - [Change profile visibility (WIP)](#)
     - [Linking your GitHub/ORCID account (WIP)](#)
     - [Manage notification preferences (WIP)](#)

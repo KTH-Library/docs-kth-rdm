@@ -123,7 +123,8 @@ plugins:
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
-
+            - Profil:
+                - Redigera Profil: profile/edit_profile.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
@@ -163,3 +164,5 @@ nav:
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
+  - Profile:
+      - Edit Profile: profile/edit_profile.md
