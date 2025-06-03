@@ -1,7 +1,7 @@
 .PHONY: install run
 
 install:
-	pip install -r requirement.txt
+	uv pip install -r requirement.txt
 
 run:
-	mkdocs serve
+	uv run mkdocs serve
