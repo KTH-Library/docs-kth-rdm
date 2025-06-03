@@ -45,7 +45,7 @@
 - ## Profile
 
     - [Edit profile](profile/edit_profile.md)
-    - [Change profile visibility (WIP)](#)
+    - [Change profile visibility](profile/change_profile_visibility.md)
     - [Linking your GitHub/ORCID account (WIP)](#)
     - [Manage notification preferences (WIP)](#)
     - [View logged in devices](get_started/viewing-devices.md)

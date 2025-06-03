@@ -125,6 +125,7 @@ plugins:
                 - Cookies Policy: cookie-policy.md
             - Profil:
                 - Redigera Profil: profile/edit_profile.md
+                - Ändra profilens synlighet: profile/change_profile_visibility.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
@@ -166,3 +167,4 @@ nav:
       - Cookies Policy: cookie-policy.md
   - Profile:
       - Edit Profile: profile/edit_profile.md
+      - Change Profile Visibility: profile/change_profile_visibility.md
