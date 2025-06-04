@@ -13,7 +13,7 @@ Aviseringarna skickas till den e-postadress som är registrerad på ditt KTH Dat
 <figcaption>Profilmeny med alternativet Aviseringar</figcaption>
 </figure>
 
-2. Under **Meddela mig**, använd reglaget för att slå på eller av aviseringar beroende på dina önskemål.
+2. Under **Meddela mig**, använd reglaget för att slå på eller av aviseringar.
 
 <figure markdown="span">
 ![Sida för aviseringsinställningar med reglagebrytan](assets/images/notification_page.png){ loading=lazy }

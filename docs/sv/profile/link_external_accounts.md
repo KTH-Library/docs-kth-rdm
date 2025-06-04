@@ -12,7 +12,7 @@ KTH Data Repository tillåter inloggning med externa konton. Följande autentise
 
 <figure markdown="span">
 ![Linked accounts page showing SSO connection](assets/images/linked_accounts_sso.png){ loading=lazy }
-<figcaption>Example of linked accounts page with SSO connection established</figcaption>
+<figcaption>Exempel på länkade konton sida med etablerad SSO-login</figcaption>
 </figure>
 
 ## Anslut ett externt konto
@@ -29,7 +29,7 @@ KTH Data Repository tillåter inloggning med externa konton. Följande autentise
 ![Sida för länkade konton med GitHub- och ORCID-alternativ](assets/images/linked_accounts_gh_orcid.png){ loading=lazy }
 <figcaption>Sida för länkade konton som visar anslutningsalternativ för GitHub och ORCID</figcaption>
 </figure>
-3. Du omdirigeras till tjänsteleverantören för autentisering. När det är klart omdirigeras du tillbaka till KTH Data Repository.
+3. Du omdirigeras till tjänsteleverantören för autentisering. När det är klart dirigeras du tillbaka till KTH Data Repository.
 4. Om anslutningen lyckas visas en grön bock bredvid den anslutna tjänsten (t.ex. GitHub). Du kan nu logga in med det externa kontot.
 
 ## Koppla bort ett externt konto

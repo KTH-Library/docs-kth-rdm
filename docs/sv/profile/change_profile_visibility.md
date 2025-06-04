@@ -5,7 +5,7 @@ Profilens synlighet styr vem som kan hitta dig i KTH Data Repository. Du kan st�
 - **Profil**: Offentliga profiler kan hittas av andra användare genom sökningar på användarnamn, fullständigt namn eller tillhörighet. Dolda profiler kan inte hittas av andra användare.
 - **E-post**: Om din e-postadress är offentlig kan din profil hittas via e-postsökning.
 
-Som standard är din e-post inställd på **dold** när du skapar ett konto, av integritetsskäl.
+Av integritetsskäl är din e-post inställd på **dold** när du skapar ett konto.
 
 ### Ändra din profils synlighet
 
