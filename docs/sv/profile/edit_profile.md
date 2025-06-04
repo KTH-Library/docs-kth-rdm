@@ -27,4 +27,4 @@ Avataren (den runda logotypen bredvid ditt namn) genereras för närvarande auto
 
 ### Hantera vem som kan se din profil
 
-Se ändra profilens synlighet.
+Se [ändra profilens synlighet](change_profile_visibility.md).

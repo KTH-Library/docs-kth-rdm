@@ -94,6 +94,7 @@ plugins:
                 - Logga in och logga ut: get_started/login_logout.md
                 - Visa inloggade enheter: get_started/viewing-devices.md
                 - Navigera i KTH Data Repository: get_started/navigating_site.md
+                - Sökning på metadatafält: get_started/metadata_field_searches.md
             - Deponera data:
                 - Om poster: deposit/about_records.md
                 - Skapa ny uppladdning: deposit/create_new_upload.md
@@ -125,6 +126,9 @@ plugins:
                 - Cookies Policy: cookie-policy.md
             - Profil:
                 - Redigera Profil: profile/edit_profile.md
+                - Ändra profilens synlighet: profile/change_profile_visibility.md
+                - Länka ditt GitHub/ORCID-konto: profile/link_external_accounts.md
+                - Hantera aviseringsinställningar: profile/manage_notification_preferences.md
 
 nav:
   # When updating the nav, remember to update the i18n plugin nav as well
@@ -135,6 +139,7 @@ nav:
       - Logging in and Logging out: get_started/login_logout.md
       - View Logged in Devices: get_started/viewing-devices.md
       - Navigating the KTH Data Repository: get_started/navigating_site.md
+      - Metadata Field Searches: get_started/metadata_field_searches.md
   - Deposit:
       - About Records: deposit/about_records.md
       - Create New Upload: deposit/create_new_upload.md
@@ -166,3 +171,6 @@ nav:
       - Cookies Policy: cookie-policy.md
   - Profile:
       - Edit Profile: profile/edit_profile.md
+      - Change Profile Visibility: profile/change_profile_visibility.md
+      - Linking your GitHub/ORCID account: profile/link_external_accounts.md
+      - Manage Notification Preferences: profile/manage_notification_preferences.md

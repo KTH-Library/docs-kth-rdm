@@ -27,4 +27,4 @@ The avatar (the round logo next to your name) is currently automatically generat
 
 ### Manage who can see my profile
 
-Please refer to change profile visibility.
+Please refer to [change profile visibility](change_profile_visibility.md).

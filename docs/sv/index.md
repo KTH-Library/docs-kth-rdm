@@ -9,6 +9,7 @@
     - [Skapa ett konto](get_started/create_account.md)
     - [Logga in och logga ut](get_started/login_logout.md)
     - [Navigera i KTH Data Repository](get_started/navigating_site.md)
+    - [Sökning på metadatafält](get_started/metadata_field_searches.md)
 
 - ## Deponering
 
@@ -45,9 +46,9 @@
 - ## Profil
 
     - [Redigera profil](profile/edit_profile.md)
-    - [Ändra profilens synlighet (WIP)](#)
-    - [Länka ditt GitHub/ORCID-konto (WIP)](#)
-    - [Hantera notisinställningar (WIP)](#)
+    - [Ändra profilens synlighet](profile/change_profile_visibility.md)
+    - [Länka ditt GitHub/ORCID-konto](profile/link_external_accounts.md)
+    - [Hantera aviseringsinställningar](profile/manage_notification_preferences.md)
     - [Visa inloggade enheter](get_started/viewing-devices.md)
 
 - ## Om

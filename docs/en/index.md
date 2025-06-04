@@ -9,6 +9,7 @@
     - [Create an account](get_started/create_account.md)
     - [Logging in and logging out](get_started/login_logout.md)
     - [Navigating KTH Data repository](get_started/navigating_site.md)
+    - [Metadata field searches](get_started/metadata_field_searches.md)
 
 - ## Deposit
 
@@ -45,9 +46,9 @@
 - ## Profile
 
     - [Edit profile](profile/edit_profile.md)
-    - [Change profile visibility (WIP)](#)
-    - [Linking your GitHub/ORCID account (WIP)](#)
-    - [Manage notification preferences (WIP)](#)
+    - [Change profile visibility](profile/change_profile_visibility.md)
+    - [Linking your GitHub/ORCID account](profile/link_external_accounts.md)
+    - [Manage notification preferences](profile/manage_notification_preferences.md)
     - [View logged in devices](get_started/viewing-devices.md)
 
 - ## About
