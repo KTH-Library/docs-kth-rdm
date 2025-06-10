@@ -52,7 +52,7 @@ extra:
   generator: false
   social:
     - icon: simple/github
-      link: https://github.com/kth
+      link: https://github.com/KTH-Library/docs-kth-rdm
 validation:
 # https://www.mkdocs.org/user-guide/configuration/#validation
   omitted_files: warn
