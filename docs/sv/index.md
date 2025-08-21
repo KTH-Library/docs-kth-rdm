@@ -38,7 +38,7 @@
 - ## Communities
 
     - [Om communities](communities/about_communities.md)
-    - [Community manager-ansvar](communities/community_manager_responsibilities.md)
+    - [Community owner-ansvar](communities/community_owner_responsibilities.md)
     - [Ansök om en ny community](communities/apply_new_community.md)
     - [Granska inskick](communities/review_submissions.md)
     - [Kuratera poster](communities/curate_records.md)

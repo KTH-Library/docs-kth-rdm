@@ -38,7 +38,7 @@
 - ## Communities
 
     - [About communities](communities/about_communities.md)
-    - [Community manager responsibilities](communities/community_manager_responsibilities.md)
+    - [Community owner responsibilities](communities/community_owner_responsibilities.md)
     - [Apply for a new community](communities/apply_new_community.md)
     - [Review submissions](communities/review_submissions.md)
     - [Curate records](communities/curate_records.md)
