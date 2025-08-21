@@ -109,7 +109,7 @@ plugins:
             - Communities:
                 - Om Communities: communities/about_communities.md
                 - Ansök om nytt Community: communities/apply_new_community.md
-                - Community manager-ansvar: communities/community_manager_responsibilities.md
+                - Community owner-ansvar: communities/community_owner_responsibilities.md
                 - Granska inlämning: communities/review_submissions.md
                 - Granska poster: communities/curate_records.md
             - Samarbeta och dela:
@@ -154,7 +154,7 @@ nav:
   - Communities:
       - About Communities: communities/about_communities.md
       - Apply for New Community: communities/apply_new_community.md
-      - Community Manager Responsibilities: communities/community_manager_responsibilities.md
+      - Community Owner Responsibilities: communities/community_owner_responsibilities.md
       - Review Submissions: communities/review_submissions.md
       - Curate Records: communities/curate_records.md
   - Collaborate and share:
