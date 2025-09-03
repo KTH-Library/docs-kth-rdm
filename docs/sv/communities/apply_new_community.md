@@ -2,7 +2,7 @@
 
 I KTH Data Repository är en community ett kurerat utrymme där användare kan samla, organisera och hantera relaterade poster under ett gemensamt ämne, evenemang, projekt eller organisation. Communities ger ett strukturerat sätt att organisera samlingar av poster, underlätta samarbete och främja upptäckbarhet genom att gruppera liknande innehåll tillsammans. De kan också kontrollera åtkomst och synlighet för att anpassa sig till behoven hos specifika användargrupper eller sekretesskrav. I den här guiden beskrivs stegen för att ansöka om en ny community.
 
-För att få en community är det första steget att bekanta dig med [ansvarsområdena för community managers](./community_manager_responsibilities.md). Därefter kontaktar du [researchdata@kth.se](mailto:researchdata@kth.se) med en skriftlig förfrågan om en community.
+För att få en community är det första steget att bekanta dig med [ansvarsområdena för community managers](./community_owner_responsibilities.md). Därefter kontaktar du [researchdata@kth.se](mailto:researchdata@kth.se) med en skriftlig förfrågan om en community.
 
 Det finns fyra huvudtyper av communities: evenemang, ämne, organisation och projekt. I regel bör den person som ansvarar för evenemanget, projektet eller organisationen vara communityägaren. Om du vill bli ägare till en community ska du skicka en förfrågan till [researchdata@kth.se](mailto:researchdata@kth.se) och ange följande information i e-postmeddelandet:
 
