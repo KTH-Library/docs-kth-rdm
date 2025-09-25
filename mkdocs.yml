@@ -151,6 +151,7 @@ nav:
       - Share Record Access: deposit/share_record_access.md
       - Github Integration: deposit/github_integration.md
       - REST API: deposit/rest_api.md
+      - Get a DOI: depoit/get_a_doi.md
   - Communities:
       - About Communities: communities/about_communities.md
       - Apply for New Community: communities/apply_new_community.md

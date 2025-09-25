@@ -23,6 +23,7 @@
     - [Manage versions](deposit/manage_versions.md)
     - [Github integration](deposit/github_integration.md)
     - [REST API](deposit/rest_api.md)
+    - [Get a DOI](deposit/get_a_doi.md)
 
 - ## Collaborate and share
 
