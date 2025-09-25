@@ -106,6 +106,7 @@ plugins:
                 - Dela poståtkomst: deposit/share_record_access.md
                 - Github Integration: deposit/github_integration.md
                 - REST API: deposit/rest_api.md
+                - Få en DOI till ditt data: deposit/get_a_doi.md
             - Communities:
                 - Om Communities: communities/about_communities.md
                 - Ansök om nytt Community: communities/apply_new_community.md
