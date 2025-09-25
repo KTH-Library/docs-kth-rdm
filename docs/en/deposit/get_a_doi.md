@@ -7,7 +7,7 @@ If your data already have a DOI (typically because you have already submitted it
 ## How to get a DOI
 When you describe your data in KTH Data Repository, you get to choose if you already have a DOI, or if you want a DOI. 
 
-![assets/images/doi-yes.png]
+![Choose yes or no for DOI](assets/images/doi-yes.png)
 
 If you need a DOI, mark that you don't have a DOI. You will now get the option to generate a DOI. The DOI will be pre-registered as soon as you click this option. When you publish your dataset, this becomes a valid DOI.
 
