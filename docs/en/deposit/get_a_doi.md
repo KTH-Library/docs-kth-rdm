@@ -18,7 +18,7 @@ If you need a DOI, mark that you don't have a DOI. You will now get the option t
 
 ## How to pre-register a DOI
 
-To pre-register a DOI, you click "Get a DOI now!" as above, but don't make your dataset public. The DOI is valid, and you can use it e. g. when submitting an article. However, if the dataset isn't yet published, you may also need to add a secret link for reviewer access to the data. If there is no separate field to add this information, just explain in your cover letter that the DOI is pre-registered, and add the link that reviewers should use. 
+To pre-register a DOI, you click "Get a DOI now!" as above, but don't make your dataset public. The DOI is valid, and you can use it e. g. when submitting an article. However, if the dataset isn't yet published, you have the option need to add a secret link for reviewer access to the data. If there is no separate field to add this information, just explain in your cover letter that the DOI is pre-registered, and add the link that reviewers should use. 
 
 To generate a link for reviewer access to the data before you publish the (meta)data, you can [create a secret link as described here](share_record_access.md)
 
