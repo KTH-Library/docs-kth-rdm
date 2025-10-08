@@ -55,10 +55,10 @@
 
     - [Terms of use](terms.md)
     - [Cookie policy](cookie-policy.md)
-    - [Contact us](https://www.kth.se/om/fakta)
+    - [About us](https://www.kth.se/om/fakta)
 
 </div>
 
 ---
 
-Couldn't find the answer to your question? [Contact us](https://www.kth.se/om/fakta).
+Couldn't find the answer to your question? [Contact us](mailto:researchdata@kth.se).
