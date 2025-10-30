@@ -45,21 +45,19 @@ When you push changes to the main branch, GitHub Actions will build and deploy t
 
 ## Local Development
 
-To manually build and serve the documentation locally:
-Make sure you have uv installed on your machine. If you don't have it installed, 
-follow the instructions in the [uv installation](https://docs.astral.sh/uv/getting-started/installation/).
+To manually build and serve the documentation locally, install [uv](https://docs.astral.sh/uv/getting-started/installation/), then run:
+
+```console
+  uv sync
+  uv run mkdocs serve
+  http://127.0.0.1:8000/
+```
+
+Alternatively, you can use the Makefile:
 
 ```bash
 make install
-
 make serve
-```
-
-If you prefer to use `mkdocs` directly, create a venv and install the required packages:
-
-```bash
-pip install -r requirement.txt
-mkdocs serve
 ```
 
 Whenever you make changes, commit them to the main branch. GitHub Actions will automatically build and deploy the changes to GitHub Pages.
