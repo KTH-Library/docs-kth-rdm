@@ -4,7 +4,6 @@ Want to test KTH Data Repository? Use our [sandbox environment](https://sandbox.
 
 KTH Data Repository enables you to share and preserve your digital research objects (publications, data, software, presentations, etc.) in three simple steps:
 
-
 ## Step 1: Upload
 
 Upload the files you want to share.
@@ -17,9 +16,10 @@ Upload the files you want to share.
         </figure>
 3. Upload one or more files by clicking the **Upload files** button to select files from your computer. Note that you will not be able to add, remove or modify files once published.
         <figure markdown="span">
-            ![Upload section](assets/images/get_started_upload_section.jpg){ loading=lazy }
+            ![Upload section](assets/images/get_started_upload_section.png){ loading=lazy }
         <figcaption>Upload section</figcaption>
         </figure>
+
 ## Step 2: Describe
 
 Describe the files with metadata such as title and creators.
@@ -50,4 +50,3 @@ Describe the files with metadata such as title and creators.
     Once you publish, we will automatically assign a Digital Object Identifier (DOI) to your record.
 
     You will not be able to add, modify or remove files from the record once published
-

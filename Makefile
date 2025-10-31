@@ -4,4 +4,4 @@ install:
 	uv sync
 
 serve:
-	uv run mkdocs serve
+	uv run mkdocs serve --livereload

@@ -16,7 +16,7 @@ Ladda upp de filer du vill dela.
         </figure>
 3. Ladda upp en eller flera filer genom att klicka på **Ladda upp filer**-knappen för att välja filer från din dator. Observera att du inte kommer att kunna lägga till, ta bort eller ändra filer när de har publicerats.
         <figure markdown="span">
-            ![Uppladdningssektion](assets/images/get_started_upload_section.jpg){ loading=lazy }
+            ![Uppladdningssektion](assets/images/get_started_upload_section.png){ loading=lazy }
         <figcaption>Uppladdningssektion</figcaption>
         </figure>
 
