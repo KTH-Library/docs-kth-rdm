@@ -16,6 +16,8 @@ Each person always logs in to KTH Data Repository using their personal account. 
 | **Can invite members** | ❌ | ❌ | ✅ | ✅ |
 | **Can manage members** | ❌ | ❌ | ✅ | ✅ |
 | **Can modify community settings** | ❌ | ❌ | ❌ | ✅ |
-| **Can delete community** | ❌ | ❌ | ❌ | ✅ |
+| **Can delete community** | ❌ | ❌ | ❌ | ❌ |
+
+If a community manager needs to delete a community or change the identifier, [Contact us](mailto:researchdata@kth.se).
 
 Any user on KTH Data Repository can submit records for inclusion in a community. The community curators are responsible for curating the records and ultimately accepting or declining the record into the community.

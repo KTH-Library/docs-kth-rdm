@@ -16,6 +16,8 @@ Varje person loggar alltid in på KTH Data Repository med sitt personliga konto.
 | **Kan bjuda in medlemmar** | ❌ | ❌ | ✅ | ✅ |
 | **Kan hantera medlemmar** | ❌ | ❌ | ✅ | ✅ |
 | **Kan ändra community-inställningar** | ❌ | ❌ | ❌ | ✅ |
-| **Kan radera community** | ❌ | ❌ | ❌ | ✅ |
+| **Kan radera community** | ❌ | ❌ | ❌ | ❌ |
+
+Om en community-manager behöver radera en community eller ändra identifieraren, [kontakta oss](mailto:researchdata@kth.se).
 
 Alla användare på KTH Data Repository kan skicka in poster för inkludering i en community. Communityns kuratorer ansvarar för att kurera posterna och slutligen acceptera eller avvisa dem i communityn.
