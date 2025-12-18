@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.datarepository.kth.se/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/cookie-policy/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/cookie-policy/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/cookie-policy/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/faq/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/faq/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/faq/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/terms/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/terms/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/terms/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/communities/about_communities/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/about_communities/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/about_communities/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/communities/apply_new_community/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/apply_new_community/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/apply_new_community/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/communities/community_owner_responsibilities/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/community_owner_responsibilities/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/community_owner_responsibilities/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/communities/curate_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/curate_records/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/curate_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/communities/review_submissions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/review_submissions/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/review_submissions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/about_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/about_records/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/about_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/create_new_upload/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/create_new_upload/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/create_new_upload/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/describe_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/describe_records/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/describe_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/github_integration/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/github_integration/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/github_integration/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/manage_files/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_files/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_files/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/manage_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_records/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/manage_versions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_versions/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_versions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/rest_api/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/rest_api/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/rest_api/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/restrict_record_access/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/restrict_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/restrict_record_access/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/deposit/share_record_access/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/share_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/share_record_access/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/create_account/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/login_logout/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/metadata_field_searches/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/metadata_field_searches/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/metadata_field_searches/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/navigating_site/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/quick_start/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/get_started/viewing-devices/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/viewing-devices/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/profile/change_profile_visibility/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/change_profile_visibility/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/change_profile_visibility/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/profile/edit_profile/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/edit_profile/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/edit_profile/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/profile/link_external_accounts/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/link_external_accounts/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/link_external_accounts/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/profile/manage_notification_preferences/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/manage_notification_preferences/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/manage_notification_preferences/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/about_share/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/about_share/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/about_share/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/access_requests/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/access_requests/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/access_requests/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/link_sharing/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/link_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/link_sharing/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/manage_submissions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/manage_submissions/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/manage_submissions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/membership_invitations/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/membership_invitations/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/membership_invitations/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/submit_for_review/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/submit_for_review/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/submit_for_review/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/submit_to_community/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/submit_to_community/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/submit_to_community/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/share/user_sharing/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/user_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/user_sharing/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/cookie-policy/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/cookie-policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/cookie-policy/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/faq/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/faq/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/terms/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/terms/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/communities/about_communities/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/about_communities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/about_communities/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/communities/apply_new_community/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/apply_new_community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/apply_new_community/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/communities/community_owner_responsibilities/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/community_owner_responsibilities/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/community_owner_responsibilities/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/communities/curate_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/curate_records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/curate_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/communities/review_submissions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/communities/review_submissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/communities/review_submissions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/about_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/about_records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/about_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/create_new_upload/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/create_new_upload/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/create_new_upload/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/describe_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/describe_records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/describe_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/github_integration/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/github_integration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/github_integration/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/manage_files/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_files/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_files/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/manage_records/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_records/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_records/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/manage_versions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/manage_versions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/manage_versions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/rest_api/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/rest_api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/rest_api/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/restrict_record_access/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/restrict_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/restrict_record_access/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/deposit/share_record_access/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/deposit/share_record_access/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/deposit/share_record_access/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/create_account/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/create_account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/create_account/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/login_logout/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/login_logout/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/login_logout/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/metadata_field_searches/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/metadata_field_searches/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/metadata_field_searches/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/navigating_site/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/navigating_site/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/navigating_site/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/quick_start/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/quick_start/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/get_started/viewing-devices/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/get_started/viewing-devices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/get_started/viewing-devices/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/profile/change_profile_visibility/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/change_profile_visibility/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/change_profile_visibility/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/profile/edit_profile/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/edit_profile/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/edit_profile/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/profile/link_external_accounts/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/link_external_accounts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/link_external_accounts/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/profile/manage_notification_preferences/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/profile/manage_notification_preferences/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/profile/manage_notification_preferences/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/about_share/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/about_share/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/about_share/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/access_requests/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/access_requests/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/access_requests/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/link_sharing/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/link_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/link_sharing/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/manage_submissions/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/manage_submissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/manage_submissions/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/membership_invitations/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/membership_invitations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/membership_invitations/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/submit_for_review/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/submit_for_review/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/submit_for_review/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/submit_to_community/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/submit_to_community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/submit_to_community/"/>
+    </url>
+    <url>
+        <loc>https://docs.datarepository.kth.se/sv/share/user_sharing/</loc>
+        <lastmod>2025-12-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://docs.datarepository.kth.se/sv/share/user_sharing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.datarepository.kth.se/share/user_sharing/"/>
+    </url>
+</urlset>
