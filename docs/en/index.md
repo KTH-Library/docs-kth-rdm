@@ -51,6 +51,10 @@
     - [Manage notification preferences](profile/manage_notification_preferences.md)
     - [View logged in devices](get_started/viewing-devices.md)
 
+- ## FAQ
+
+    - [Frequent questions](faq.md)
+
 - ## About
 
     - [Terms of use](terms.md)

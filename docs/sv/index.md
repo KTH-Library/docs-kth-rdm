@@ -51,6 +51,10 @@
     - [Hantera aviseringsinställningar](profile/manage_notification_preferences.md)
     - [Visa inloggade enheter](get_started/viewing-devices.md)
 
+- ## Vanliga frågor
+
+    - [Mest ställda frågor](faq.md)
+
 - ## Om
 
     - [Användarvillkor](terms.md)

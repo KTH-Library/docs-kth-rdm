@@ -121,6 +121,7 @@ plugins:
                 - Skicka till Community: share/submit_to_community.md
                 - Hantera dina inlämningar: share/manage_submissions.md
                 - Medlemsinbjudningar: share/membership_invitations.md
+            - Vanliga frågor: faq.md
             - Om:
                 - Villkor för användning: terms.md
                 - Cookies Policy: cookie-policy.md
@@ -166,6 +167,7 @@ nav:
       - Submit to Community: share/submit_to_community.md
       - Manage Submissions: share/manage_submissions.md
       - Membership Invitation: share/membership_invitations.md
+  - FAQ: faq.md
   - About:
       - Terms of Use: terms.md
       - Cookies Policy: cookie-policy.md
