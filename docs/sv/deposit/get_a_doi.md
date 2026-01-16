@@ -21,7 +21,7 @@ Om du behöver en DOI, markera att du inte redan har en. Du får då upp en möj
 
 ## Hur du förhandsregistrerar en DOI
 
-För att förhandsregistrera en DOI, klicka på "Get a DOI now!" enligt bilden ovan, men gör inte ditt dataset publikt. DOI-länken gäller, och du kan till exempel använda när du skickar en artikel till en tidskrift för granskning. Kom bara ihåg att om datasetet inte är publicerat än så kan du behöva skick a med en hemlig länk för att tidskriftens granskare ska kunna komma åt data. Om det inte finns ett separat fält för att lägga till den informationen kan du förklara att DOI:en är förhandsregistrerad och lägga till granskningslänken i det brev du skickar med.
+För att förhandsregistrera en DOI, klicka på "Get a DOI now!" enligt bilden ovan, men gör inte ditt dataset publikt. DOI-länken gäller, och du kan till exempel använda när du skickar en artikel till en tidskrift för granskning. Kom bara ihåg att om datasetet inte är publicerat än så kan du skicka med en hemlig länk för att tidskriftens granskare ska kunna komma åt data. Om det inte finns ett separat fält för att lägga till den informationen kan du förklara att DOI:en är förhandsregistrerad och lägga till granskningslänken i det brev du skickar med.
 
 För att skapa en länk som kan användas av granskare innan du publicerar (meta)data kan du [skapa en hemlig länk enligt denna instruktion](share_record_access.md)
 
