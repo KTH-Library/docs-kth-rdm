@@ -23,6 +23,7 @@
     - [Hantera versioner](deposit/manage_versions.md)
     - [Github-integration](deposit/github_integration.md)
     - [REST API](deposit/rest_api.md)
+    - [Få en DOI till ditt data](deposit/get_a_doi.md)
 
 - ## Samarbeta och dela
 

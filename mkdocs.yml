@@ -100,6 +100,7 @@ plugins:
                 - Skapa ny uppladdning: deposit/create_new_upload.md
                 - Begränsade poster: deposit/restrict_record_access.md
                 - Beskriv poster: deposit/describe_records.md
+                - Få en DOI till ditt data: deposit/get_a_doi.md
                 - Hantera filer: deposit/manage_files.md
                 - Hantera poster: deposit/manage_records.md
                 - Hantera versioner: deposit/manage_versions.md
@@ -146,6 +147,7 @@ nav:
       - Create New Upload: deposit/create_new_upload.md
       - Restricted Records: deposit/restrict_record_access.md
       - Describe Records: deposit/describe_records.md
+      - Get a DOI: deposit/get_a_doi.md
       - Manage Files: deposit/manage_files.md
       - Manage Records: deposit/manage_records.md
       - Manage Versions: deposit/manage_versions.md
