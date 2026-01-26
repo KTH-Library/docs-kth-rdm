@@ -12,12 +12,10 @@ När du beskriver ett dataset i KTH Data Repository har du möjlighet att välja
 
 Om du behöver en DOI, markera att du inte redan har en. Du får då upp en möjlighet att generera en DOI. Denna DOI förregistreras så fort du klickar på knappen för att få en DOI. När du sedan publicerar ditt dataset blir det en aktiv DOI.
 
-
 ![Reservera en DOI genom att klicka på knappen](assets/images/doi-no-yes-en.png)
 
 *OBS! Generera INTE en DOI för ett dataset om all information om datasetet ska vara hemlig. När du genererar en DOI skickas visst metadata till DataCite. Om du vill hålla ditt metadata helt konfidentiellt, skapa inte en DOI.* Välj istället "Nej, jag behöver ingen."
 ![Välj Nej jag behöver ingen för att försäkra dig om att inget metadata skickas ut utanför systemet.](assets/images/doi-no-no-en.png)
-
 
 ## Hur du förhandsregistrerar en DOI
 
