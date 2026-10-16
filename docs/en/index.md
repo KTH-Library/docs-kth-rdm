@@ -67,3 +67,5 @@
 ---
 
 Couldn't find the answer to your question? [Contact us](mailto:researchdata@kth.se).
+
+You can also ask questions and share feedback in our [GitHub Discussions](https://github.com/KTH-Library/docs-kth-rdm/discussions).
