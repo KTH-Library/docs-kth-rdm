@@ -3,11 +3,11 @@
 !!! warning "**Heads up**"
      You CANNOT modify files after your record is published. Instead, use versioning.
 
-The following sections document how to manage files for a draft and record. By default, you can upload up to 100 files with a total volume of 50GB (50,000,000,000 bytes).
+The following sections document how to manage files for a draft and record. By default, you can upload up to 100 files with a total size of 30 GB (30,000,000,000 bytes) per record.
 
 ## Prepare Files
 
-We support file uploads up to 10GB (10,000 MB) and a maximum of 100 files as default. See how to request a quota increase below.
+Each file can be up to 30 GB, within the record's total quota. See how to request a quota increase below.
 
 When preparing files for upload, consider the following:
 
@@ -69,7 +69,7 @@ A **one-month grace period** allows file modifications if errors are found. Afte
 
 ## Quota Increase
 
-If an upload exceeds the 10 GB or 100 file limit contact support to request an increase at **<researchdata@kth.se>**.
+If you need more than 30 GB per record or 100 files, contact support to request an increase at **<researchdata@kth.se>**.
 
 ## Request a Quota Increase
 

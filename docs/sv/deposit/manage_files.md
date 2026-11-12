@@ -3,11 +3,11 @@
 !!! warning "**Observera:**"
     Du kan INTE ändra filer efter att ditt post har publicerats. Använd istället versionering.
 
-Följande avsnitt beskriver hur du hanterar filer i ett utkast och post. Som standard kan du ladda upp upp till 100 filer med en total volym på 10GB (10 000 000 000 byte).
+Följande avsnitt beskriver hur du hanterar filer i ett utkast och en post. Som standard kan du ladda upp upp till 100 filer med en total storlek på 30 GB (30 000 000 000 byte) per post.
 
 ## Förbereda filer
 
-Vi stöder filuppladdningar upp till 10GB (10 000 MB) och maximalt 100 filer. Se hur du kan efterfråga en ökning av lagringskvoten nedan.
+Varje fil kan vara upp till 30 GB, inom postens totala lagringskvot. Se hur du kan begära en ökning av lagringskvoten nedan.
 
 När du förbereder filer för uppladdning, tänk på följande:
 
@@ -70,7 +70,7 @@ Under en **en-månads period** tillåts ändringar om misstag upptäcks. Efter d
 
 ## Kvotökning
 
-Om din post är större än 10 GB eller 100 filer kontakta supporten för att fråga om ökning av lagringskvoten på: **<researchdata@kth.se>**.
+Om du behöver mer än 30 GB per post eller 100 filer, kontakta supporten för att begära en ökning på **<researchdata@kth.se>**.
 
 ## Begär en kvotökning
 

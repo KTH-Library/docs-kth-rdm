@@ -16,7 +16,7 @@ KTH Data Repository kan exportera metadata enligt många olika standarder.
 
 ## Filer
 
-KTH Data Repository stöder uppladdning av filer i valfri storlek och format. Du bör dock överväga att ladda upp filer i ett bevarandevänligt format, eftersom vi endast garanterar bitnivåbevarande — t.ex. kan proprietära filformat inte vara läsbara om 10 eller 50 år.
+KTH Data Repository stöder uppladdning av filer i valfritt format, inom [uppladdningsgränserna](./manage_files.md). Du bör dock överväga att ladda upp filer i ett bevarandevänligt format, eftersom vi endast garanterar bitnivåbevarande — t.ex. kan proprietära filformat inte vara läsbara om 10 eller 50 år.
 
 För ytterligare vägledning om bevarandevänliga format, se följande resurser:
 
