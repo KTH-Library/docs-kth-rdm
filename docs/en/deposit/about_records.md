@@ -16,7 +16,7 @@ The KTH Datarepository is able to export the metadata according to many differen
 
 ## Files
 
-The KTH Datarepository supports uploading files of any size and format. However, you should consider uploading files in a preservation-friendly format, as we only guarantee bit-level preservation—e.g., proprietary file formats may not be readable in 10 or 50 years.
+The KTH Datarepository supports uploading files in any format, within the [upload limits](./manage_files.md). However, you should consider uploading files in a preservation-friendly format, as we only guarantee bit-level preservation—e.g., proprietary file formats may not be readable in 10 or 50 years.
 
 For further guidance on preservation-friendly formats, please see the following resources:
 
